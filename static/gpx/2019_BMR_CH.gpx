@@ -1,0 +1,1824 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="19.719650999999999" minlon="-159.353661999999986" maxlat="61.213177000000002" maxlon="-67.839722999999992"/></metadata>               
+<wpt lat="34.152064" lon="-85.679098">
+  <name>CH001</name>
+  <extensions>
+    <ogr:Lat>34.152064</ogr:Lat>
+    <ogr:Long>-85.679098</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.274293" lon="-85.836034">
+  <name>CH002</name>
+  <extensions>
+    <ogr:Lat>33.274293</ogr:Lat>
+    <ogr:Long>-85.836034</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.106698" lon="-87.071525">
+  <name>CH003</name>
+  <extensions>
+    <ogr:Lat>31.106698</ogr:Lat>
+    <ogr:Long>-87.071525</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.6851" lon="-87.830998">
+  <name>CH004</name>
+  <extensions>
+    <ogr:Lat>33.6851</ogr:Lat>
+    <ogr:Long>-87.830998</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.040417" lon="-85.866127">
+  <name>CH005</name>
+  <extensions>
+    <ogr:Lat>31.040417</ogr:Lat>
+    <ogr:Long>-85.866127</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.502597" lon="-109.365414">
+  <name>CH006</name>
+  <extensions>
+    <ogr:Lat>34.502597</ogr:Lat>
+    <ogr:Long>-109.365414</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.442624" lon="-109.920858">
+  <name>CH007</name>
+  <extensions>
+    <ogr:Lat>31.442624</ogr:Lat>
+    <ogr:Long>-109.920858</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.046116" lon="-109.291341">
+  <name>CH008</name>
+  <extensions>
+    <ogr:Lat>33.046116</ogr:Lat>
+    <ogr:Long>-109.291341</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.191757" lon="-114.052677">
+  <name>CH009</name>
+  <extensions>
+    <ogr:Lat>35.191757</ogr:Lat>
+    <ogr:Long>-114.052677</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.032392" lon="-111.386197">
+  <name>CH010</name>
+  <extensions>
+    <ogr:Lat>33.032392</ogr:Lat>
+    <ogr:Long>-111.386197</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.540921" lon="-112.470028">
+  <name>CH011</name>
+  <extensions>
+    <ogr:Lat>34.540921</ogr:Lat>
+    <ogr:Long>-112.470028</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.723835" lon="-114.622129">
+  <name>CH012</name>
+  <extensions>
+    <ogr:Lat>32.723835</ogr:Lat>
+    <ogr:Long>-114.622129</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.537979" lon="-92.472239">
+  <name>CH013</name>
+  <extensions>
+    <ogr:Lat>33.537979</ogr:Lat>
+    <ogr:Long>-92.472239</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.557337" lon="-93.632813">
+  <name>CH014</name>
+  <extensions>
+    <ogr:Lat>34.557337</ogr:Lat>
+    <ogr:Long>-93.632813</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.007865" lon="-93.186818">
+  <name>CH015</name>
+  <extensions>
+    <ogr:Lat>36.007865</ogr:Lat>
+    <ogr:Long>-93.186818</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.528882" lon="-90.586148">
+  <name>CH016</name>
+  <extensions>
+    <ogr:Lat>34.528882</ogr:Lat>
+    <ogr:Long>-90.586148</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.261169" lon="-90.970314">
+  <name>CH017</name>
+  <extensions>
+    <ogr:Lat>36.261169</ogr:Lat>
+    <ogr:Long>-90.970314</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.792734" lon="-115.563456">
+  <name>CH018</name>
+  <extensions>
+    <ogr:Lat>32.792734</ogr:Lat>
+    <ogr:Long>-115.563456</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.803413" lon="-118.200103">
+  <name>CH019</name>
+  <extensions>
+    <ogr:Lat>36.803413</ogr:Lat>
+    <ogr:Long>-118.200103</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.043592" lon="-122.916122">
+  <name>CH020</name>
+  <extensions>
+    <ogr:Lat>39.043592</ogr:Lat>
+    <ogr:Long>-122.916122</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.488812" lon="-119.967545">
+  <name>CH021</name>
+  <extensions>
+    <ogr:Lat>37.488812</ogr:Lat>
+    <ogr:Long>-119.967545</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.483164" lon="-120.54137">
+  <name>CH022</name>
+  <extensions>
+    <ogr:Lat>41.483164</ogr:Lat>
+    <ogr:Long>-120.54137</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.255943" lon="-119.228262">
+  <name>CH023</name>
+  <extensions>
+    <ogr:Lat>38.255943</ogr:Lat>
+    <ogr:Long>-119.228262</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.297904" lon="-122.285189">
+  <name>CH024</name>
+  <extensions>
+    <ogr:Lat>38.297904</ogr:Lat>
+    <ogr:Long>-122.285189</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.749788" lon="-117.869087">
+  <name>CH025</name>
+  <extensions>
+    <ogr:Lat>33.749788</ogr:Lat>
+    <ogr:Long>-117.869087</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.896566" lon="-121.07658">
+  <name>CH026</name>
+  <extensions>
+    <ogr:Lat>38.896566</ogr:Lat>
+    <ogr:Long>-121.07658</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.282268" lon="-120.661718">
+  <name>CH027</name>
+  <extensions>
+    <ogr:Lat>35.282268</ogr:Lat>
+    <ogr:Long>-120.661718</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.98528" lon="-120.384574">
+  <name>CH028</name>
+  <extensions>
+    <ogr:Lat>37.98528</ogr:Lat>
+    <ogr:Long>-120.384574</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.734181" lon="-122.940862">
+  <name>CH029</name>
+  <extensions>
+    <ogr:Lat>40.734181</ogr:Lat>
+    <ogr:Long>-122.940862</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.406653" lon="-102.616616">
+  <name>CH030</name>
+  <extensions>
+    <ogr:Lat>37.406653</ogr:Lat>
+    <ogr:Long>-102.616616</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.221673" lon="-103.756254">
+  <name>CH031</name>
+  <extensions>
+    <ogr:Lat>38.221673</ogr:Lat>
+    <ogr:Long>-103.756254</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.029164" lon="-107.315025">
+  <name>CH032</name>
+  <extensions>
+    <ogr:Lat>38.029164</ogr:Lat>
+    <ogr:Long>-107.315025</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.624974" lon="-104.781626">
+  <name>CH033</name>
+  <extensions>
+    <ogr:Lat>37.624974</ogr:Lat>
+    <ogr:Long>-104.781626</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.274574" lon="-107.878846">
+  <name>CH034</name>
+  <extensions>
+    <ogr:Lat>37.274574</ogr:Lat>
+    <ogr:Long>-107.878846</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.24951" lon="-103.802894">
+  <name>CH035</name>
+  <extensions>
+    <ogr:Lat>40.24951</ogr:Lat>
+    <ogr:Long>-103.802894</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.190387" lon="-106.817687">
+  <name>CH036</name>
+  <extensions>
+    <ogr:Lat>39.190387</ogr:Lat>
+    <ogr:Long>-106.817687</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.037401" lon="-107.913161">
+  <name>CH037</name>
+  <extensions>
+    <ogr:Lat>40.037401</ogr:Lat>
+    <ogr:Long>-107.913161</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.746755" lon="-73.189994">
+  <name>CH038</name>
+  <extensions>
+    <ogr:Lat>41.746755</ogr:Lat>
+    <ogr:Long>-73.189994</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.690104" lon="-75.385439">
+  <name>CH039</name>
+  <extensions>
+    <ogr:Lat>38.690104</ogr:Lat>
+    <ogr:Long>-75.385439</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="28.610018" lon="-80.809155">
+  <name>CH040</name>
+  <extensions>
+    <ogr:Lat>28.610018</ogr:Lat>
+    <ogr:Long>-80.809155</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.443257" lon="-85.043157">
+  <name>CH041</name>
+  <extensions>
+    <ogr:Lat>30.443257</ogr:Lat>
+    <ogr:Long>-85.043157</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="26.761705" lon="-81.43776">
+  <name>CH042</name>
+  <extensions>
+    <ogr:Lat>26.761705</ogr:Lat>
+    <ogr:Long>-81.43776</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.445992" lon="-82.635973">
+  <name>CH043</name>
+  <extensions>
+    <ogr:Lat>29.445992</ogr:Lat>
+    <ogr:Long>-82.635973</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.671019" lon="-81.461529">
+  <name>CH044</name>
+  <extensions>
+    <ogr:Lat>30.671019</ogr:Lat>
+    <ogr:Long>-81.461529</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.313946" lon="-84.335275">
+  <name>CH045</name>
+  <extensions>
+    <ogr:Lat>31.313946</ogr:Lat>
+    <ogr:Long>-84.335275</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.480322" lon="-85.348132">
+  <name>CH046</name>
+  <extensions>
+    <ogr:Lat>34.480322</ogr:Lat>
+    <ogr:Long>-85.348132</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.161297" lon="-81.907604">
+  <name>CH047</name>
+  <extensions>
+    <ogr:Lat>32.161297</ogr:Lat>
+    <ogr:Long>-81.907604</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.677231" lon="-84.540176">
+  <name>CH048</name>
+  <extensions>
+    <ogr:Lat>32.677231</ogr:Lat>
+    <ogr:Long>-84.540176</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.737901" lon="-82.739133">
+  <name>CH049</name>
+  <extensions>
+    <ogr:Lat>33.737901</ogr:Lat>
+    <ogr:Long>-82.739133</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="21.305866" lon="-157.859436">
+  <name>CH050</name>
+  <extensions>
+    <ogr:Lat>21.305866</ogr:Lat>
+    <ogr:Long>-157.859436</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="20.885762" lon="-156.504571">
+  <name>CH051</name>
+  <extensions>
+    <ogr:Lat>20.885762</ogr:Lat>
+    <ogr:Long>-156.504571</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="19.725496" lon="-155.088803">
+  <name>CH052</name>
+  <extensions>
+    <ogr:Lat>19.725496</ogr:Lat>
+    <ogr:Long>-155.088803</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="21.976476" lon="-159.353662">
+  <name>CH053</name>
+  <extensions>
+    <ogr:Lat>21.976476</ogr:Lat>
+    <ogr:Long>-159.353662</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.226958" lon="-111.400889">
+  <name>CH054</name>
+  <extensions>
+    <ogr:Lat>42.226958</ogr:Lat>
+    <ogr:Long>-111.400889</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.519036" lon="-114.313343">
+  <name>CH055</name>
+  <extensions>
+    <ogr:Lat>43.519036</ogr:Lat>
+    <ogr:Long>-114.313343</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.696026" lon="-116.3139">
+  <name>CH056</name>
+  <extensions>
+    <ogr:Lat>48.696026</ogr:Lat>
+    <ogr:Long>-116.3139</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.635118" lon="-113.302374">
+  <name>CH057</name>
+  <extensions>
+    <ogr:Lat>43.635118</ogr:Lat>
+    <ogr:Long>-113.302374</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.505201" lon="-114.230842">
+  <name>CH058</name>
+  <extensions>
+    <ogr:Lat>44.505201</ogr:Lat>
+    <ogr:Long>-114.230842</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.967424" lon="-111.68459">
+  <name>CH059</name>
+  <extensions>
+    <ogr:Lat>43.967424</ogr:Lat>
+    <ogr:Long>-111.68459</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.471576" lon="-115.922069">
+  <name>CH060</name>
+  <extensions>
+    <ogr:Lat>47.471576</ogr:Lat>
+    <ogr:Long>-115.922069</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.005763" lon="-87.739394">
+  <name>CH061</name>
+  <extensions>
+    <ogr:Lat>39.005763</ogr:Lat>
+    <ogr:Long>-87.739394</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.446995" lon="-88.304916">
+  <name>CH062</name>
+  <extensions>
+    <ogr:Lat>37.446995</ogr:Lat>
+    <ogr:Long>-88.304916</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.418232" lon="-90.425516">
+  <name>CH063</name>
+  <extensions>
+    <ogr:Lat>42.418232</ogr:Lat>
+    <ogr:Long>-90.425516</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.458763" lon="-90.671509">
+  <name>CH064</name>
+  <extensions>
+    <ogr:Lat>40.458763</ogr:Lat>
+    <ogr:Long>-90.671509</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.628565" lon="-90.455259">
+  <name>CH065</name>
+  <extensions>
+    <ogr:Lat>39.628565</ogr:Lat>
+    <ogr:Long>-90.455259</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.451334" lon="-85.368396">
+  <name>CH066</name>
+  <extensions>
+    <ogr:Lat>40.451334</ogr:Lat>
+    <ogr:Long>-85.368396</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.950382" lon="-84.856309">
+  <name>CH067</name>
+  <extensions>
+    <ogr:Lat>38.950382</ogr:Lat>
+    <ogr:Long>-84.856309</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.931678" lon="-87.895324">
+  <name>CH068</name>
+  <extensions>
+    <ogr:Lat>37.931678</ogr:Lat>
+    <ogr:Long>-87.895324</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.298441" lon="-86.62263">
+  <name>CH069</name>
+  <extensions>
+    <ogr:Lat>41.298441</ogr:Lat>
+    <ogr:Long>-86.62263</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.141246" lon="-95.148253">
+  <name>CH070</name>
+  <extensions>
+    <ogr:Lat>43.141246</ogr:Lat>
+    <ogr:Long>-95.148253</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.855399" lon="-91.402948">
+  <name>CH071</name>
+  <extensions>
+    <ogr:Lat>42.855399</ogr:Lat>
+    <ogr:Long>-91.402948</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.747158" lon="-95.646601">
+  <name>CH072</name>
+  <extensions>
+    <ogr:Lat>40.747158</ogr:Lat>
+    <ogr:Long>-95.646601</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.33364" lon="-92.204599">
+  <name>CH073</name>
+  <extensions>
+    <ogr:Lat>41.33364</ogr:Lat>
+    <ogr:Long>-92.204599</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.657755" lon="-95.318325">
+  <name>CH074</name>
+  <extensions>
+    <ogr:Lat>41.657755</ogr:Lat>
+    <ogr:Long>-95.318325</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.370642" lon="-96.541631">
+  <name>CH075</name>
+  <extensions>
+    <ogr:Lat>38.370642</ogr:Lat>
+    <ogr:Long>-96.541631</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.128442" lon="-96.186925">
+  <name>CH076</name>
+  <extensions>
+    <ogr:Lat>37.128442</ogr:Lat>
+    <ogr:Long>-96.186925</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.77425" lon="-101.799533">
+  <name>CH077</name>
+  <extensions>
+    <ogr:Lat>39.77425</ogr:Lat>
+    <ogr:Long>-101.799533</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.785709" lon="-95.08901">
+  <name>CH078</name>
+  <extensions>
+    <ogr:Lat>39.785709</ogr:Lat>
+    <ogr:Long>-95.08901</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.530225" lon="-99.310844">
+  <name>CH079</name>
+  <extensions>
+    <ogr:Lat>38.530225</ogr:Lat>
+    <ogr:Long>-99.310844</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.571876" lon="-101.750649">
+  <name>CH080</name>
+  <extensions>
+    <ogr:Lat>37.571876</ogr:Lat>
+    <ogr:Long>-101.750649</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.789918" lon="-85.370739">
+  <name>CH081</name>
+  <extensions>
+    <ogr:Lat>36.789918</ogr:Lat>
+    <ogr:Long>-85.370739</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.667001" lon="-88.994117">
+  <name>CH082</name>
+  <extensions>
+    <ogr:Lat>36.667001</ogr:Lat>
+    <ogr:Long>-88.994117</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.335082" lon="-82.981753">
+  <name>CH083</name>
+  <extensions>
+    <ogr:Lat>37.335082</ogr:Lat>
+    <ogr:Long>-82.981753</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.531368" lon="-84.03593">
+  <name>CH084</name>
+  <extensions>
+    <ogr:Lat>38.531368</ogr:Lat>
+    <ogr:Long>-84.03593</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.798219" lon="-93.324893">
+  <name>CH085</name>
+  <extensions>
+    <ogr:Lat>29.798219</ogr:Lat>
+    <ogr:Long>-93.324893</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.791877" lon="-93.055032">
+  <name>CH086</name>
+  <extensions>
+    <ogr:Lat>32.791877</ogr:Lat>
+    <ogr:Long>-93.055032</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.693603" lon="-91.432476">
+  <name>CH087</name>
+  <extensions>
+    <ogr:Lat>30.693603</ogr:Lat>
+    <ogr:Long>-91.432476</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.914072" lon="-91.236629">
+  <name>CH088</name>
+  <extensions>
+    <ogr:Lat>31.914072</ogr:Lat>
+    <ogr:Long>-91.236629</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.12475" lon="-67.839723">
+  <name>CH089</name>
+  <extensions>
+    <ogr:Lat>46.12475</ogr:Lat>
+    <ogr:Long>-67.839723</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.183284" lon="-69.224294">
+  <name>CH090</name>
+  <extensions>
+    <ogr:Lat>45.183284</ogr:Lat>
+    <ogr:Long>-69.224294</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.911542" lon="-69.819948">
+  <name>CH091</name>
+  <extensions>
+    <ogr:Lat>43.911542</ogr:Lat>
+    <ogr:Long>-69.819948</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.978108" lon="-76.49297">
+  <name>CH092</name>
+  <extensions>
+    <ogr:Lat>38.978108</ogr:Lat>
+    <ogr:Long>-76.49297</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.886629" lon="-75.833086">
+  <name>CH093</name>
+  <extensions>
+    <ogr:Lat>38.886629</ogr:Lat>
+    <ogr:Long>-75.833086</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.701878" lon="-70.304277">
+  <name>CH094</name>
+  <extensions>
+    <ogr:Lat>41.701878</ogr:Lat>
+    <ogr:Long>-70.304277</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.523045" lon="-70.896591">
+  <name>CH095</name>
+  <extensions>
+    <ogr:Lat>42.523045</ogr:Lat>
+    <ogr:Long>-70.896591</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.068523" lon="-83.440974">
+  <name>CH096</name>
+  <extensions>
+    <ogr:Lat>45.068523</ogr:Lat>
+    <ogr:Long>-83.440974</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.648629" lon="-85.290222">
+  <name>CH097</name>
+  <extensions>
+    <ogr:Lat>42.648629</ogr:Lat>
+    <ogr:Long>-85.290222</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.413012" lon="-88.294416">
+  <name>CH098</name>
+  <extensions>
+    <ogr:Lat>47.413012</ogr:Lat>
+    <ogr:Long>-88.294416</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.899861" lon="-85.851398">
+  <name>CH099</name>
+  <extensions>
+    <ogr:Lat>43.899861</ogr:Lat>
+    <ogr:Long>-85.851398</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.866128" lon="-84.732615">
+  <name>CH100</name>
+  <extensions>
+    <ogr:Lat>45.866128</ogr:Lat>
+    <ogr:Long>-84.732615</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.107713" lon="-87.613379">
+  <name>CH101</name>
+  <extensions>
+    <ogr:Lat>45.107713</ogr:Lat>
+    <ogr:Long>-87.613379</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.491242" lon="-83.393284">
+  <name>CH102</name>
+  <extensions>
+    <ogr:Lat>43.491242</ogr:Lat>
+    <ogr:Long>-83.393284</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.304489" lon="-96.444669">
+  <name>CH103</name>
+  <extensions>
+    <ogr:Lat>45.304489</ogr:Lat>
+    <ogr:Long>-96.444669</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.632378" lon="-91.495862">
+  <name>CH104</name>
+  <extensions>
+    <ogr:Lat>43.632378</ogr:Lat>
+    <ogr:Long>-91.495862</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.601654" lon="-93.410507">
+  <name>CH105</name>
+  <extensions>
+    <ogr:Lat>48.601654</ogr:Lat>
+    <ogr:Long>-93.410507</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.021824" lon="-91.671267">
+  <name>CH106</name>
+  <extensions>
+    <ogr:Lat>47.021824</ogr:Lat>
+    <ogr:Long>-91.671267</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.298908" lon="-96.513604">
+  <name>CH107</name>
+  <extensions>
+    <ogr:Lat>47.298908</ogr:Lat>
+    <ogr:Long>-96.513604</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.775478" lon="-94.983344">
+  <name>CH108</name>
+  <extensions>
+    <ogr:Lat>44.775478</ogr:Lat>
+    <ogr:Long>-94.983344</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.972981" lon="-94.86134">
+  <name>CH109</name>
+  <extensions>
+    <ogr:Lat>45.972981</ogr:Lat>
+    <ogr:Long>-94.86134</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.158034" lon="-90.810728">
+  <name>CH110</name>
+  <extensions>
+    <ogr:Lat>31.158034</ogr:Lat>
+    <ogr:Long>-90.810728</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.896982" lon="-88.999107">
+  <name>CH111</name>
+  <extensions>
+    <ogr:Lat>33.896982</ogr:Lat>
+    <ogr:Long>-88.999107</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.923834" lon="-88.589997">
+  <name>CH112</name>
+  <extensions>
+    <ogr:Lat>30.923834</ogr:Lat>
+    <ogr:Long>-88.589997</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.176136" lon="-90.4881">
+  <name>CH113</name>
+  <extensions>
+    <ogr:Lat>33.176136</ogr:Lat>
+    <ogr:Long>-90.4881</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.645706" lon="-91.536135">
+  <name>CH114</name>
+  <extensions>
+    <ogr:Lat>37.645706</ogr:Lat>
+    <ogr:Long>-91.536135</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.11859" lon="-91.714182">
+  <name>CH115</name>
+  <extensions>
+    <ogr:Lat>40.11859</ogr:Lat>
+    <ogr:Long>-91.714182</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.397023" lon="-93.585601">
+  <name>CH116</name>
+  <extensions>
+    <ogr:Lat>40.397023</ogr:Lat>
+    <ogr:Long>-93.585601</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.636228" lon="-92.564912">
+  <name>CH117</name>
+  <extensions>
+    <ogr:Lat>38.636228</ogr:Lat>
+    <ogr:Long>-92.564912</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.587777" lon="-89.527173">
+  <name>CH118</name>
+  <extensions>
+    <ogr:Lat>36.587777</ogr:Lat>
+    <ogr:Long>-89.527173</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.83827" lon="-94.357313">
+  <name>CH119</name>
+  <extensions>
+    <ogr:Lat>37.83827</ogr:Lat>
+    <ogr:Long>-94.357313</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.215911" lon="-112.634705">
+  <name>CH120</name>
+  <extensions>
+    <ogr:Lat>45.215911</ogr:Lat>
+    <ogr:Long>-112.634705</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.188135" lon="-109.247011">
+  <name>CH121</name>
+  <extensions>
+    <ogr:Lat>45.188135</ogr:Lat>
+    <ogr:Long>-109.247011</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.507471" lon="-111.299903">
+  <name>CH122</name>
+  <extensions>
+    <ogr:Lat>47.507471</ogr:Lat>
+    <ogr:Long>-111.299903</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.407758" lon="-105.845096">
+  <name>CH123</name>
+  <extensions>
+    <ogr:Lat>46.407758</ogr:Lat>
+    <ogr:Long>-105.845096</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.190961" lon="-114.311164">
+  <name>CH124</name>
+  <extensions>
+    <ogr:Lat>48.190961</ogr:Lat>
+    <ogr:Long>-114.311164</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.550361" lon="-109.678101">
+  <name>CH125</name>
+  <extensions>
+    <ogr:Lat>48.550361</ogr:Lat>
+    <ogr:Long>-109.678101</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.153519" lon="-110.221664">
+  <name>CH126</name>
+  <extensions>
+    <ogr:Lat>47.153519</ogr:Lat>
+    <ogr:Long>-110.221664</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.416192" lon="-105.590249">
+  <name>CH127</name>
+  <extensions>
+    <ogr:Lat>47.416192</ogr:Lat>
+    <ogr:Long>-105.590249</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.244802" lon="-114.158305">
+  <name>CH128</name>
+  <extensions>
+    <ogr:Lat>46.244802</ogr:Lat>
+    <ogr:Long>-114.158305</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.778043" lon="-104.556672">
+  <name>CH129</name>
+  <extensions>
+    <ogr:Lat>48.778043</ogr:Lat>
+    <ogr:Long>-104.556672</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.811144" lon="-112.182551">
+  <name>CH130</name>
+  <extensions>
+    <ogr:Lat>47.811144</ogr:Lat>
+    <ogr:Long>-112.182551</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.936385" lon="-99.864759">
+  <name>CH131</name>
+  <extensions>
+    <ogr:Lat>41.936385</ogr:Lat>
+    <ogr:Long>-99.864759</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.62005" lon="-97.26458">
+  <name>CH132</name>
+  <extensions>
+    <ogr:Lat>42.62005</ogr:Lat>
+    <ogr:Long>-97.26458</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.09372" lon="-102.47192">
+  <name>CH133</name>
+  <extensions>
+    <ogr:Lat>41.09372</ogr:Lat>
+    <ogr:Long>-102.47192</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.209566" lon="-96.62264">
+  <name>CH134</name>
+  <extensions>
+    <ogr:Lat>41.209566</ogr:Lat>
+    <ogr:Long>-96.62264</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.688943" lon="-103.883064">
+  <name>CH135</name>
+  <extensions>
+    <ogr:Lat>42.688943</ogr:Lat>
+    <ogr:Long>-103.883064</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.090954" lon="-98.521356">
+  <name>CH136</name>
+  <extensions>
+    <ogr:Lat>40.090954</ogr:Lat>
+    <ogr:Long>-98.521356</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.83325" lon="-115.762597">
+  <name>CH137</name>
+  <extensions>
+    <ogr:Lat>40.83325</ogr:Lat>
+    <ogr:Long>-115.762597</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.707639" lon="-117.233633">
+  <name>CH138</name>
+  <extensions>
+    <ogr:Lat>37.707639</ogr:Lat>
+    <ogr:Long>-117.233633</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.972306" lon="-117.733083">
+  <name>CH139</name>
+  <extensions>
+    <ogr:Lat>40.972306</ogr:Lat>
+    <ogr:Long>-117.733083</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.985845" lon="-119.163199">
+  <name>CH140</name>
+  <extensions>
+    <ogr:Lat>38.985845</ogr:Lat>
+    <ogr:Long>-119.163199</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.065785" lon="-117.227044">
+  <name>CH141</name>
+  <extensions>
+    <ogr:Lat>38.065785</ogr:Lat>
+    <ogr:Long>-117.227044</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.180735" lon="-118.476153">
+  <name>CH142</name>
+  <extensions>
+    <ogr:Lat>40.180735</ogr:Lat>
+    <ogr:Long>-118.476153</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.31054" lon="-119.650248">
+  <name>CH143</name>
+  <extensions>
+    <ogr:Lat>39.31054</ogr:Lat>
+    <ogr:Long>-119.650248</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.248096" lon="-114.889146">
+  <name>CH144</name>
+  <extensions>
+    <ogr:Lat>39.248096</ogr:Lat>
+    <ogr:Long>-114.889146</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.93447" lon="-72.279335">
+  <name>CH145</name>
+  <extensions>
+    <ogr:Lat>42.93447</ogr:Lat>
+    <ogr:Long>-72.279335</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.364508" lon="-72.172993">
+  <name>CH146</name>
+  <extensions>
+    <ogr:Lat>43.364508</ogr:Lat>
+    <ogr:Long>-72.172993</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.083581" lon="-74.82298">
+  <name>CH147</name>
+  <extensions>
+    <ogr:Lat>39.083581</ogr:Lat>
+    <ogr:Long>-74.82298</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.510435" lon="-74.859001">
+  <name>CH148</name>
+  <extensions>
+    <ogr:Lat>40.510435</ogr:Lat>
+    <ogr:Long>-74.859001</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.397072" lon="-104.522615">
+  <name>CH149</name>
+  <extensions>
+    <ogr:Lat>33.397072</ogr:Lat>
+    <ogr:Long>-104.522615</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.153909" lon="-107.854453">
+  <name>CH150</name>
+  <extensions>
+    <ogr:Lat>35.153909</ogr:Lat>
+    <ogr:Long>-107.854453</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.405242" lon="-103.205448">
+  <name>CH151</name>
+  <extensions>
+    <ogr:Lat>34.405242</ogr:Lat>
+    <ogr:Long>-103.205448</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.306409" lon="-106.779089">
+  <name>CH152</name>
+  <extensions>
+    <ogr:Lat>32.306409</ogr:Lat>
+    <ogr:Long>-106.779089</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.420411" lon="-104.228361">
+  <name>CH153</name>
+  <extensions>
+    <ogr:Lat>32.420411</ogr:Lat>
+    <ogr:Long>-104.228361</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.348085" lon="-108.70826">
+  <name>CH154</name>
+  <extensions>
+    <ogr:Lat>32.348085</ogr:Lat>
+    <ogr:Long>-108.70826</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.88141" lon="-106.304141">
+  <name>CH155</name>
+  <extensions>
+    <ogr:Lat>35.88141</ogr:Lat>
+    <ogr:Long>-106.304141</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.055896" lon="-106.893427">
+  <name>CH156</name>
+  <extensions>
+    <ogr:Lat>34.055896</ogr:Lat>
+    <ogr:Long>-106.893427</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.44989" lon="-103.187463">
+  <name>CH157</name>
+  <extensions>
+    <ogr:Lat>36.44989</ogr:Lat>
+    <ogr:Long>-103.187463</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.277639" lon="-74.916946">
+  <name>CH158</name>
+  <extensions>
+    <ogr:Lat>42.277639</ogr:Lat>
+    <ogr:Long>-74.916946</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.028952" lon="-74.989238">
+  <name>CH159</name>
+  <extensions>
+    <ogr:Lat>43.028952</ogr:Lat>
+    <ogr:Long>-74.989238</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.402715" lon="-74.321552">
+  <name>CH160</name>
+  <extensions>
+    <ogr:Lat>41.402715</ogr:Lat>
+    <ogr:Long>-74.321552</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.376998" lon="-76.871479">
+  <name>CH161</name>
+  <extensions>
+    <ogr:Lat>42.376998</ogr:Lat>
+    <ogr:Long>-76.871479</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.598838" lon="-75.16968">
+  <name>CH162</name>
+  <extensions>
+    <ogr:Lat>44.598838</ogr:Lat>
+    <ogr:Long>-75.16968</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.505754" lon="-81.121022">
+  <name>CH163</name>
+  <extensions>
+    <ogr:Lat>36.505754</ogr:Lat>
+    <ogr:Long>-81.121022</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.338405" lon="-78.703646">
+  <name>CH164</name>
+  <extensions>
+    <ogr:Lat>34.338405</ogr:Lat>
+    <ogr:Long>-78.703646</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.897415" lon="-77.533309">
+  <name>CH165</name>
+  <extensions>
+    <ogr:Lat>35.897415</ogr:Lat>
+    <ogr:Long>-77.533309</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.323005" lon="-83.807168">
+  <name>CH166</name>
+  <extensions>
+    <ogr:Lat>35.323005</ogr:Lat>
+    <ogr:Long>-83.807168</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.917723" lon="-76.25199">
+  <name>CH167</name>
+  <extensions>
+    <ogr:Lat>35.917723</ogr:Lat>
+    <ogr:Long>-76.25199</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.069456" lon="-99.250692">
+  <name>CH168</name>
+  <extensions>
+    <ogr:Lat>48.069456</ogr:Lat>
+    <ogr:Long>-99.250692</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.003541" lon="-98.523814">
+  <name>CH169</name>
+  <extensions>
+    <ogr:Lat>46.003541</ogr:Lat>
+    <ogr:Long>-98.523814</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.914986" lon="-103.294598">
+  <name>CH170</name>
+  <extensions>
+    <ogr:Lat>48.914986</ogr:Lat>
+    <ogr:Long>-103.294598</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.321129" lon="-102.390825">
+  <name>CH171</name>
+  <extensions>
+    <ogr:Lat>48.321129</ogr:Lat>
+    <ogr:Long>-102.390825</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.481852" lon="-103.322221">
+  <name>CH172</name>
+  <extensions>
+    <ogr:Lat>46.481852</ogr:Lat>
+    <ogr:Long>-103.322221</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.418504" lon="-97.40546">
+  <name>CH173</name>
+  <extensions>
+    <ogr:Lat>48.418504</ogr:Lat>
+    <ogr:Long>-97.40546</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.554089" lon="-81.916581">
+  <name>CH174</name>
+  <extensions>
+    <ogr:Lat>40.554089</ogr:Lat>
+    <ogr:Long>-81.916581</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.027541" lon="-82.033666">
+  <name>CH175</name>
+  <extensions>
+    <ogr:Lat>39.027541</ogr:Lat>
+    <ogr:Long>-82.033666</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.137817" lon="-84.580686">
+  <name>CH176</name>
+  <extensions>
+    <ogr:Lat>41.137817</ogr:Lat>
+    <ogr:Long>-84.580686</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.827151" lon="-83.281283">
+  <name>CH177</name>
+  <extensions>
+    <ogr:Lat>40.827151</ogr:Lat>
+    <ogr:Long>-83.281283</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.993114" lon="-96.379374">
+  <name>CH178</name>
+  <extensions>
+    <ogr:Lat>33.993114</ogr:Lat>
+    <ogr:Long>-96.379374</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.832913" lon="-99.629121">
+  <name>CH179</name>
+  <extensions>
+    <ogr:Lat>36.832913</ogr:Lat>
+    <ogr:Long>-99.629121</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.919619" lon="-95.309815">
+  <name>CH180</name>
+  <extensions>
+    <ogr:Lat>34.919619</ogr:Lat>
+    <ogr:Long>-95.309815</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.269023" lon="-98.47478">
+  <name>CH181</name>
+  <extensions>
+    <ogr:Lat>36.269023</ogr:Lat>
+    <ogr:Long>-98.47478</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.70261" lon="-95.638071">
+  <name>CH182</name>
+  <extensions>
+    <ogr:Lat>36.70261</ogr:Lat>
+    <ogr:Long>-95.638071</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.291264" lon="-98.989043">
+  <name>CH183</name>
+  <extensions>
+    <ogr:Lat>35.291264</ogr:Lat>
+    <ogr:Long>-98.989043</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.77669" lon="-117.833281">
+  <name>CH184</name>
+  <extensions>
+    <ogr:Lat>44.77669</ogr:Lat>
+    <ogr:Long>-117.833281</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.565126" lon="-123.261824">
+  <name>CH185</name>
+  <extensions>
+    <ogr:Lat>44.565126</ogr:Lat>
+    <ogr:Long>-123.261824</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.189057" lon="-123.835095">
+  <name>CH186</name>
+  <extensions>
+    <ogr:Lat>46.189057</ogr:Lat>
+    <ogr:Long>-123.835095</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.302838" lon="-120.844256">
+  <name>CH187</name>
+  <extensions>
+    <ogr:Lat>44.302838</ogr:Lat>
+    <ogr:Long>-120.844256</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.417017" lon="-124.419598">
+  <name>CH188</name>
+  <extensions>
+    <ogr:Lat>42.417017</ogr:Lat>
+    <ogr:Long>-124.419598</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.223102" lon="-121.78434">
+  <name>CH189</name>
+  <extensions>
+    <ogr:Lat>42.223102</ogr:Lat>
+    <ogr:Long>-121.78434</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.353462" lon="-119.550803">
+  <name>CH190</name>
+  <extensions>
+    <ogr:Lat>45.353462</ogr:Lat>
+    <ogr:Long>-119.550803</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.425128" lon="-117.277525">
+  <name>CH191</name>
+  <extensions>
+    <ogr:Lat>45.425128</ogr:Lat>
+    <ogr:Long>-117.277525</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.512685" lon="-78.236497">
+  <name>CH192</name>
+  <extensions>
+    <ogr:Lat>41.512685</ogr:Lat>
+    <ogr:Long>-78.236497</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.93389" lon="-77.998438">
+  <name>CH193</name>
+  <extensions>
+    <ogr:Lat>39.93389</ogr:Lat>
+    <ogr:Long>-77.998438</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.00984" lon="-79.078602">
+  <name>CH194</name>
+  <extensions>
+    <ogr:Lat>40.00984</ogr:Lat>
+    <ogr:Long>-79.078602</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.540024" lon="-75.947483">
+  <name>CH195</name>
+  <extensions>
+    <ogr:Lat>41.540024</ogr:Lat>
+    <ogr:Long>-75.947483</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.670069" lon="-71.27351">
+  <name>CH196</name>
+  <extensions>
+    <ogr:Lat>41.670069</ogr:Lat>
+    <ogr:Long>-71.27351</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.177547" lon="-82.378547">
+  <name>CH197</name>
+  <extensions>
+    <ogr:Lat>34.177547</ogr:Lat>
+    <ogr:Long>-82.378547</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.705915" lon="-81.213109">
+  <name>CH198</name>
+  <extensions>
+    <ogr:Lat>34.705915</ogr:Lat>
+    <ogr:Long>-81.213109</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.866534" lon="-81.108898">
+  <name>CH199</name>
+  <extensions>
+    <ogr:Lat>32.866534</ogr:Lat>
+    <ogr:Long>-81.108898</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.464145" lon="-98.486572">
+  <name>CH200</name>
+  <extensions>
+    <ogr:Lat>45.464145</ogr:Lat>
+    <ogr:Long>-98.486572</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.668677" lon="-103.853534">
+  <name>CH201</name>
+  <extensions>
+    <ogr:Lat>44.668677</ogr:Lat>
+    <ogr:Long>-103.853534</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.766046" lon="-103.601437">
+  <name>CH202</name>
+  <extensions>
+    <ogr:Lat>43.766046</ogr:Lat>
+    <ogr:Long>-103.601437</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.368932" lon="-100.351301">
+  <name>CH203</name>
+  <extensions>
+    <ogr:Lat>44.368932</ogr:Lat>
+    <ogr:Long>-100.351301</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.551287" lon="-96.728449">
+  <name>CH204</name>
+  <extensions>
+    <ogr:Lat>43.551287</ogr:Lat>
+    <ogr:Long>-96.728449</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.375809" lon="-99.854619">
+  <name>CH205</name>
+  <extensions>
+    <ogr:Lat>43.375809</ogr:Lat>
+    <ogr:Long>-99.854619</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.439959" lon="-88.640427">
+  <name>CH206</name>
+  <extensions>
+    <ogr:Lat>35.439959</ogr:Lat>
+    <ogr:Long>-88.640427</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.745485" lon="-89.53064">
+  <name>CH207</name>
+  <extensions>
+    <ogr:Lat>35.745485</ogr:Lat>
+    <ogr:Long>-89.53064</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.61488" lon="-87.034149">
+  <name>CH208</name>
+  <extensions>
+    <ogr:Lat>35.61488</ogr:Lat>
+    <ogr:Long>-87.034149</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.494553" lon="-85.012627">
+  <name>CH209</name>
+  <extensions>
+    <ogr:Lat>35.494553</ogr:Lat>
+    <ogr:Long>-85.012627</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.531756" lon="-96.69296">
+  <name>CH210</name>
+  <extensions>
+    <ogr:Lat>30.531756</ogr:Lat>
+    <ogr:Long>-96.69296</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.091977" lon="-97.28916">
+  <name>CH211</name>
+  <extensions>
+    <ogr:Lat>29.091977</ogr:Lat>
+    <ogr:Long>-97.28916</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.863387" lon="-101.480875">
+  <name>CH212</name>
+  <extensions>
+    <ogr:Lat>31.863387</ogr:Lat>
+    <ogr:Long>-101.480875</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.297238" lon="-99.739972">
+  <name>CH213</name>
+  <extensions>
+    <ogr:Lat>34.297238</ogr:Lat>
+    <ogr:Long>-99.739972</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.913195" lon="-100.382645">
+  <name>CH214</name>
+  <extensions>
+    <ogr:Lat>35.913195</ogr:Lat>
+    <ogr:Long>-100.382645</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.138493" lon="-95.600998">
+  <name>CH215</name>
+  <extensions>
+    <ogr:Lat>33.138493</ogr:Lat>
+    <ogr:Long>-95.600998</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.588892" lon="-103.895144">
+  <name>CH216</name>
+  <extensions>
+    <ogr:Lat>30.588892</ogr:Lat>
+    <ogr:Long>-103.895144</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.618978" lon="-100.322449">
+  <name>CH217</name>
+  <extensions>
+    <ogr:Lat>33.618978</ogr:Lat>
+    <ogr:Long>-100.322449</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.662369" lon="-95.556325">
+  <name>CH218</name>
+  <extensions>
+    <ogr:Lat>33.662369</ogr:Lat>
+    <ogr:Long>-95.556325</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.065496" lon="-98.17805">
+  <name>CH219</name>
+  <extensions>
+    <ogr:Lat>31.065496</ogr:Lat>
+    <ogr:Long>-98.17805</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.706391" lon="-103.598453">
+  <name>CH220</name>
+  <extensions>
+    <ogr:Lat>31.706391</ogr:Lat>
+    <ogr:Long>-103.598453</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.134866" lon="-99.33491">
+  <name>CH221</name>
+  <extensions>
+    <ogr:Lat>31.134866</ogr:Lat>
+    <ogr:Long>-99.33491</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.858148" lon="-101.973078">
+  <name>CH222</name>
+  <extensions>
+    <ogr:Lat>35.858148</ogr:Lat>
+    <ogr:Long>-101.973078</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.342313" lon="-93.849393">
+  <name>CH223</name>
+  <extensions>
+    <ogr:Lat>31.342313</ogr:Lat>
+    <ogr:Long>-93.849393</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.178992" lon="-102.280642">
+  <name>CH224</name>
+  <extensions>
+    <ogr:Lat>33.178992</ogr:Lat>
+    <ogr:Long>-102.280642</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.359096" lon="-100.897675">
+  <name>CH225</name>
+  <extensions>
+    <ogr:Lat>29.359096</ogr:Lat>
+    <ogr:Long>-100.897675</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="26.481924" lon="-97.787595">
+  <name>CH226</name>
+  <extensions>
+    <ogr:Lat>26.481924</ogr:Lat>
+    <ogr:Long>-97.787595</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.23421" lon="-97.586645">
+  <name>CH227</name>
+  <extensions>
+    <ogr:Lat>33.23421</ogr:Lat>
+    <ogr:Long>-97.586645</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.106691" lon="-98.590679">
+  <name>CH228</name>
+  <extensions>
+    <ogr:Lat>33.106691</ogr:Lat>
+    <ogr:Long>-98.590679</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.274115" lon="-112.639822">
+  <name>CH229</name>
+  <extensions>
+    <ogr:Lat>38.274115</ogr:Lat>
+    <ogr:Long>-112.639822</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.510323" lon="-112.015646">
+  <name>CH230</name>
+  <extensions>
+    <ogr:Lat>41.510323</ogr:Lat>
+    <ogr:Long>-112.015646</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.211792" lon="-111.0183">
+  <name>CH231</name>
+  <extensions>
+    <ogr:Lat>39.211792</ogr:Lat>
+    <ogr:Long>-111.0183</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.870842" lon="-109.342814">
+  <name>CH232</name>
+  <extensions>
+    <ogr:Lat>37.870842</ogr:Lat>
+    <ogr:Long>-109.342814</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.267884" lon="-111.636903">
+  <name>CH233</name>
+  <extensions>
+    <ogr:Lat>39.267884</ogr:Lat>
+    <ogr:Long>-111.636903</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.917835" lon="-111.399372">
+  <name>CH234</name>
+  <extensions>
+    <ogr:Lat>40.917835</ogr:Lat>
+    <ogr:Long>-111.399372</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.818713" lon="-73.289478">
+  <name>CH235</name>
+  <extensions>
+    <ogr:Lat>44.818713</ogr:Lat>
+    <ogr:Long>-73.289478</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.606891" lon="-72.976096">
+  <name>CH236</name>
+  <extensions>
+    <ogr:Lat>43.606891</ogr:Lat>
+    <ogr:Long>-72.976096</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.928357" lon="-76.860104">
+  <name>CH237</name>
+  <extensions>
+    <ogr:Lat>37.928357</ogr:Lat>
+    <ogr:Long>-76.860104</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.412965" lon="-79.582278">
+  <name>CH238</name>
+  <extensions>
+    <ogr:Lat>38.412965</ogr:Lat>
+    <ogr:Long>-79.582278</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.047822" lon="-80.781132">
+  <name>CH239</name>
+  <extensions>
+    <ogr:Lat>37.047822</ogr:Lat>
+    <ogr:Long>-80.781132</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.714016" lon="-77.06707">
+  <name>CH240</name>
+  <extensions>
+    <ogr:Lat>36.714016</ogr:Lat>
+    <ogr:Long>-77.06707</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.116117" lon="-123.43383">
+  <name>CH241</name>
+  <extensions>
+    <ogr:Lat>48.116117</ogr:Lat>
+    <ogr:Long>-123.43383</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.646139" lon="-120.06861">
+  <name>CH242</name>
+  <extensions>
+    <ogr:Lat>47.646139</ogr:Lat>
+    <ogr:Long>-120.06861</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.218526" lon="-122.68559">
+  <name>CH243</name>
+  <extensions>
+    <ogr:Lat>48.218526</ogr:Lat>
+    <ogr:Long>-122.68559</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.364943" lon="-119.581055">
+  <name>CH244</name>
+  <extensions>
+    <ogr:Lat>48.364943</ogr:Lat>
+    <ogr:Long>-119.581055</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.535768" lon="-123.018015">
+  <name>CH245</name>
+  <extensions>
+    <ogr:Lat>48.535768</ogr:Lat>
+    <ogr:Long>-123.018015</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.064826" lon="-118.343902">
+  <name>CH246</name>
+  <extensions>
+    <ogr:Lat>46.064826</ogr:Lat>
+    <ogr:Long>-118.343902</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.294131" lon="-80.774208">
+  <name>CH247</name>
+  <extensions>
+    <ogr:Lat>39.294131</ogr:Lat>
+    <ogr:Long>-80.774208</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.341791" lon="-78.756093">
+  <name>CH248</name>
+  <extensions>
+    <ogr:Lat>39.341791</ogr:Lat>
+    <ogr:Long>-78.756093</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.432637" lon="-81.584514">
+  <name>CH249</name>
+  <extensions>
+    <ogr:Lat>37.432637</ogr:Lat>
+    <ogr:Long>-81.584514</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.676618" lon="-90.892199">
+  <name>CH250</name>
+  <extensions>
+    <ogr:Lat>46.676618</ogr:Lat>
+    <ogr:Long>-90.892199</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.921398" lon="-88.249117">
+  <name>CH251</name>
+  <extensions>
+    <ogr:Lat>45.921398</ogr:Lat>
+    <ogr:Long>-88.249117</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.682394" lon="-90.117878">
+  <name>CH252</name>
+  <extensions>
+    <ogr:Lat>42.682394</ogr:Lat>
+    <ogr:Long>-90.117878</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.889094" lon="-87.865972">
+  <name>CH253</name>
+  <extensions>
+    <ogr:Lat>44.889094</ogr:Lat>
+    <ogr:Long>-87.865972</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.334509" lon="-90.385482">
+  <name>CH254</name>
+  <extensions>
+    <ogr:Lat>43.334509</ogr:Lat>
+    <ogr:Long>-90.385482</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.381183" lon="-108.040506">
+  <name>CH255</name>
+  <extensions>
+    <ogr:Lat>44.381183</ogr:Lat>
+    <ogr:Long>-108.040506</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.06509" lon="-104.182316">
+  <name>CH256</name>
+  <extensions>
+    <ogr:Lat>42.06509</ogr:Lat>
+    <ogr:Long>-104.182316</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.647209" lon="-108.208902">
+  <name>CH257</name>
+  <extensions>
+    <ogr:Lat>43.647209</ogr:Lat>
+    <ogr:Long>-108.208902</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.526018" lon="-109.067059">
+  <name>CH258</name>
+  <extensions>
+    <ogr:Lat>44.526018</ogr:Lat>
+    <ogr:Long>-109.067059</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.86623" lon="-109.861219">
+  <name>CH259</name>
+  <extensions>
+    <ogr:Lat>42.86623</ogr:Lat>
+    <ogr:Long>-109.861219</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.855646" lon="-104.202384">
+  <name>CH260</name>
+  <extensions>
+    <ogr:Lat>43.855646</ogr:Lat>
+    <ogr:Long>-104.202384</ogr:Long>
+  </extensions>
+</wpt>
+</gpx>

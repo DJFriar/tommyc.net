@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="19.719650999999999" minlon="-159.353661999999986" maxlat="61.213177000000002" maxlon="-67.839722999999992"/></metadata>               
+<wpt lat="44.72185" lon="-123.919173">
+  <name>GT011</name>
+  <extensions>
+    <ogr:Lat>44.72185</ogr:Lat>
+    <ogr:Long>-123.919173</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.331226" lon="-112.060696">
+  <name>GT012</name>
+  <extensions>
+    <ogr:Lat>33.331226</ogr:Lat>
+    <ogr:Long>-112.060696</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.354985" lon="-104.338393">
+  <name>GT013</name>
+  <extensions>
+    <ogr:Lat>33.354985</ogr:Lat>
+    <ogr:Long>-104.338393</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.769731" lon="-97.990165">
+  <name>GT014</name>
+  <extensions>
+    <ogr:Lat>42.769731</ogr:Lat>
+    <ogr:Long>-97.990165</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.737895" lon="-94.731011">
+  <name>GT015</name>
+  <extensions>
+    <ogr:Lat>34.737895</ogr:Lat>
+    <ogr:Long>-94.731011</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.803845" lon="-93.344296">
+  <name>GT016</name>
+  <extensions>
+    <ogr:Lat>29.803845</ogr:Lat>
+    <ogr:Long>-93.344296</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="36.725926" lon="-83.84397">
+  <name>GT017</name>
+  <extensions>
+    <ogr:Lat>36.725926</ogr:Lat>
+    <ogr:Long>-83.84397</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="24.546554" lon="-81.7975">
+  <name>GT018</name>
+  <extensions>
+    <ogr:Lat>24.546554</ogr:Lat>
+    <ogr:Long>-81.7975</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.621096" lon="-75.198173">
+  <name>GT019</name>
+  <extensions>
+    <ogr:Lat>38.621096</ogr:Lat>
+    <ogr:Long>-75.198173</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.515533" lon="-123.149327">
+  <name>GT021</name>
+  <extensions>
+    <ogr:Lat>48.515533</ogr:Lat>
+    <ogr:Long>-123.149327</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.709773" lon="-114.80341">
+  <name>GT022</name>
+  <extensions>
+    <ogr:Lat>35.709773</ogr:Lat>
+    <ogr:Long>-114.80341</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.276811" lon="-109.936006">
+  <name>GT023</name>
+  <extensions>
+    <ogr:Lat>37.276811</ogr:Lat>
+    <ogr:Long>-109.936006</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="48.225768" lon="-101.297132">
+  <name>GT024</name>
+  <extensions>
+    <ogr:Lat>48.225768</ogr:Lat>
+    <ogr:Long>-101.297132</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.241307" lon="-91.091995">
+  <name>GT025</name>
+  <extensions>
+    <ogr:Lat>38.241307</ogr:Lat>
+    <ogr:Long>-91.091995</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="28.678808" lon="-99.827946">
+  <name>GT026</name>
+  <extensions>
+    <ogr:Lat>28.678808</ogr:Lat>
+    <ogr:Long>-99.827946</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.768796" lon="-83.261868">
+  <name>GT027</name>
+  <extensions>
+    <ogr:Lat>38.768796</ogr:Lat>
+    <ogr:Long>-83.261868</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.815573" lon="-85.489425">
+  <name>GT028</name>
+  <extensions>
+    <ogr:Lat>34.815573</ogr:Lat>
+    <ogr:Long>-85.489425</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.82172" lon="-72.663198">
+  <name>GT029</name>
+  <extensions>
+    <ogr:Lat>40.82172</ogr:Lat>
+    <ogr:Long>-72.663198</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.431962" lon="-117.006796">
+  <name>GT031</name>
+  <extensions>
+    <ogr:Lat>46.431962</ogr:Lat>
+    <ogr:Long>-117.006796</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.499613" lon="-119.718853">
+  <name>GT032</name>
+  <extensions>
+    <ogr:Lat>34.499613</ogr:Lat>
+    <ogr:Long>-119.718853</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.449663" lon="-105.249239">
+  <name>GT033</name>
+  <extensions>
+    <ogr:Lat>38.449663</ogr:Lat>
+    <ogr:Long>-105.249239</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.561408" lon="-91.635806">
+  <name>GT034</name>
+  <extensions>
+    <ogr:Lat>43.561408</ogr:Lat>
+    <ogr:Long>-91.635806</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.874722" lon="-93.110782">
+  <name>GT035</name>
+  <extensions>
+    <ogr:Lat>34.874722</ogr:Lat>
+    <ogr:Long>-93.110782</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="29.294965" lon="-103.926685">
+  <name>GT036</name>
+  <extensions>
+    <ogr:Lat>29.294965</ogr:Lat>
+    <ogr:Long>-103.926685</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.342575" lon="-83.890914">
+  <name>GT037</name>
+  <extensions>
+    <ogr:Lat>35.342575</ogr:Lat>
+    <ogr:Long>-83.890914</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="32.255753" lon="-88.854825">
+  <name>GT038</name>
+  <extensions>
+    <ogr:Lat>32.255753</ogr:Lat>
+    <ogr:Long>-88.854825</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.230237" lon="-78.726491">
+  <name>GT039</name>
+  <extensions>
+    <ogr:Lat>38.230237</ogr:Lat>
+    <ogr:Long>-78.726491</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.886072" lon="-123.61364">
+  <name>GT041</name>
+  <extensions>
+    <ogr:Lat>45.886072</ogr:Lat>
+    <ogr:Long>-123.61364</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.478732" lon="-116.055155">
+  <name>GT042</name>
+  <extensions>
+    <ogr:Lat>38.478732</ogr:Lat>
+    <ogr:Long>-116.055155</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.759394" lon="-105.384304">
+  <name>GT043</name>
+  <extensions>
+    <ogr:Lat>42.759394</ogr:Lat>
+    <ogr:Long>-105.384304</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="45.160655" lon="-112.992358">
+  <name>GT044</name>
+  <extensions>
+    <ogr:Lat>45.160655</ogr:Lat>
+    <ogr:Long>-112.992358</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.912129" lon="-101.179933">
+  <name>GT045</name>
+  <extensions>
+    <ogr:Lat>38.912129</ogr:Lat>
+    <ogr:Long>-101.179933</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="30.519503" lon="-90.008848">
+  <name>GT046</name>
+  <extensions>
+    <ogr:Lat>30.519503</ogr:Lat>
+    <ogr:Long>-90.008848</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.25277" lon="-87.036094">
+  <name>GT047</name>
+  <extensions>
+    <ogr:Lat>38.25277</ogr:Lat>
+    <ogr:Long>-87.036094</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.714985" lon="-83.254617">
+  <name>GT048</name>
+  <extensions>
+    <ogr:Lat>31.714985</ogr:Lat>
+    <ogr:Long>-83.254617</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.978946" lon="-75.856315">
+  <name>GT049</name>
+  <extensions>
+    <ogr:Lat>37.978946</ogr:Lat>
+    <ogr:Long>-75.856315</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.852257" lon="-118.339616">
+  <name>GT051</name>
+  <extensions>
+    <ogr:Lat>47.852257</ogr:Lat>
+    <ogr:Long>-118.339616</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.667541" lon="-111.167599">
+  <name>GT052</name>
+  <extensions>
+    <ogr:Lat>33.667541</ogr:Lat>
+    <ogr:Long>-111.167599</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.117705" lon="-108.198221">
+  <name>GT053</name>
+  <extensions>
+    <ogr:Lat>33.117705</ogr:Lat>
+    <ogr:Long>-108.198221</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.770508" lon="-103.396235">
+  <name>GT054</name>
+  <extensions>
+    <ogr:Lat>43.770508</ogr:Lat>
+    <ogr:Long>-103.396235</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="37.101086" lon="-90.835667">
+  <name>GT055</name>
+  <extensions>
+    <ogr:Lat>37.101086</ogr:Lat>
+    <ogr:Long>-90.835667</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="33.138093" lon="-95.60132">
+  <name>GT056</name>
+  <extensions>
+    <ogr:Lat>33.138093</ogr:Lat>
+    <ogr:Long>-95.60132</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.866263" lon="-90.864043">
+  <name>GT057</name>
+  <extensions>
+    <ogr:Lat>39.866263</ogr:Lat>
+    <ogr:Long>-90.864043</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="34.605726" lon="-81.663494">
+  <name>GT058</name>
+  <extensions>
+    <ogr:Lat>34.605726</ogr:Lat>
+    <ogr:Long>-81.663494</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.730317" lon="-80.387548">
+  <name>GT059</name>
+  <extensions>
+    <ogr:Lat>38.730317</ogr:Lat>
+    <ogr:Long>-80.387548</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.907019" lon="-114.797064">
+  <name>GT061</name>
+  <extensions>
+    <ogr:Lat>43.907019</ogr:Lat>
+    <ogr:Long>-114.797064</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.229971" lon="-123.366734">
+  <name>GT062</name>
+  <extensions>
+    <ogr:Lat>39.229971</ogr:Lat>
+    <ogr:Long>-123.366734</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="38.678799" lon="-109.446173">
+  <name>GT063</name>
+  <extensions>
+    <ogr:Lat>38.678799</ogr:Lat>
+    <ogr:Long>-109.446173</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="47.729361" lon="-102.704938">
+  <name>GT064</name>
+  <extensions>
+    <ogr:Lat>47.729361</ogr:Lat>
+    <ogr:Long>-102.704938</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="40.899355" lon="-92.357515">
+  <name>GT065</name>
+  <extensions>
+    <ogr:Lat>40.899355</ogr:Lat>
+    <ogr:Long>-92.357515</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="31.779531" lon="-105.470988">
+  <name>GT066</name>
+  <extensions>
+    <ogr:Lat>31.779531</ogr:Lat>
+    <ogr:Long>-105.470988</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="43.275769" lon="-82.622571">
+  <name>GT067</name>
+  <extensions>
+    <ogr:Lat>43.275769</ogr:Lat>
+    <ogr:Long>-82.622571</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.892711" lon="-82.827572">
+  <name>GT068</name>
+  <extensions>
+    <ogr:Lat>35.892711</ogr:Lat>
+    <ogr:Long>-82.827572</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.653047" lon="-78.084326">
+  <name>GT069</name>
+  <extensions>
+    <ogr:Lat>41.653047</ogr:Lat>
+    <ogr:Long>-78.084326</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="44.834294" lon="-119.793879">
+  <name>GT071</name>
+  <extensions>
+    <ogr:Lat>44.834294</ogr:Lat>
+    <ogr:Long>-119.793879</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.492148" lon="-117.534694">
+  <name>GT072</name>
+  <extensions>
+    <ogr:Lat>41.492148</ogr:Lat>
+    <ogr:Long>-117.534694</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.356113" lon="-105.171383">
+  <name>GT073</name>
+  <extensions>
+    <ogr:Lat>39.356113</ogr:Lat>
+    <ogr:Long>-105.171383</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="46.697426" lon="-94.118086">
+  <name>GT074</name>
+  <extensions>
+    <ogr:Lat>46.697426</ogr:Lat>
+    <ogr:Long>-94.118086</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="41.569969" lon="-101.691466">
+  <name>GT075</name>
+  <extensions>
+    <ogr:Lat>41.569969</ogr:Lat>
+    <ogr:Long>-101.691466</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="35.716084" lon="-100.451948">
+  <name>GT076</name>
+  <extensions>
+    <ogr:Lat>35.716084</ogr:Lat>
+    <ogr:Long>-100.451948</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="42.531217" lon="-88.253911">
+  <name>GT077</name>
+  <extensions>
+    <ogr:Lat>42.531217</ogr:Lat>
+    <ogr:Long>-88.253911</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="27.374001" lon="-81.977979">
+  <name>GT078</name>
+  <extensions>
+    <ogr:Lat>27.374001</ogr:Lat>
+    <ogr:Long>-81.977979</ogr:Long>
+  </extensions>
+</wpt>
+<wpt lat="39.378484" lon="-75.356054">
+  <name>GT079</name>
+  <extensions>
+    <ogr:Lat>39.378484</ogr:Lat>
+    <ogr:Long>-75.356054</ogr:Long>
+  </extensions>
+</wpt>
+</gpx>
