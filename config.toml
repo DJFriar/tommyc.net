@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 publishDir = "/Users/tommy/Sites/-Prod/tommyc.net"
 title = "Tommy Craft"
 theme = "hermit"
-enableGitInfo = true
+enableGitInfo = false #Controls if the GitHub link for the commit appears on the post)
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -30,7 +30,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 3:04 MST"
 
   # Metadata mostly used in document's head
   # description = ""
