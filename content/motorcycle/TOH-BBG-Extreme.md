@@ -4,6 +4,7 @@ date: 2019-08-13T19:47:00-07:00
 draft: false
 ---
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD026 -->
 Over the weekend I got to finally complete a Tour of Honor ride. I had signed up in 2018, but never got the chance to participate that year.
 
 After looking at the California bonuses I figured I could do a SaddleSore 1000 Extreme and hit all 7 bonuses. I would head generally north and if I included my return home, could net a BunBurner Extreme as well.
@@ -26,7 +27,7 @@ Leaving Mojave I got a great close up view of the Mojave Airplane Graveyard. It 
 
 I left Big Pine and continued north on US-395. This part of the ride was uneventful, but pretty. Mammoth Mountain was in view for a long time as the road slowly gained some elevation. US-395 makes a left turn in Bishop, so I stopped there for fuel before continuing on. Along the way, the scenery kept getting more and more interesting. Soon I was catching glimspes of a lake, and eventualy I stopped to take a pic (click it to see it full size):
 
-<a href='/images/toh_bbg/CrowleyLakeFull.jpg'><img class='ridelog-image' src='/images/toh_bbg/CrowleyLakeThumb.jpg'></a>
+<a href='/images/toh_bbg/CrowleyLakeFull.jpg' target="_blank"><img class='ridelog-image' src='/images/toh_bbg/CrowleyLakeThumb.jpg'></a>
 
 It turned out to be Crowley Lake. After a few more minutes of admiration (and leg stretching) I motored on. My target destination is fueling up in Markleeville, but I have to pass Mono Lake first.
 
@@ -34,46 +35,69 @@ It turned out to be Crowley Lake. After a few more minutes of admiration (and le
 
 Mono Lake is just gorgeous. You start to see it in glimpses and eventually you kind of descend into it. Its truly stunning. It is so stunning, that I took a detour to the visitor center (which is really only about 1/4 mile off the main road) to catch some other views. Little did I know that the best views were yet to come. As you continue north on US-395, you continue to descend util you are at the water line next to the lake. the view from here is just incredible (excuse my crappy cell phone pics, I promise it was much better in person):
 
-<a href='/images/toh_bbg/MonoLake1.jpg'><img class='ridelog-image' src='/images/toh_bbg/MonoLake1.jpg'></a>
+<a href='/images/toh_bbg/MonoLake1.jpg' target="_blank"><img class='ridelog-image' src='/images/toh_bbg/MonoLake1.jpg'></a>
 
-<a href='/images/toh_bbg/MonoLake2.jpg'><img class='ridelog-image' src='/images/toh_bbg/MonoLake2.jpg'></a>
+<a href='/images/toh_bbg/MonoLake2.jpg' target="_blank"><img class='ridelog-image' src='/images/toh_bbg/MonoLake2.jpg'></a>
 
-### Markleeville, CA - Fuel
+### Mono Lake to Sutter Hill
 
-<img class='ridelog-image' src='/images/toh_bbg/4-Gas.jpeg'>
-  
-### Sutter Springs, CA - TOH Memorial CA7
+After admiring Mono Lake for a bit, I continued north until I got to CA-89 (Alpine State Highway), which will take me over the pass on towards Markleeville. This portion of the ride is why CA-89 is now my favorite road I've ridden so far. The road is twisty, it has amazing elevation changes (from 1,700 feet to 8,300 feet),and the view is terrific.
+
+This continued on until Markleeville, where I stopped for fuel (and to prove I didn't continue on into Nevada). An uneventful fuel stop and I was back on the road, where on the way out of town I spotted what appears to be a private carnival collection:
+
+<a href='/images/toh_bbg/PrivateCarnival.jpg' target="_blank"><img class='ridelog-image' src='/images/toh_bbg/PrivateCarnival.jpg'></a>
+
+After snapping the above pic, I continued on until I made a left onto CA-88 (Carson Pass Highway) and had another incredible hour of vista, twists and decents. Eventually, I found myself in Sutter Hill at my second memorial, CA7.
 
 <img class='ridelog-image' src='/images/toh_bbg/5-CA7.jpeg'>
   
-### 6 Lodi, CA - TOH Memorial CA4
+### Sutter Hill to Stockton
+
+After snapping my proof (and downing a cookie and some water), I checked in with an old high school friend that lives in Stockton. We had made plans before I lieft to meet up for coffee, but I was running quite behind. Luckily, her schedule was open so I agreed to come down, with a quick detour into Lodi to grab the bonus there since it wasn't far away. 45 minutes later, I arrived in Lodi and found an Ice Cream Social happening right next to the memorial location. Unfortunatley, they had staged one of their support vehicles right in front of the memorial, so this was the best pic I could snap of CA4:
 
 <img class='ridelog-image' src='/images/toh_bbg/6-CA4.jpeg'>
-  
-### Stockton, CA - Rest Start
 
-<img class='ridelog-image' src='/images/toh_bbg/7-Rest_Start.jpeg'>
+From here it was only 20 minutes or so until I reached our agreed upon Starbucks in Stockton to take a much needed break from sitting in the saddle and catch up with an old friend.
   
-### Stockton, CA - Rest End
+### Stockton to San Rafael
 
-<img class='ridelog-image' src='/images/toh_bbg/8-Rest_End.jpeg'>
-  
-### San Rafael, CA - TOH Memorial CA5
+45 minutes of coffee and catch-up and I was out on the road again, heading west towards San Rafael. My route took my along CA-4 and was realtiviely unremarkable. 100 minutes after I left Stockton, I reached CA5. Daylight was only a remnant, but the pic came out decent enough. 
 
 <img class='ridelog-image' src='/images/toh_bbg/9-CA5.jpeg'>
   
-### San Rafael, CA - Fuel
+After a good stretch and then a quick jaunt to the gas station a few blocks away, I was ready to head out towards my next planned bonus, CA2.
 
-<img class='ridelog-image' src='/images/toh_bbg/10-Gas.jpeg'>
-  
-11 - TOH Memorial CA2
+### San Rafael to Williams
+
+There is a lot to report on this section, so feel free to grab a warm or frosty beverage.
+
+I left San Rafael under cover of darkness and headed out north on the 101. About 40 miles later, I reached Fulton, where I left the 101 and onto CA-29 north.
+
+The road is quite small, but it makes up for that with its beauty. Even in the dark the views and vistas were stunning. Additionally, the road got wonderfully twisted up, with terrific banks into the turns. It is mostly one lane in each direction, but due to the ascent there are a generous amount of passing lanes sprinkled throughout as well. As it was an unfamilar road I kept my speeds pretty low, generally only doing 5mph or so over the speed limit, with the occasional burst in a straight. The road was so tight, even in the straights I would only gain 5-10 more miles per hour before it was time to hit the brakes and turn again.
+
+Coincidentally, it was only a few hours early that I had seen fellow IBA Member Eric James had posted about doing some nighttime canyon carving and describing it as quite fun. I legitmately read his comment as sarcasm, until this road. As I continued to climb up this mountain, I was beginning to think he meant it really had meant it exceitedly. This really was pretty fun.
+
+It was just after thinking this thought that an extremely bright glare started appearing in my rear view mirrors. It was pretty dark out here, so I figured he would cut them as he neared, but he did not. Soon he was close enough that even with the bright light emitting from his front end, I could clearly see it was a late model Tacoma. In this section the road was only one lane, but it couldn't be that much further to a passing lane, they had been every few miles as it was. His high beams were directly at my mirrors, and being this was causing me to have a hard time seeing, I slowed slightly. The road was too narrow to pull off and I had to just deal with it until I reached a passing zone or lane.
+
+A few minutes later, he backed off for a moment and then rapidly sped up at me, suddenly mashing and holding his horn. The sudden action admittedly startled me and I responded with a middle finger (hey, I'm human). He kept blinking his high beams at me as he rode my ass. I focused on riding the bike and looking for an out, but there was literally no safe place to pull over. Another minute or two of this and then he suddenly accellerated around me, driving in the wrong lane of traffic around a blind curve to get around me.
+
+I slowed down, not only to make sure I had time to react should he meet another oncoming car, but also to ensure I would be able to see it if he managed to taco his Tacoma. He kept accelerating and sped off down the highway. I could see another vehicle ahead and a turn or two later I could see he was doing the same kind of thing to him as well. As you can guess, 2 more turns and a passing lane appeared. Had he waited 2 more minutes, at most, he would have been able to just pass me, safely.
+
+Now that he was gone, I went back to enjoying the ride. So many turns, such a great ascent with a mild descent. That small descent was leading me into Calistoga, the location for my next bonus, CA2.
+
 <img class='ridelog-image' src='/images/toh_bbg/11-CA2.jpeg'>
-  
-### Williams, CA - Fuel
 
-<img class='ridelog-image' src='/images/toh_bbg/12-Gas.jpeg'>
-  
-### Chico, CA - TOH Memorial CA3a
+I think the shot came out decently well for just having headlights and a single flashlight to illuminate the scene. 
+
+A check of the map showed CA3 in Chico, CA would be next. Some quick mental math predicted 2.5 to 3 hours to get there, given that the road ahead looked far more twisty the one I had just came from. I started the bike and pulled back onto CA-29.
+
+The rest of CA-29 was just more of the same. This was the coldest part of the trip though, and I had to stop twice on the side of the road to add more gear. Also, it was dark out here. The canopy of trees was doign a good job blocking the light, and for the next 75 miles I saw only four other vehicles, all heading in the opposite direction I was.
+
+Eventually I reached Williams, CA. At this point boht hte bike and I were thristy and I was ready to walk around and confirm my legs were still with me. As I rested for a few minutes and drank some more water, I made many a mental note that I must return to CA-29 in the daylight to ride it again.
+
+### Williams to Chico
+
+I reached Chico just after 1am. It was a cemetery, but the gates were locked. I double-checked in the mobile app, and it said 24/7. I looked around the entrence and spotted the sign "Cemetery Gates Locked at 7pm". Luckily I could still see the memorial, so I took a pic of both the memorial (from the wrong side) and the locked gate. I hoped it would be enough.
 
 <img class='ridelog-image' src='/images/toh_bbg/13-CA3a.jpeg'>
   
