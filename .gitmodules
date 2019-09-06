@@ -1,0 +1,3 @@
+[submodule "themes/Crafted"]
+	path = themes/Crafted
+	url = https://github.com/DJFriar/crafted-hugo-theme.git
