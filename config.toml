@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 publishDir = "/Users/tommy/Sites/-Prod/tommyc.net"
 title = "Tommy Craft"
-theme = "hermit"
+theme = "Crafted"
 enableGitInfo = false #Controls if the GitHub link for the commit appears on the post)
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
@@ -35,7 +35,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Metadata mostly used in document's head
   # description = ""
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#3C414C"
 
   homeSubtitle = "The permanent home of my temporary insanties."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
