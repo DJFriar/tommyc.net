@@ -61,7 +61,7 @@ From here it was only 20 minutes or so until I reached our agreed upon Starbucks
   
 ### Stockton to San Rafael
 
-45 minutes of coffee and catch-up and I was out on the road again, heading west towards San Rafael. My route took my along CA-4 and was realtiviely unremarkable. 100 minutes after I left Stockton, I reached CA5. Daylight was only a remnant, but the pic came out decent enough. 
+45 minutes of coffee and catch-up and I was out on the road again, heading west towards San Rafael. My route took my along CA-4 and was realtiviely unremarkable. 100 minutes after I left Stockton, I reached CA5. Daylight was only a remnant, but the pic came out decent enough.
 
 <img class='ridelog-image' src='/images/toh_bbg/9-CA5.jpeg'>
   
@@ -87,7 +87,7 @@ Now that he was gone, I went back to enjoying the ride. So many turns, such a gr
 
 <img class='ridelog-image' src='/images/toh_bbg/11-CA2.jpeg'>
 
-I think the shot came out decently well for just having headlights and a single flashlight to illuminate the scene. 
+I think the shot came out decently well for just having headlights and a single flashlight to illuminate the scene.
 
 A check of the map showed CA3 in Chico, CA would be next. Some quick mental math predicted 2.5 to 3 hours to get there, given that the road ahead looked far more twisty the one I had just came from. I started the bike and pulled back onto CA-29.
 
