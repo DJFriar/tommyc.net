@@ -17,6 +17,14 @@ theme = "Crafted"
 
   homeSubtitle = "The permanent home of my temporary insanities."
 
+  [[params.motorcycling]]
+      detail = "What I Ride"
+      url = "motorcycle/bike"
+
+  [[params.development]]
+      detail = "How I Code"
+      url = "projects/Coding-Gear"
+
   #Social Icons
   [[params.social]]
     name = "instagram"
@@ -38,7 +46,7 @@ theme = "Crafted"
     weight = 10
 
   [[menu.main]]
-    name = "Dev"
+    name = "Development"
     url = "projects/"
     weight = 20
 
@@ -48,6 +56,8 @@ theme = "Crafted"
     weight = 30
 
   [[menu.main]]
-    name = "Random"
+    name = "Potpourri"
     url = "posts/"
+    subName = "What I Shoot"
+    subURL = "photos/Camera-Gear"
     weight = 40
