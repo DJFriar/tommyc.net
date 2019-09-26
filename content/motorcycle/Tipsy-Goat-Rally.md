@@ -69,19 +69,20 @@ Having ended up back where we started, we continued on in a sort of figure S sha
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1774.jpg'>
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1775.jpg'>
 
-Having reached Santa Maria, we decided it was time to earn taht food art bonus. Cool Hand Luke's is a fantastic steakhouse here in the Central Coast, and they serve some of the best Tri-Tip in the area. Keisha had never been there, so with our lunch plans settled, we took our lunch break.
+Having reached Santa Maria, we decided it was time to earn that food art bonus. Cool Hand Luke's is a fantastic steakhouse here in the Central Coast, and they serve some of the best Tri-Tip in the area. Keisha had never been there, so with our lunch plans settled, we headed over to get our grub on.
 
 Here is what my plate looked like at the beginning:
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_2916.jpg'>
+
 And here is the art piece it turned into:
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_2919.jpg'>
 
-We continued north towards our goat, stopping along the way.
+With our bellies now full, we continued north towards our goat, stopping along the way.
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1778.jpg'>
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1779.jpg'>
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1780.jpg'>
 
-Having reached the Avila Valley Barn, we quickly found our goat (and an amazing Apple Pie candle, not pictured).
+We had Avila Valley Barn as a required stop as we knew they would have some goats. We parked and when we started walking into the place, they happened to be the first thing we ran into.
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_2922.jpg'>
 
 Having captured our goat bonus, we took a slightly scenic route over towards San Luis Obispo, capturing whatever bonuses we encountered along the way.
@@ -90,9 +91,9 @@ Having captured our goat bonus, we took a slightly scenic route over towards San
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1783.jpg'>
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1784.jpg'>
 
-At this point, we decided to head back towards home and end there, boosting our mileage in case anyone tied us. PLus, we were a little gtired by now and didn't want to continue getting farther away from home. So, about an hour later we arrived where we started and "punched out."
+At this point, we decided to head back towards home and end there, boosting our mileage in case anyone tied us. Plus, we were a little tired by now and didn't want to continue getting farther away from home. So southbound we went. About an hour later we arrived where we started and "punched out."
 
 Ending Receipt:
 <img class='ridelog-image' src='/images/tipsy_goat/IMG_1785.jpg'>
 
-In the end we had covered 196 miles and visited 61 wineries/breweries in just under 8 hours time. We both had a terrific ride, rode some amazing roads and took some incredible photos.
+In the end, we had covered 196 miles and visited 60 wineries/breweries in just under 8 hours time. We both had a terrific ride, rode some amazing roads, and took some incredible photos.

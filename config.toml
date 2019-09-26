@@ -1,7 +1,7 @@
 baseURL = "https://www.tommyc.net"
 LanguageCode = "en-us"
 defaultContentLanguage = "en"
-publishDir = "/User/tommy/Sites/-Prod/tommyc.net"
+publishDir = "/Users/tommy/Sites/-Prod/tommyc.net"
 title = "Tommy Craft"
 theme = "Crafted"
 
