@@ -4,10 +4,21 @@ date: 2018-07-23T09:39:00-07:00
 draft: false
 ---
 
-Fujifilm X-T1
-Fuji XF16-50mm f/3.8-5.8
-Meier 35mm f/1.4
-Meier 50mm f/2.0
+#### Camera Bodies
 
-Fujifilm STX-2
-Fujica 50mm f/1.9
+- Fujifilm X-T1
+- Fujifilm STX-2 (35mm)
+- iPhone XS
+
+#### Lenses
+
+- Fuji XF16-50mm f/3.8-5.8
+- Meier 35mm f/1.4
+- Meier 50mm f/2.0
+- Fujica 50mm f/1.9
+
+#### Adapters
+
+- Fotodiox Fuji X-Mount to Fujica X (yes, they are different)
+- Fotodiox Fuji X-Mount to M42 (screw mount)
+- Fotodiox Fuji X-Mount to Nikon F (my eldest daughter currently has a Nikon)

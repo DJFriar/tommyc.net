@@ -93,46 +93,44 @@ A check of the map showed CA3 in Chico, CA would be next. Some quick mental math
 
 The rest of CA-29 was just more of the same. This was the coldest part of the trip though, and I had to stop twice on the side of the road to add more gear. Also, it was dark out here. The canopy of trees was doign a good job blocking the light, and for the next 75 miles I saw only four other vehicles, all heading in the opposite direction I was.
 
-Eventually I reached Williams, CA. At this point boht hte bike and I were thristy and I was ready to walk around and confirm my legs were still with me. As I rested for a few minutes and drank some more water, I made many a mental note that I must return to CA-29 in the daylight to ride it again.
+Eventually I reached Williams, CA. At this point boht the bike and I were thristy and I was ready to walk around and confirm my legs were still with me. As I rested for a few minutes and drank some more water, I made many a mental note that I must return to CA-29 in the daylight to ride it again.
 
 ### Williams to Chico
 
 I reached Chico just after 1am. It was a cemetery, but the gates were locked. I double-checked in the mobile app, and it said 24/7. I looked around the entrence and spotted the sign "Cemetery Gates Locked at 7pm". Luckily I could still see the memorial, so I took a pic of both the memorial (from the wrong side) and the locked gate. I hoped it would be enough.
 
 <img class='ridelog-image' src='/images/toh_bbg/13-CA3a.jpeg'>
-  
-### Chico, CA - TOH Memorial CA3b (Proof the gate was locked and sign is posted)
 
 <img class='ridelog-image' src='/images/toh_bbg/13-CA3b.jpeg'>
   
-### Susanville, CA  - TOH Memorial CA6
+### Chico to Susanville - TOH Memorial CA6
+
+There's no stopping me yet, so onward I must go. I updated the nav destination to CA6 in Susanville and got a move on. The nav showed about 3 hours of riding to go, and this is tradionally the hardest time to stay awake, so I opened up Audible and started a new book.After a surprisingly quick 3 hours, I arrived at the Susanville bonus. Snapping this one felt expecially good, as this was the 7th and final California bonus. Now I just needed to continue on to my 1,000 mile proof and I could claim the Saddlesore Extreme Tour of Honor. I got back on the freeway and continued on ... towards what would end up being a slight miscalculation.
 
 <img class='ridelog-image' src='/images/toh_bbg/14-CA6.jpeg'>
   
-### Susanville, CA - Location Proof
+### Susanville to Reno, NV - SS1K Complete!!
 
-<img class='ridelog-image' src='/images/toh_bbg/15-Location_Proof.jpeg'>
+See, I wasn't intending to end up in Reno. At least, not yet. My original plan had me stopping just short of Reno in Dalton, CA to get my receipt so I could claim the In-State Saddlesore bonus. However, be it the darkness or fatigure, when I stopped at what I thought was a gas station in Dalton, it turned out I had ended up on the very outskirts of Reno. So much for staying in-state, but whoohoo on finishing another SS1k (and my first themed one)!!
+
+I grabbed the recipt, and took a much needed rest break here. Actually, it was mostly a break to warm up because the temp had suddenly dropped rather extremly, and I was freezing. So I hid inside the gas station foodmart and nursed two hot chocolates, My road to warmth and recovery took about an hour before I decided it was time to continue on.
+
+The plan now was to head back towards home, just a hair over 500 miles away from here. I had right around 11 hours to make it if I wanted to claim the BunBurner Extreme. From here on out, it would be straight interstate, straight to my bed.
   
-### Reno, NV - SS1K End!!!
+### Reno, NV to Colfax, CA
 
-<img class='ridelog-image' src='/images/toh_bbg/16-SS1k_End.jpeg'>
+I boogied on back southwest towards home, but I was feeling the effects of having stayed up all night riding. I made the decision to find somewhere I could take a nap and regain some much needed energy. Along the way, I kept noticing a ton a classic cars around me on the freeway. This was not only cool as hell, but it was helping me stay alert since I kept gawking at the next classic car I came across. Eventually, I was too hungry and too tired to continue on, so I pulled into a McDonald's in Colfax, CA for a quick breakfask and a much needed nap.
   
-### Reno, NV - Rest End
+### Colfax to Buellton - BB1500 Complete!
 
-<img class='ridelog-image' src='/images/toh_bbg/17-Rest_End.jpeg'>
-  
-### Colfax, CA - Food & Rest Start
+Just about 90 minutes later I woke up feeling surprisingly refreshed for having just napped in the seated position with my jacket as a pillow at an outdoor table. The place was still crawling with cars, so as I was getting on my Wing I asked the late 60s GTO parked next to me why there were so many cars. Turns out that Hot August Nights was this past week in Reno and had just ended. No wonder I was seeing so many awesome cars. Had I known I would have called this a Saddlesore and planned on staying in Reno for a day. Doh!
 
-<img class='ridelog-image' src='/images/toh_bbg/18-Rest_Start_Food.jpeg'>
-  
-### Colfax, CA  - Rest End & Gas
+Mysterty solved about the classic cars, I grabbed some fuel to document my ending rest time and headed back out onto the road.
 
-<img class='ridelog-image' src='/images/toh_bbg/19-Rest_End_Gas.jpeg'>
-  
-### Firebaugh, CA - Gas
+From here on to home, it was just interstate flatlands. I alternated between my audiobook and phone calls with friends and before I knew it I found myself back at the Shell station by my house. I filled the tank and collected my final receipt. I had attained my goal and completed a Tour of Honor BunBurner 1500 Extreme. One mile later I was in the comfort of my bed and off to dreamland.
 
-<img class='ridelog-image' src='/images/toh_bbg/20-Gas.jpeg'>
-  
-### Buellton, CA - End
+### Closing Thoughts
 
-<img class='ridelog-image' src='/images/toh_bbg/21-End.jpeg'>
+In the end, I had covered 1,548 miles in 33 hours, 42 minutes while collecting all seven Touf of Honor bonuses in California. More importantly, I had ridden what is probably the most beautioful road I've ridden yet (US-395), pushed myself a bit futher than I had before, and had a terrific time.
+
+Now to look at Arizona and Nevada and see if there's a route there I might be able to tackle before the season is over.
