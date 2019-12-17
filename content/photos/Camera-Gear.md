@@ -8,7 +8,7 @@ draft: false
 
 - Fujifilm X-T1
 - Fujifilm STX-2 (35mm)
-- iPhone XS
+- iPhone 11 Pro
 
 #### Lenses
 

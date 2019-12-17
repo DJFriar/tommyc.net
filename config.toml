@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 publishDir = "/Users/tommy/Sites/-Prod/tommyc.net"
 title = "Tommy Craft"
 theme = "Crafted"
+googleAnalytics = "UA-148917441-1"
 
 [author]
   name = "Tommy Craft"

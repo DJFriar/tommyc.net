@@ -1,0 +1,4008 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="31.5788986" lon="-94.7040463">
+  <name>AF101-A L Mangham Jr Regional Airport</name>
+</wpt>
+<wpt lat="29.8930978" lon="-92.1683333">
+  <name>AF102-Abbeville Heliport</name>
+</wpt>
+<wpt lat="45.4534583" lon="-98.4177261">
+  <name>AF103-Aberdeen Regional Airport</name>
+</wpt>
+<wpt lat="35.153708" lon="-87.056825">
+  <name>AF104-Abernathy Field</name>
+</wpt>
+<wpt lat="32.4118941" lon="-99.6800464">
+  <name>AF105-Abilene Airport</name>
+</wpt>
+<wpt lat="42.7736654" lon="-84.7389297">
+  <name>AF106-Abrams Airport</name>
+</wpt>
+<wpt lat="30.0372414" lon="-91.8816232">
+  <name>AF107-Acadiana Regional Airport</name>
+</wpt>
+<wpt lat="32.969972" lon="-96.836467">
+  <name>AF108-Addison Airport</name>
+</wpt>
+<wpt lat="44.3804755" lon="-74.2034253">
+  <name>AF109-Adirondock Regional Airport</name>
+</wpt>
+<wpt lat="42.7249282" lon="-110.9318687">
+  <name>AF110-Afton Airpark</name>
+</wpt>
+<wpt lat="33.6494671" lon="-81.6779112">
+  <name>AF111-Aiken Municipal Airport</name>
+</wpt>
+<wpt lat="42.5761771" lon="-100.0004658">
+  <name>AF112-Ainsworth Army Air Field</name>
+</wpt>
+<wpt lat="44.627777" lon="-93.228058">
+  <name>AF113-Airlake Airport</name>
+</wpt>
+<wpt lat="38.7584883" lon="-108.147633">
+  <name>AF114-Airpark Westwinds</name>
+</wpt>
+<wpt lat="40.6772859" lon="-77.6261758">
+  <name>AF115-Mifflin County Airport</name>
+</wpt>
+<wpt lat="46.5451187" lon="-93.6806566">
+  <name>AF116-Aitkin Municipal Airport</name>
+</wpt>
+<wpt lat="32.989403" lon="-111.9179179">
+  <name>AF117-Ak-Chin Regional Airport</name>
+</wpt>
+<wpt lat="44.638246" lon="-123.061476">
+  <name>AF118-Albany Municipal Airport</name>
+</wpt>
+<wpt lat="34.8291316" lon="-77.6068843">
+  <name>AF119-Albert J. Ellis Airport</name>
+</wpt>
+<wpt lat="43.681389" lon="-93.367226">
+  <name>AF120-Albert Lea Municipal Airport</name>
+</wpt>
+<wpt lat="41.729443" lon="-98.055832">
+  <name>AF121-Albion Municipal Airport</name>
+</wpt>
+<wpt lat="40.4377366" lon="-86.9414449">
+  <name>AF122-Alexander Field</name>
+</wpt>
+<wpt lat="31.3274112" lon="-92.5451856">
+  <name>AF123-Alexandria International Airport</name>
+</wpt>
+<wpt lat="43.077778" lon="-94.271942">
+  <name>AF124-Algona Municipal Airport</name>
+</wpt>
+<wpt lat="27.740833" lon="-98.027222">
+  <name>AF125-Alice International Airport</name>
+</wpt>
+<wpt lat="42.6513898" lon="-111.5820058">
+  <name>AF126-Allen H. Tigert Airport</name>
+</wpt>
+<wpt lat="30.3845558" lon="-103.6840372">
+  <name>AF127-Alpine Casparis Municipal Airport</name>
+</wpt>
+<wpt lat="36.7730533" lon="-98.6696184">
+  <name>AF128-Alva Regional Airport Code Match These Words</name>
+</wpt>
+<wpt lat="41.9987151" lon="-93.6223123">
+  <name>AF129-Ames Municipal Airport</name>
+</wpt>
+<wpt lat="48.497852" lon="-122.6605862">
+  <name>AF130-Anacortes Airport</name>
+</wpt>
+<wpt lat="34.1258882" lon="-118.2077046">
+  <name>AF131-Anderson Field</name>
+</wpt>
+<wpt lat="34.4937448" lon="-82.7094554">
+  <name>AF132-Anderson Regional Airport</name>
+</wpt>
+<wpt lat="32.3227879" lon="-102.5319051">
+  <name>AF133-Andrews County Airport</name>
+</wpt>
+<wpt lat="36.4202828" lon="-105.2918534">
+  <name>AF134-Angel Fire Airport</name>
+</wpt>
+<wpt lat="31.231805" lon="-94.7536204">
+  <name>AF135-Angelina County Airport</name>
+</wpt>
+<wpt lat="37.2058393" lon="-107.8661156">
+  <name>AF136-Animas Air Park</name>
+</wpt>
+<wpt lat="42.2251956" lon="-83.7456555">
+  <name>AF137-Ann Arbor Municipal Airport</name>
+</wpt>
+<wpt lat="45.142048" lon="-93.217556">
+  <name>AF138-Anoka County Airport</name>
+</wpt>
+<wpt lat="42.1103826" lon="-98.0390178">
+  <name>AF139-Antelope County Airport</name>
+</wpt>
+<wpt lat="44.9880448" lon="-85.1976656">
+  <name>AF140-Antrim Co. Airport</name>
+</wpt>
+<wpt lat="29.7264" lon="-85.024696">
+  <name>AF141-Apalachicola Regional Airport</name>
+</wpt>
+<wpt lat="34.5732806" lon="-117.1903733">
+  <name>AF142-Apple Valley Airport</name>
+</wpt>
+<wpt lat="40.9709197" lon="-124.1065825">
+  <name>AF143-Arcata Eureka Airport</name>
+</wpt>
+<wpt lat="34.1519042" lon="-97.1223317">
+  <name>AF144-Ardmore Downtown Executive Airport</name>
+</wpt>
+<wpt lat="35.959347" lon="-89.9632271">
+  <name>AF145-Arkansas Aeroplex</name>
+</wpt>
+<wpt lat="32.6657223" lon="-97.0914898">
+  <name>AF146-Arlington Municipal Airport</name>
+</wpt>
+<wpt lat="33.6565685" lon="-101.8222599">
+  <name>AF147-Preston Smith International Airport</name>
+</wpt>
+<wpt lat="40.2730644" lon="-79.4082315">
+  <name>AF148-Arnold Palmer Regional Airport</name>
+</wpt>
+<wpt lat="42.190284" lon="-122.660628">
+  <name>AF149-Ashland Municipal Airport</name>
+</wpt>
+<wpt lat="38.5544051" lon="-82.737168">
+  <name>AF150-Ashland Regional Airport</name>
+</wpt>
+<wpt lat="35.4348962" lon="-82.5378541">
+  <name>AF151-Ashville Regional Airport</name>
+</wpt>
+<wpt lat="43.683333" lon="-81.004444">
+  <name>AF152-Atwood Airport</name>
+</wpt>
+<wpt lat="32.6145847" lon="-85.4326874">
+  <name>AF153-Auburn Airport</name>
+</wpt>
+<wpt lat="37.6765082" lon="-97.0783708">
+  <name>AF154-Augusta Municipal Airport</name>
+</wpt>
+<wpt lat="45.2470883" lon="-122.7695989">
+  <name>AF155-Aurora Airport</name>
+</wpt>
+<wpt lat="41.7699772" lon="-88.4682871">
+  <name>AF156-Aurora Municipal Airport</name>
+</wpt>
+<wpt lat="30.4000778" lon="-97.5738448">
+  <name>AF157-Austin Executive Airport</name>
+</wpt>
+<wpt lat="32.4640053" lon="-100.4672241">
+  <name>AF158-Avenger Field</name>
+</wpt>
+<wpt lat="36.834726" lon="-108.028402">
+  <name>AF159-Aztec Municipal Airport</name>
+</wpt>
+<wpt lat="34.59511" lon="-113.16817">
+  <name>AF160-Bagdad Airport</name>
+</wpt>
+<wpt lat="44.8377716" lon="-117.809527">
+  <name>AF161-Baker City Airport</name>
+</wpt>
+<wpt lat="35.3314237" lon="-119.0021185">
+  <name>AF162-Bakersfield Municipal Airport</name>
+</wpt>
+<wpt lat="47.3953902" lon="-121.537244">
+  <name>AF163-Bandera State Airport</name>
+</wpt>
+<wpt lat="43.0836603" lon="-124.4096732">
+  <name>AF164-Bandon State Airport</name>
+</wpt>
+<wpt lat="44.808176" lon="-68.8165035">
+  <name>AF165-Bangor International Airport</name>
+</wpt>
+<wpt lat="44.4450987" lon="-68.3621263">
+  <name>AF166-Bar Harbor Airport</name>
+</wpt>
+<wpt lat="32.5018595" lon="-93.6571416">
+  <name>AF167-Barksdale Air Force Base</name>
+</wpt>
+<wpt lat="42.1583986" lon="-72.7156067">
+  <name>AF168-Barnes Airport</name>
+</wpt>
+<wpt lat="46.941113" lon="-98.0175019">
+  <name>AF169-Barnes County Municipal Airport</name>
+</wpt>
+<wpt lat="33.9809962" lon="-83.6759214">
+  <name>AF170-Barrow County Airport</name>
+</wpt>
+<wpt lat="32.6625147" lon="-113.4776098">
+  <name>AF171-Barry M. Goldwater Range</name>
+</wpt>
+<wpt lat="34.8573499" lon="-116.7881655">
+  <name>AF172-Barstow-Daggett Airport</name>
+</wpt>
+<wpt lat="36.7633668" lon="-96.0104655">
+  <name>AF173-Bartlesville Municipal Airport</name>
+</wpt>
+<wpt lat="38.9750473" lon="-76.3267278">
+  <name>AF174-Bay Bridge Airport</name>
+</wpt>
+<wpt lat="28.973516" lon="-95.8608114">
+  <name>AF175-Bay City Regional Airport</name>
+</wpt>
+<wpt lat="29.7863" lon="-94.953693">
+  <name>AF176-Baytown Airport</name>
+</wpt>
+<wpt lat="40.6469454" lon="-81.5557408">
+  <name>AF177-Beach City Airport</name>
+</wpt>
+<wpt lat="39.9737493" lon="-90.4056786">
+  <name>AF178-Beardstown Airport</name>
+</wpt>
+<wpt lat="40.2998811" lon="-96.7498707">
+  <name>AF179-Beatrice Municipal Airport</name>
+</wpt>
+<wpt lat="36.8680799" lon="-116.7844057">
+  <name>AF180-Beatty Airport</name>
+</wpt>
+<wpt lat="30.070341" lon="-94.2118558">
+  <name>AF181-Beaumont Municipal Airport</name>
+</wpt>
+<wpt lat="38.231899" lon="-112.673897">
+  <name>AF182-Beaver City Municipal Airport</name>
+</wpt>
+<wpt lat="37.7916696" lon="-81.1234507">
+  <name>AF183-Beckley Raleigh County Memorial Airport</name>
+</wpt>
+<wpt lat="40.085278" lon="-78.512222">
+  <name>AF184-Bedford County Airport</name>
+</wpt>
+<wpt lat="28.3692324" lon="-97.7978736">
+  <name>AF185-Beeville Municipal Airport</name>
+</wpt>
+<wpt lat="34.2662432" lon="-88.766334">
+  <name>AF186-Belden Regional Airport</name>
+</wpt>
+<wpt lat="44.409536" lon="-69.008349">
+  <name>AF187-Belfast Municipal Airport</name>
+</wpt>
+<wpt lat="36.6081895" lon="-83.7366251">
+  <name>AF188-Bell County Airport</name>
+</wpt>
+<wpt lat="38.9295548" lon="-77.0346266">
+  <name>AF189-Bell Field</name>
+</wpt>
+<wpt lat="38.5491996" lon="-89.8216405">
+  <name>AF190-Belleville Airport</name>
+</wpt>
+<wpt lat="48.7955792" lon="-122.5330642">
+  <name>AF191-Bellingham International Airport</name>
+</wpt>
+<wpt lat="47.5092442" lon="-94.9329041">
+  <name>AF192-Bemidji Regional Airport</name>
+</wpt>
+<wpt lat="33.9519038" lon="-83.3251297">
+  <name>AF193-Ben Epps Airport</name>
+</wpt>
+<wpt lat="31.999033" lon="-110.3578162">
+  <name>AF194-Benson Municipal Airport</name>
+</wpt>
+<wpt lat="33.1899056" lon="-80.034304">
+  <name>AF195-Berkeley County Airport</name>
+</wpt>
+<wpt lat="31.212778" lon="-83.227776">
+  <name>AF196-Berrien County Airport</name>
+</wpt>
+<wpt lat="45.9551935" lon="-112.5021977">
+  <name>AF197-Bert Mooney Airport</name>
+</wpt>
+<wpt lat="43.464111" lon="-70.472389">
+  <name>AF198-Biddeford Municipal Airport</name>
+</wpt>
+<wpt lat="34.2617204" lon="-116.8536527">
+  <name>AF199-Big Bear City Airport</name>
+</wpt>
+<wpt lat="45.1329599" lon="-115.3208762">
+  <name>AF200-Big Creek Airport</name>
+</wpt>
+<wpt lat="45.8035081" lon="-108.5379142">
+  <name>AF201-Billings Logan International</name>
+</wpt>
+<wpt lat="33.8847498" lon="-91.5321797">
+  <name>AF202-Billy Free Memorial Airport</name>
+</wpt>
+<wpt lat="31.458258" lon="-109.5963849">
+  <name>AF203-Bisbee Douglas International Airport</name>
+</wpt>
+<wpt lat="31.36399" lon="-109.883129">
+  <name>AF204-Bisbee Municipal Airport</name>
+</wpt>
+<wpt lat="42.973423" lon="-83.7388942">
+  <name>AF205-Bishop Airport</name>
+</wpt>
+<wpt lat="46.77519" lon="-100.7572447">
+  <name>AF206-Bismark Airport</name>
+</wpt>
+<wpt lat="37.0738889" lon="-77.9525">
+  <name>AF207-Blackstone Army Airfield</name>
+</wpt>
+<wpt lat="36.7460552" lon="-97.3488324">
+  <name>AF208-Blackwell Tonkawa Municipal Airport</name>
+</wpt>
+<wpt lat="40.2949704" lon="-78.3238791">
+  <name>AF209-Blair County Airport</name>
+</wpt>
+<wpt lat="41.4161066" lon="-96.1071672">
+  <name>AF210-Blair Municipal Airport</name>
+</wpt>
+<wpt lat="39.4039155" lon="-76.6268099">
+  <name>AF211-Blake Field</name>
+</wpt>
+<wpt lat="37.5821757" lon="-109.4815784">
+  <name>AF212-Blanding Municipal Airport</name>
+</wpt>
+<wpt lat="39.549168" lon="-97.652222">
+  <name>AF213-Blosser Municipal Airport</name>
+</wpt>
+<wpt lat="43.5972622" lon="-94.0888125">
+  <name>AF214-Blue Earth Municipal Airport</name>
+</wpt>
+<wpt lat="37.2545347" lon="-109.6334287">
+  <name>AF215-Bluff Airstrip</name>
+</wpt>
+<wpt lat="33.6177286" lon="-114.716084">
+  <name>AF216-Blythe Airport</name>
+</wpt>
+<wpt lat="35.9369503" lon="-89.8322374">
+  <name>AF217-Blytheville Municipal Airport</name>
+</wpt>
+<wpt lat="45.8170758" lon="-119.8135195">
+  <name>AF218-Boardman Airport</name>
+</wpt>
+<wpt lat="40.5179733" lon="-106.8650734">
+  <name>AF219-Bob Adams Field</name>
+</wpt>
+<wpt lat="30.7771025" lon="-86.5246482">
+  <name>AF220-Bob Sikes Airport</name>
+</wpt>
+<wpt lat="43.5658231" lon="-116.2223159">
+  <name>AF221-Boise Airport</name>
+</wpt>
+<wpt lat="35.9482607" lon="-114.8551759">
+  <name>AF222-Boulder City Municipal Airport</name>
+</wpt>
+<wpt lat="37.2500629" lon="-80.5280032">
+  <name>AF223-Boley Field</name>
+</wpt>
+<wpt lat="41.6958919" lon="-88.1288051">
+  <name>AF224-Bolingbrook's Clow International Airport</name>
+</wpt>
+<wpt lat="37.5981704" lon="-93.350043">
+  <name>AF225-Bolivar Municipal Airport</name>
+</wpt>
+<wpt lat="46.6889629" lon="-92.0939308">
+  <name>AF226-Bong Airport</name>
+</wpt>
+<wpt lat="36.2609594" lon="-93.1541237">
+  <name>AF227-Boone County Regional Airport</name>
+</wpt>
+<wpt lat="42.0510014" lon="-93.8492698">
+  <name>AF228-Boone Municipal Airport</name>
+</wpt>
+<wpt lat="39.0135003" lon="-123.3805026">
+  <name>AF229-Boonville Airport</name>
+</wpt>
+<wpt lat="33.2580351" lon="-116.3245935">
+  <name>AF230-Borrego Valley Airport</name>
+</wpt>
+<wpt lat="48.8319601" lon="-100.4243395">
+  <name>AF231-Bottineau Municipal Airport</name>
+</wpt>
+<wpt lat="40.0372597" lon="-105.22812">
+  <name>AF232-Boulder Municipal Airport</name>
+</wpt>
+<wpt lat="32.5854314" lon="-97.5917458">
+  <name>AF233-Bourland Field</name>
+</wpt>
+<wpt lat="47.0296625" lon="-120.534954">
+  <name>AF234-Bowers Field</name>
+</wpt>
+<wpt lat="33.6016649" lon="-97.775558">
+  <name>AF235-Bowie Municipal Airport</name>
+</wpt>
+<wpt lat="38.2289185" lon="-85.6653998">
+  <name>AF236-Bowman Field</name>
+</wpt>
+<wpt lat="38.175662" lon="-85.7369231">
+  <name>AF237-Louisville International Airport</name>
+</wpt>
+<wpt lat="46.1706393" lon="-103.3031784">
+  <name>AF238-Bowman Municipal Airport</name>
+</wpt>
+<wpt lat="45.7771073" lon="-111.1532346">
+  <name>AF239-Bozeman Yellowstone International Airport</name>
+</wpt>
+<wpt lat="40.7422288" lon="-75.2429623">
+  <name>AF240-Braden Airpark</name>
+</wpt>
+<wpt lat="41.7993285" lon="-78.6396349">
+  <name>AF241-Bradford Regional Airport</name>
+</wpt>
+<wpt lat="46.3930459" lon="-94.1412635">
+  <name>AF242-Brainerd Lakes Regional Airport</name>
+</wpt>
+<wpt lat="39.9897194" lon="-75.579071">
+  <name>AF243-Brandywine Airport</name>
+</wpt>
+<wpt lat="36.6986111" lon="-93.4022222">
+  <name>AF244-Branson West Municipal Airport</name>
+</wpt>
+<wpt lat="47.4924824" lon="-122.7665241">
+  <name>AF245-Bremerton National Airport</name>
+</wpt>
+<wpt lat="30.2194795" lon="-96.374613">
+  <name>AF246-Brenham Municipal Airport</name>
+</wpt>
+<wpt lat="40.0770247" lon="-95.5875459">
+  <name>AF247-Brenner Field</name>
+</wpt>
+<wpt lat="33.174721" lon="-97.828331">
+  <name>AF248-Bridgeport Municipal Airport</name>
+</wpt>
+<wpt lat="41.552419" lon="-112.0629715">
+  <name>AF249-Brigham City Regional Airport</name>
+</wpt>
+<wpt lat="37.8964416" lon="-85.9503073">
+  <name>AF250-Brooks Field</name>
+</wpt>
+<wpt lat="33.1812035" lon="-102.2743489">
+  <name>AF251-Brown Field</name>
+</wpt>
+<wpt lat="31.7949779" lon="-98.9555739">
+  <name>AF252-Brownwood Regional Airport</name>
+</wpt>
+<wpt lat="44.4148302" lon="-115.3185183">
+  <name>AF253-Bruce Meadows Airfield</name>
+</wpt>
+<wpt lat="40.3214642" lon="-97.4351565">
+  <name>AF254-Bruning Army Airfield</name>
+</wpt>
+<wpt lat="47.3719097" lon="-122.1530127">
+  <name>AF255-Brunner Field</name>
+</wpt>
+<wpt lat="43.898449" lon="-69.9342956">
+  <name>AF256-Brunswick Executive Airport</name>
+</wpt>
+<wpt lat="40.263866" lon="-103.581055">
+  <name>AF257-Brush Municipal Airport</name>
+</wpt>
+<wpt lat="37.701097" lon="-112.15467">
+  <name>AF258-Bryce Canyon Airport</name>
+</wpt>
+<wpt lat="28.0425221" lon="-97.5435126">
+  <name>AF259-Bubba Thomas Airport</name>
+</wpt>
+<wpt lat="37.9902157" lon="-122.0561317">
+  <name>AF260-Buchanan Field</name>
+</wpt>
+<wpt lat="33.4227701" lon="-112.6853449">
+  <name>AF261-Buckeye Municipal Airport</name>
+</wpt>
+<wpt lat="39.7040997" lon="-104.7536301">
+  <name>AF262-Buckley Air Force Base</name>
+</wpt>
+<wpt lat="45.1603418" lon="-93.8451431">
+  <name>AF263-Buffalo Municipal Airport</name>
+</wpt>
+<wpt lat="42.5952032" lon="-114.7970739">
+  <name>AF264-Buhl Municipal Airport</name>
+</wpt>
+<wpt lat="33.0428368" lon="-82.003777">
+  <name>AF265-Burke County Airport</name>
+</wpt>
+<wpt lat="41.5115689" lon="-81.6899155">
+  <name>AF266-Burke Lakefront Airport</name>
+</wpt>
+<wpt lat="42.5397989" lon="-113.7686094">
+  <name>AF267-Burley Simplot Airport</name>
+</wpt>
+<wpt lat="45.822777" lon="-92.3724979">
+  <name>AF268-Burnett County Airfield</name>
+</wpt>
+<wpt lat="33.3688534" lon="-81.9657651">
+  <name>AF269-Bush Field</name>
+</wpt>
+<wpt lat="39.3638831" lon="-84.5254611">
+  <name>AF270-Butler County Regional Airport</name>
+</wpt>
+<wpt lat="41.8796066" lon="-87.6190377">
+  <name>AF271-Butler Field</name>
+</wpt>
+<wpt lat="32.564126" lon="-84.2443965">
+  <name>AF272-Butler Municipal Airport</name>
+</wpt>
+<wpt lat="41.887093" lon="-121.9755629">
+  <name>AF273-Butte Valley Airport</name>
+</wpt>
+<wpt lat="37.8301667" lon="-121.6292953">
+  <name>AF274-Byron Airport</name>
+</wpt>
+<wpt lat="34.111058" lon="-117.68485">
+  <name>AF275-Cable Airport</name>
+</wpt>
+<wpt lat="43.6421785" lon="-116.6392252">
+  <name>AF276-Caldwell Industrial Airport</name>
+</wpt>
+<wpt lat="30.51548" lon="-96.704086">
+  <name>AF277-Caldwell Municipal Airport</name>
+</wpt>
+<wpt lat="32.6665557" lon="-115.5099079">
+  <name>AF278-Calexico International Airport</name>
+</wpt>
+<wpt lat="39.0447976" lon="-104.2930178">
+  <name>AF279-Calhan Airport</name>
+</wpt>
+<wpt lat="35.1494089" lon="-118.0158897">
+  <name>AF280-California City Airport</name>
+</wpt>
+<wpt lat="34.2089821" lon="-119.0794533">
+  <name>AF281-Camarillo Airport</name>
+</wpt>
+<wpt lat="38.542733" lon="-76.0359018">
+  <name>AF282-Cambridge Dorchester Regional Airport</name>
+</wpt>
+<wpt lat="45.558613" lon="-93.264725">
+  <name>AF283-Cambridge Municipal Airport</name>
+</wpt>
+<wpt lat="37.974724" lon="-92.691666">
+  <name>AF284-Camdenton Memorial Airport</name>
+</wpt>
+<wpt lat="39.726387" lon="-94.275276">
+  <name>AF285-Cameron Memorial Airport</name>
+</wpt>
+<wpt lat="30.8788332" lon="-96.972528">
+  <name>AF286-Cameron Municipal Airpark</name>
+</wpt>
+<wpt lat="44.348086" lon="-105.5390962">
+  <name>AF287-Campbell County Airport</name>
+</wpt>
+<wpt lat="37.4583446" lon="-75.877904">
+  <name>AF288-Campbell Field Airport</name>
+</wpt>
+<wpt lat="41.5691667" lon="-73.4619444">
+  <name>AF289-Candlelight Farms Airport</name>
+</wpt>
+<wpt lat="48.4840611" lon="-99.2374781">
+  <name>AF290-Cando Airport</name>
+</wpt>
+<wpt lat="34.3897838" lon="-103.3183038">
+  <name>AF291-Cannon AFB</name>
+</wpt>
+<wpt lat="32.5873592" lon="-95.8633089">
+  <name>AF292-Canton Hackney Airport</name>
+</wpt>
+<wpt lat="35.0214346" lon="-92.5575292">
+  <name>AF293-Cantrell Field</name>
+</wpt>
+<wpt lat="38.7572626" lon="-109.7521734">
+  <name>AF294-Canyonlands Field</name>
+</wpt>
+<wpt lat="33.9301089" lon="-78.07756">
+  <name>AF295-Cape Fear Regional Jetport</name>
+</wpt>
+<wpt lat="37.226842" lon="-89.5645181">
+  <name>AF296-Cape Girardeau Regional Airport</name>
+</wpt>
+<wpt lat="39.0082827" lon="-74.9079534">
+  <name>AF297-Cape May County Airport</name>
+</wpt>
+<wpt lat="40.2177006" lon="-76.8506097">
+  <name>AF298-Capital City Airport</name>
+</wpt>
+<wpt lat="46.7017902" lon="-92.5030159">
+  <name>AF299-Carlton County Airport</name>
+</wpt>
+<wpt lat="35.1218041" lon="-98.5753441">
+  <name>AF300-Carnegie Municipal Airport</name>
+</wpt>
+<wpt lat="47.4532102" lon="-99.1542082">
+  <name>AF301-Carrington Airport</name>
+</wpt>
+<wpt lat="36.3833008" lon="-93.619629">
+  <name>AF302-Carroll County Airport</name>
+</wpt>
+<wpt lat="39.1927261" lon="-119.7351044">
+  <name>AF303-Carson City Airport</name>
+</wpt>
+<wpt lat="29.7286803" lon="-97.6607452">
+  <name>AF304-Carter Memorial Airport</name>
+</wpt>
+<wpt lat="32.9552234" lon="-111.7608857">
+  <name>AF305-Casa Grande Municipal Airport</name>
+</wpt>
+<wpt lat="47.5147324" lon="-120.4847216">
+  <name>AF306-Cashmere-Dryden Airport</name>
+</wpt>
+<wpt lat="40.709246" lon="-86.3762">
+  <name>AF307-Cass Regional Airport</name>
+</wpt>
+<wpt lat="36.697498" lon="-93.900558">
+  <name>AF308-Cassville Municipal Airport</name>
+</wpt>
+<wpt lat="37.3734598" lon="-120.5730887">
+  <name>AF309-Castle Airport</name>
+</wpt>
+<wpt lat="42.2422309" lon="-78.3716379">
+  <name>AF310-Cattaraugus County Olean Airport</name>
+</wpt>
+<wpt lat="48.5186111" lon="-116.8222222">
+  <name>AF311-Cavanaugh Bay Airport</name>
+</wpt>
+<wpt lat="32.3455852" lon="-104.2526954">
+  <name>AF312-Cavern City Air Terminal</name>
+</wpt>
+<wpt lat="30.22136" lon="-81.880705">
+  <name>AF313-Cecil Airport</name>
+</wpt>
+<wpt lat="35.509683" lon="-78.346606">
+  <name>AF314-Cecil Smith Field</name>
+</wpt>
+<wpt lat="37.6960908" lon="-113.0972155">
+  <name>AF315-Cedar City Regional Airport</name>
+</wpt>
+<wpt lat="39.5751033" lon="-104.8451384">
+  <name>AF316-Centennial Airport</name>
+</wpt>
+<wpt lat="31.8322704" lon="-94.1550156">
+  <name>AF317-Center Municipal Airport</name>
+</wpt>
+<wpt lat="35.837218" lon="-87.444005">
+  <name>AF318-Centerville Municipal Airport</name>
+</wpt>
+<wpt lat="41.11668" lon="-98.0503389">
+  <name>AF319-Central City Airport</name>
+</wpt>
+<wpt lat="38.823634" lon="-106.1272192">
+  <name>AF320-Central Colorado Regional Airport</name>
+</wpt>
+<wpt lat="40.9694381" lon="-98.3129098">
+  <name>AF321-Central Nebraska Regional Airport</name>
+</wpt>
+<wpt lat="43.8185762" lon="-99.3272585">
+  <name>AF322-Chamberlain Field</name>
+</wpt>
+<wpt lat="42.916668" lon="-97.385834">
+  <name>AF323-Chan Gurney Airport</name>
+</wpt>
+<wpt lat="45.865578" lon="-95.394709">
+  <name>AF324-Chandler Field</name>
+</wpt>
+<wpt lat="37.6733737" lon="-95.488313">
+  <name>AF325-Chanute Municipal Airport</name>
+</wpt>
+<wpt lat="41.019722" lon="-93.359726">
+  <name>AF326-Chariton Municipal Airport</name>
+</wpt>
+<wpt lat="42.1527461" lon="-79.2591476">
+  <name>AF327-Chautauqua County Airport</name>
+</wpt>
+<wpt lat="46.6768746" lon="-122.9828452">
+  <name>AF328-Chehalis–Centralia Airport</name>
+</wpt>
+<wpt lat="34.3093896" lon="-84.4252189">
+  <name>AF329-Cherokee Co. Airport</name>
+</wpt>
+<wpt lat="34.3093896" lon="-84.4252189">
+  <name>AF330-Cherokee County Regional Airport</name>
+</wpt>
+<wpt lat="36.7873367" lon="-98.358668">
+  <name>AF331-Cherokee Municipal Airport</name>
+</wpt>
+<wpt lat="41.3834824" lon="-72.5063753">
+  <name>AF332-Chester Airport</name>
+</wpt>
+<wpt lat="39.7802608" lon="-93.4952044">
+  <name>AF333-Chillicothe Municipal Airport</name>
+</wpt>
+<wpt lat="42.5794596" lon="-121.8793936">
+  <name>AF334-Chiloquin State Airport</name>
+</wpt>
+<wpt lat="32.850483" lon="-86.611436">
+  <name>AF335-Chilton County Airport</name>
+</wpt>
+<wpt lat="46.2577577" lon="-84.4744174">
+  <name>AF336-Chippewa County International Airport</name>
+</wpt>
+<wpt lat="37.1136731" lon="-120.248942">
+  <name>AF337-Chowchilla Municipal Airport</name>
+</wpt>
+<wpt lat="39.2550034" lon="-84.7762585">
+  <name>AF339-Cincinnati West Airport</name>
+</wpt>
+<wpt lat="39.575491" lon="-75.8715503">
+  <name>AF340-Claremont Airport</name>
+</wpt>
+<wpt lat="36.294445" lon="-95.479721">
+  <name>AF341-Claremore Regional Airport</name>
+</wpt>
+<wpt lat="43.0687006" lon="-78.6912808">
+  <name>AF342-Clarence Aerodrome</name>
+</wpt>
+<wpt lat="34.6509702" lon="-91.3938789">
+  <name>AF343-Clarendon Municipal Airport</name>
+</wpt>
+<wpt lat="41.2244738" lon="-79.4393549">
+  <name>AF344-Clarion County Airport</name>
+</wpt>
+<wpt lat="38.3660345" lon="-85.7383886">
+  <name>AF345-Clark Regional Airport</name>
+</wpt>
+<wpt lat="32.0863797" lon="-88.7394765">
+  <name>AF346-Clarke County Airport</name>
+</wpt>
+<wpt lat="35.470554" lon="-93.427223">
+  <name>AF347-Clarksville Municipal Airport</name>
+</wpt>
+<wpt lat="36.621774" lon="-87.419041">
+  <name>AF348-Clarksville Regonal Airport</name>
+</wpt>
+<wpt lat="32.195084" lon="-81.871307">
+  <name>AF349-Claxton Evans County Airport</name>
+</wpt>
+<wpt lat="39.3808056" lon="-97.1628736">
+  <name>AF350-Clay Center Municipal Airport</name>
+</wpt>
+<wpt lat="47.4919176" lon="-122.2175062">
+  <name>AF351-Clayton Scott Field</name>
+</wpt>
+<wpt lat="47.1931568" lon="-120.8843793">
+  <name>AF352-Cle Elum Municipal Airport</name>
+</wpt>
+<wpt lat="41.048067" lon="-78.4124329">
+  <name>AF353-Clearfield Lawrence Airport</name>
+</wpt>
+<wpt lat="33.7595624" lon="-90.7550373">
+  <name>AF354-Cleveland Municipal Airport</name>
+</wpt>
+<wpt lat="35.2118304" lon="-84.7981226">
+  <name>AF355-Cleveland TN Regional Jetport</name>
+</wpt>
+<wpt lat="41.8261799" lon="-90.3298824">
+  <name>AF356-Clinton Municipal Airport</name>
+</wpt>
+<wpt lat="35.5376222" lon="-98.9321047">
+  <name>AF357-Clinton Regional Airport</name>
+</wpt>
+<wpt lat="38.7758801" lon="-122.9923767">
+  <name>AF358-Cloverdale Airport</name>
+</wpt>
+<wpt lat="34.4265479" lon="-103.0785154">
+  <name>AF359-Clovis Municipal Airport</name>
+</wpt>
+<wpt lat="44.4847648" lon="-103.7879276">
+  <name>AF360-Clyde Ice Field</name>
+</wpt>
+<wpt lat="36.153826" lon="-120.2933665">
+  <name>AF361-Coalinga Municipal Airport</name>
+</wpt>
+<wpt lat="32.24424" lon="-109.893959">
+  <name>AF362-Cochise County Airport</name>
+</wpt>
+<wpt lat="38.3032412" lon="-95.7275877">
+  <name>AF363-Coffey County Airport</name>
+</wpt>
+<wpt lat="37.0941308" lon="-95.5716456">
+  <name>AF364-Coffeyville Municipal Airport</name>
+</wpt>
+<wpt lat="39.4281715" lon="-101.0489845">
+  <name>AF365-Colby Municipal Airport</name>
+</wpt>
+<wpt lat="31.8445551" lon="-99.4073706">
+  <name>AF366-Coleman Municipal Airport</name>
+</wpt>
+<wpt lat="39.4788707" lon="-88.2794809">
+  <name>AF367-Coles County Memorial Airport</name>
+</wpt>
+<wpt lat="38.801712" lon="-104.7026039">
+  <name>AF368-Colorado Springs Airport</name>
+</wpt>
+<wpt lat="33.941917" lon="-81.1220015">
+  <name>AF369-Columbia Airport</name>
+</wpt>
+<wpt lat="45.6184072" lon="-121.1726446">
+  <name>AF370-Columbia Gorge Regional Airport</name>
+</wpt>
+<wpt lat="39.9999399" lon="-82.8871767">
+  <name>AF371-Columbus Airport</name>
+</wpt>
+<wpt lat="39.2556639" lon="-85.8971316">
+  <name>AF372-Columbus Municipal Airport</name>
+</wpt>
+<wpt lat="48.5454392" lon="-117.8818202">
+  <name>AF373-Colville Airport</name>
+</wpt>
+<wpt lat="31.9189" lon="-98.599197">
+  <name>AF374-Comanche County City Airport</name>
+</wpt>
+<wpt lat="33.2891874" lon="-95.9008343">
+  <name>AF375-Commerce Municipal Airport</name>
+</wpt>
+<wpt lat="48.5299634" lon="-121.7586637">
+  <name>AF376-Concrete Airport</name>
+</wpt>
+<wpt lat="45.245638" lon="-120.1673305">
+  <name>AF377-Condon State Airport</name>
+</wpt>
+<wpt lat="42.7946528" lon="-105.3841852">
+  <name>AF378-Converse County Airport</name>
+</wpt>
+<wpt lat="47.8197853" lon="-92.6844206">
+  <name>AF379-Cook Municipal Airport</name>
+</wpt>
+<wpt lat="32.9364288" lon="-111.4228007">
+  <name>AF380-Coolidge Municipal Airport</name>
+</wpt>
+<wpt lat="47.1416678" lon="-124.18711">
+  <name>AF381-Copalis State Airport</name>
+</wpt>
+<wpt lat="33.8954583" lon="-117.5983126">
+  <name>AF382-Corona Municipal Airport</name>
+</wpt>
+<wpt lat="32.0288439" lon="-96.3969612">
+  <name>AF383-Corsicana Municipal Airport</name>
+</wpt>
+<wpt lat="37.3026683" lon="-108.6280522">
+  <name>AF384-Cortez Municipal Airport</name>
+</wpt>
+<wpt lat="43.8041894" lon="-123.0321979">
+  <name>AF385-Cottage Grove State Airport</name>
+</wpt>
+<wpt lat="34.7297583" lon="-112.0353341">
+  <name>AF386-Cottonwood Municipal Airport</name>
+</wpt>
+<wpt lat="28.454067" lon="-99.218314">
+  <name>AF387-Cotulla La Salle County Airport</name>
+</wpt>
+<wpt lat="30.716149" lon="-96.3330005">
+  <name>AF388-Coulter Airfield</name>
+</wpt>
+<wpt lat="41.2608514" lon="-95.7594729">
+  <name>AF389-Council Bluffs Airport</name>
+</wpt>
+<wpt lat="33.6294927" lon="-83.8373415">
+  <name>AF390-Covington Municipal Airport</name>
+</wpt>
+<wpt lat="32.9281906" lon="-96.889726">
+  <name>AF391-Cox Field</name>
+</wpt>
+<wpt lat="32.3527585" lon="-86.9948101">
+  <name>AF392-Craig Field</name>
+</wpt>
+<wpt lat="40.4928641" lon="-107.5230511">
+  <name>AF393-Craig Moffat Airport</name>
+</wpt>
+<wpt lat="41.7762039" lon="-99.1487286">
+  <name>AF394-Cram Field</name>
+</wpt>
+<wpt lat="39.014819" lon="-87.6445473">
+  <name>AF395-Crawford County Airport</name>
+</wpt>
+<wpt lat="36.5867125" lon="-115.6739729">
+  <name>AF396-Creech Air Force Base</name>
+</wpt>
+<wpt lat="38.5372495" lon="-106.9353988">
+  <name>AF397-Crested Butte Regional Airport</name>
+</wpt>
+<wpt lat="38.7239632" lon="-90.508552">
+  <name>AF398-Creve Coeur Airport</name>
+</wpt>
+<wpt lat="36.744285" lon="-104.5053555">
+  <name>AF399-Crews Field</name>
+</wpt>
+<wpt lat="38.0170466" lon="-75.8258181">
+  <name>AF400-Crisfield Somerset Co. Airport</name>
+</wpt>
+<wpt lat="47.8410879" lon="-96.6202712">
+  <name>AF401-Crookston Municipal Airport</name>
+</wpt>
+<wpt lat="35.9540179" lon="-85.0830817">
+  <name>AF402-Crossville Memorial Airport</name>
+</wpt>
+<wpt lat="29.0877328" lon="-97.2710174">
+  <name>AF403-Cuero Municipal Airport</name>
+</wpt>
+<wpt lat="38.5269838" lon="-77.8619528">
+  <name>AF404-Culpeper Regional Airport</name>
+</wpt>
+<wpt lat="36.3995122" lon="-76.0142069">
+  <name>AF405-Currituck County Regional Airport</name>
+</wpt>
+<wpt lat="31.1769306" lon="-99.3199035">
+  <name>AF406-Curtis Field Airport</name>
+</wpt>
+<wpt lat="35.949925" lon="-96.773053">
+  <name>AF407-Cushing Regional Airport</name>
+</wpt>
+<wpt lat="43.7334141" lon="-103.6152906">
+  <name>AF408-Custer Airport</name>
+</wpt>
+<wpt lat="44.679939" lon="-67.264435">
+  <name>AF409-Cutler Regional Airport</name>
+</wpt>
+<wpt lat="32.6806895" lon="-96.8671846">
+  <name>AF410-Dallas Executive Airport</name>
+</wpt>
+<wpt lat="41.81974" lon="-71.900963">
+  <name>AF411-Danielson Airport</name>
+</wpt>
+<wpt lat="32.3050713" lon="-86.3906353">
+  <name>AF412-Dannelly Field</name>
+</wpt>
+<wpt lat="36.5748858" lon="-79.3362636">
+  <name>AF413-Danville Regional Airport</name>
+</wpt>
+<wpt lat="35.9178849" lon="-75.6999636">
+  <name>AF414-Dare County Regional Airport</name>
+</wpt>
+<wpt lat="43.8769876" lon="-78.7400992">
+  <name>AF415-Darlington Field</name>
+</wpt>
+<wpt lat="41.6101162" lon="-90.5878972">
+  <name>AF416-Davenport Municipal Airport</name>
+</wpt>
+<wpt lat="41.2321716" lon="-97.1252713">
+  <name>AF417-David City Municipal Airport</name>
+</wpt>
+<wpt lat="38.7152542" lon="-77.1803477">
+  <name>AF418-Davison Army Airfield</name>
+</wpt>
+<wpt lat="47.138889" lon="-104.806944">
+  <name>AF419-Dawson Community Airport</name>
+</wpt>
+<wpt lat="33.2530014" lon="-97.5828091">
+  <name>AF420-Decatur Municipal Airport</name>
+</wpt>
+<wpt lat="43.275675" lon="-91.736417">
+  <name>AF421-Decorah Municipal Airport</name>
+</wpt>
+<wpt lat="33.6843241" lon="-112.082851">
+  <name>AF422-Deer Valley Airport</name>
+</wpt>
+<wpt lat="41.337502" lon="-84.428886">
+  <name>AF423-Defiance County Airport</name>
+</wpt>
+<wpt lat="30.732189" lon="-86.1536515">
+  <name>AF424-DeFuniak Springs Municipal Airport</name>
+</wpt>
+<wpt lat="29.3705861" lon="-100.920213">
+  <name>AF425-Del Rio International Airport</name>
+</wpt>
+<wpt lat="35.7455986" lon="-119.2365073">
+  <name>AF426-Delano Public Airport</name>
+</wpt>
+<wpt lat="40.240395" lon="-85.393616">
+  <name>AF427-Delaware County Regional Airport</name>
+</wpt>
+<wpt lat="40.2815721" lon="-83.1132654">
+  <name>AF428-Delaware Municipal Airport</name>
+</wpt>
+<wpt lat="31.9473685" lon="-105.1913266">
+  <name>AF429-Dell City Airport</name>
+</wpt>
+<wpt lat="39.3832405" lon="-112.5065231">
+  <name>AF430-Delta Municipal Airport</name>
+</wpt>
+<wpt lat="30.4373062" lon="-93.4712954">
+  <name>AF431-Dequincy Industrial Airpark</name>
+</wpt>
+<wpt lat="46.687557" lon="-119.9213302">
+  <name>AF432-Desert Aire Airport</name>
+</wpt>
+<wpt lat="46.8287716" lon="-95.8835809">
+  <name>AF433-Detroit Lakes Airport</name>
+</wpt>
+<wpt lat="48.1090636" lon="-98.9038973">
+  <name>AF434-Devils Lake Regional Airport</name>
+</wpt>
+<wpt lat="34.099806" lon="-93.066083">
+  <name>AF435-Dexter Florence Memorial Airport</name>
+</wpt>
+<wpt lat="29.725986" lon="-95.6910163">
+  <name>AF436-Dick Scobee Field</name>
+</wpt>
+<wpt lat="36.1288461" lon="-87.4322436">
+  <name>AF437-Dickson County Municipal Airport</name>
+</wpt>
+<wpt lat="45.25528" lon="-112.552498">
+  <name>AF438-Dillon Flying Service</name>
+</wpt>
+<wpt lat="34.5691766" lon="-102.3192008">
+  <name>AF439-Dimmitt Municipal Airport</name>
+</wpt>
+<wpt lat="37.1852375" lon="-77.5003653">
+  <name>AF440-Dinwiddie County Airport</name>
+</wpt>
+<wpt lat="44.0178717" lon="-92.8313182">
+  <name>AF441-Dodge Center Airport</name>
+</wpt>
+<wpt lat="37.765874" lon="-99.9669004">
+  <name>AF442-Dodge City Regional Airport</name>
+</wpt>
+<wpt lat="43.4299386" lon="-88.6953849">
+  <name>AF443-Dodge County Airport</name>
+</wpt>
+<wpt lat="31.875354" lon="-106.7000331">
+  <name>AF444-Dona Ana County Jetport</name>
+</wpt>
+<wpt lat="31.00675" lon="-84.87764">
+  <name>AF445-Donalsonville Municipal Airport</name>
+</wpt>
+<wpt lat="44.8409676" lon="-87.425074">
+  <name>AF446-Door County Cherryland Airport</name>
+</wpt>
+<wpt lat="31.3148738" lon="-85.448721">
+  <name>AF447-Dothan Regional Airport</name>
+</wpt>
+<wpt lat="35.146734" lon="-106.7990505">
+  <name>AF448-Double Eagle II Airport</name>
+</wpt>
+<wpt lat="31.3432981" lon="-109.5034118">
+  <name>AF449-Douglas Municipal Airport</name>
+</wpt>
+<wpt lat="41.992917" lon="-86.128278">
+  <name>AF450-Dowagiac Municipal Airport</name>
+</wpt>
+<wpt lat="36.0034182" lon="-94.1719488">
+  <name>AF451-Drake Field</name>
+</wpt>
+<wpt lat="31.1517337" lon="-97.412483">
+  <name>AF452-Draughon Miller Airport</name>
+</wpt>
+<wpt lat="41.1824283" lon="-78.8923472">
+  <name>AF453-Dubois Regional Airport</name>
+</wpt>
+<wpt lat="46.8387531" lon="-92.1800102">
+  <name>AF454-Duluth International Airport</name>
+</wpt>
+<wpt lat="29.0632247" lon="-82.3686995">
+  <name>AF455-Dunnellon Field</name>
+</wpt>
+<wpt lat="41.26321" lon="-122.27195">
+  <name>AF456-Dunsmuir Airport</name>
+</wpt>
+<wpt lat="35.000507" lon="-77.9839261">
+  <name>AF457-Duplin County Airport</name>
+</wpt>
+<wpt lat="43.066143" lon="-83.2746315">
+  <name>AF458-Dupont Lapeer Airport</name>
+</wpt>
+<wpt lat="33.9421917" lon="-96.3979617">
+  <name>AF459-Durant Regional Airport</name>
+</wpt>
+<wpt lat="40.9207887" lon="-109.3956089">
+  <name>AF460-Dutch John Airport</name>
+</wpt>
+<wpt lat="41.627499" lon="-73.884163">
+  <name>AF461-Dutchess County Airport</name>
+</wpt>
+<wpt lat="35.99945" lon="-89.4018184">
+  <name>AF462-Dyersburg Regional Airport</name>
+</wpt>
+<wpt lat="44.2914294" lon="-77.8049306">
+  <name>AF463-Eagle Airfield</name>
+</wpt>
+<wpt lat="39.6425637" lon="-106.9145481">
+  <name>AF464-Eagle County Regional Airport</name>
+</wpt>
+<wpt lat="38.7736808" lon="-75.2345582">
+  <name>AF465-Eagle Crest Aerodrome</name>
+</wpt>
+<wpt lat="39.6674832" lon="-74.3121669">
+  <name>AF466-Eagles Nest Airport</name>
+</wpt>
+<wpt lat="45.689535" lon="-118.839413">
+  <name>AF467-Eastern Oregon Regional Airport</name>
+</wpt>
+<wpt lat="36.311089" lon="-114.463867">
+  <name>AF468-Echo Bay Airstrip</name>
+</wpt>
+<wpt lat="39.6992791" lon="-87.673838">
+  <name>AF469-Edgar County Airport</name>
+</wpt>
+<wpt lat="46.348583" lon="-98.735558">
+  <name>AF470-Edgeley Municipal Airport</name>
+</wpt>
+<wpt lat="37.6508529" lon="-97.4286988">
+  <name>AF471-Eisenhower National Airport</name>
+</wpt>
+<wpt lat="35.4726587" lon="-98.0028104">
+  <name>AF472-El Reno Memorial Air Park</name>
+</wpt>
+<wpt lat="35.4260576" lon="-99.396182">
+  <name>AF473-Elk City Municipal Airport</name>
+</wpt>
+<wpt lat="41.7211537" lon="-85.9955263">
+  <name>AF474-Elkhart Municipal Airport</name>
+</wpt>
+<wpt lat="38.8869534" lon="-79.8573912">
+  <name>AF475-Elkins-Randolph Co. Airport</name>
+</wpt>
+<wpt lat="40.8278188" lon="-115.786212">
+  <name>AF476-Elko Regional Airport</name>
+</wpt>
+<wpt lat="44.1538145" lon="-103.0901656">
+  <name>AF477-Ellsworth AFB</name>
+</wpt>
+<wpt lat="42.1604316" lon="-76.8921794">
+  <name>AF478-Elmira Corning Regional Airport</name>
+</wpt>
+<wpt lat="32.806946" lon="-111.586945">
+  <name>AF479-Eloy Municipal Airport</name>
+</wpt>
+<wpt lat="39.2992694" lon="-114.8348536">
+  <name>AF480-Ely Jet Center</name>
+</wpt>
+<wpt lat="47.8236887" lon="-91.8292998">
+  <name>AF481-Ely Municipal Airport</name>
+</wpt>
+<wpt lat="40.0900503" lon="-105.9166658">
+  <name>AF482-Emily Warner Field</name>
+</wpt>
+<wpt lat="43.8734978" lon="-116.4993012">
+  <name>AF483-Emmett Municipal</name>
+</wpt>
+<wpt lat="38.332191" lon="-96.1882853">
+  <name>AF484-Emporia Municipal Airport</name>
+</wpt>
+<wpt lat="36.3785883" lon="-97.7906798">
+  <name>AF485-Enid Woodring Regional Airport</name>
+</wpt>
+<wpt lat="32.329694" lon="-96.663889">
+  <name>AF486-Ennis Airport</name>
+</wpt>
+<wpt lat="45.2678478" lon="-111.650412">
+  <name>AF487-Ennis Big Sky Airport</name>
+</wpt>
+<wpt lat="47.3095724" lon="-119.5197907">
+  <name>AF488-Ephrata Municipal Airport</name>
+</wpt>
+<wpt lat="32.4530877" lon="-112.8585577">
+  <name>AF489-Eric Marcus Municipal Airport</name>
+</wpt>
+<wpt lat="42.0840391" lon="-80.1719311">
+  <name>AF490-Erie International Airport</name>
+</wpt>
+<wpt lat="40.0075509" lon="-105.0508451">
+  <name>AF491-Erie Municipal Airport</name>
+</wpt>
+<wpt lat="34.6498173" lon="-112.427239">
+  <name>AF492-Ernest A. Love Field</name>
+</wpt>
+<wpt lat="43.4058921" lon="-94.7471579">
+  <name>AF493-Estherville Airport</name>
+</wpt>
+<wpt lat="33.084548" lon="-112.161376">
+  <name>AF494-Estrella Sailport</name>
+</wpt>
+<wpt lat="35.2978706" lon="-95.6252251">
+  <name>AF495-Eufaula Municipal Airport</name>
+</wpt>
+<wpt lat="44.1217811" lon="-123.2159003">
+  <name>AF496-Eugene Airport</name>
+</wpt>
+<wpt lat="43.895851" lon="-85.279205">
+  <name>AF497-Evart Municipal Airport</name>
+</wpt>
+<wpt lat="31.4165066" lon="-87.043355">
+  <name>AF498-Evergreen Regional Airport</name>
+</wpt>
+<wpt lat="40.176636" lon="-97.1666222">
+  <name>AF499-Fairbury Municipal Airport</name>
+</wpt>
+<wpt lat="47.6182629" lon="-117.6438555">
+  <name>AF500-Fairchild Air Force Base</name>
+</wpt>
+<wpt lat="40.5915529" lon="-97.5761878">
+  <name>AF501-Fairmont Army Air Field</name>
+</wpt>
+<wpt lat="39.4480468" lon="-80.1669294">
+  <name>AF502-Fairmont Municipal Airport</name>
+</wpt>
+<wpt lat="33.4574305" lon="-111.727417">
+  <name>AF503-Falcon Field</name>
+</wpt>
+<wpt lat="33.355324" lon="-117.2514313">
+  <name>AF504-Fallbrook Air Park</name>
+</wpt>
+<wpt lat="48.5663926" lon="-93.397607">
+  <name>AF505-Falls International Airport</name>
+</wpt>
+<wpt lat="30.711751" lon="-91.4805119">
+  <name>AF506-False River Regional Airport</name>
+</wpt>
+<wpt lat="44.3277471" lon="-93.3082151">
+  <name>AF507-Faribault Municipal Airport</name>
+</wpt>
+<wpt lat="37.7615177" lon="-90.4291315">
+  <name>AF508-Farmington Regional Airport</name>
+</wpt>
+<wpt lat="38.0267775" lon="-81.1198244">
+  <name>AF509-Fayette Airport</name>
+</wpt>
+<wpt lat="39.5697228" lon="-83.4220226">
+  <name>AF510-Fayette County Airport</name>
+</wpt>
+<wpt lat="47.6804568" lon="-117.3199904">
+  <name>AF511-Felts Field</name>
+</wpt>
+<wpt lat="46.2850335" lon="-96.1541912">
+  <name>AF512-Fergus Falls Municipal Airport</name>
+</wpt>
+<wpt lat="30.4017085" lon="-87.3488161">
+  <name>AF513-Ferguson Airport</name>
+</wpt>
+<wpt lat="47.6599459" lon="-99.6601236">
+  <name>AF514-Fessenden Municipal Airport</name>
+</wpt>
+<wpt lat="43.676666" lon="-92.179726">
+  <name>AF515-Fillmore County Airport</name>
+</wpt>
+<wpt lat="41.0120984" lon="-83.6686966">
+  <name>AF516-Findlay Airport</name>
+</wpt>
+<wpt lat="40.2459939" lon="-80.0106462">
+  <name>AF517-Finleyville Airport</name>
+</wpt>
+<wpt lat="36.8600009" lon="-120.464447">
+  <name>AF518-Firebaugh Airport</name>
+</wpt>
+<wpt lat="42.5705236" lon="-84.8118745">
+  <name>AF519-Fitch H. Beach Municipal Airport</name>
+</wpt>
+<wpt lat="42.5544001" lon="-71.7578244">
+  <name>AF520-Fitchburg Municipal Airport</name>
+</wpt>
+<wpt lat="31.6825083" lon="-83.2708623">
+  <name>AF521-Fitzgerald Municipal Airport</name>
+</wpt>
+<wpt lat="33.9886" lon="-117.409807">
+  <name>AF522-Flabob Airport</name>
+</wpt>
+<wpt lat="29.4645926" lon="-81.2069757">
+  <name>AF523-Flagler County Airport</name>
+</wpt>
+<wpt lat="35.1401934" lon="-111.6708808">
+  <name>AF524-Flagstaff Airport</name>
+</wpt>
+<wpt lat="44.0046777" lon="-96.5958598">
+  <name>AF525-Flandreau Municipal Airport</name>
+</wpt>
+<wpt lat="48.1162901" lon="-114.1861324">
+  <name>AF526-Flathead Lake Sky Ranch</name>
+</wpt>
+<wpt lat="44.8617057" lon="-93.0298126">
+  <name>AF527-Fleming Field</name>
+</wpt>
+<wpt lat="38.5391547" lon="-83.7461839">
+  <name>AF528-Fleming Mason Airport</name>
+</wpt>
+<wpt lat="31.043333" lon="-86.311111">
+  <name>AF529-Florala Airport</name>
+</wpt>
+<wpt lat="43.9829185" lon="-124.1113042">
+  <name>AF530-Florence Municipal Airport</name>
+</wpt>
+<wpt lat="24.724998" lon="-81.051405">
+  <name>AF531-Florida Keys Marathon Airport</name>
+</wpt>
+<wpt lat="44.8271762" lon="-93.4610777">
+  <name>AF532-Flying Cloud</name>
+</wpt>
+<wpt lat="27.1557357" lon="-80.6950097">
+  <name>AF533-Flying Cow Air Ranch</name>
+</wpt>
+<wpt lat="34.2709279" lon="-86.8586375">
+  <name>AF534-Folsom Field</name>
+</wpt>
+<wpt lat="35.8229198" lon="-81.6130971">
+  <name>AF535-Foothills Regional Airport</name>
+</wpt>
+<wpt lat="32.7381616" lon="-96.4773902">
+  <name>AF536-Forney Field</name>
+</wpt>
+<wpt lat="40.334232" lon="-103.8039469">
+  <name>AF537-Fort Morgan Airport</name>
+</wpt>
+<wpt lat="37.798332" lon="-94.769447">
+  <name>AF538-Fort Scott Municipal Airport</name>
+</wpt>
+<wpt lat="41.1896274" lon="-83.3969242">
+  <name>AF539-Fostoria Metro Airport</name>
+</wpt>
+<wpt lat="36.7386433" lon="-108.2273">
+  <name>AF540-Four Corners Regional Airport</name>
+</wpt>
+<wpt lat="32.7001738" lon="-94.9466025">
+  <name>AF541-Fox Stephens Field</name>
+</wpt>
+<wpt lat="39.9724757" lon="-77.6466785">
+  <name>AF542-Franklin County Regional Airport</name>
+</wpt>
+<wpt lat="44.938362" lon="-73.095146">
+  <name>AF543-Franklin County State Airport</name>
+</wpt>
+<wpt lat="39.9502208" lon="-75.1900704">
+  <name>AF544-Franklin Field</name>
+</wpt>
+<wpt lat="34.3438235" lon="-83.1374202">
+  <name>AF545-Franklin-Hart Regional Airport</name>
+</wpt>
+<wpt lat="37.6060297" lon="-90.2905211">
+  <name>AF546-Fredericktown Regional Airport</name>
+</wpt>
+<wpt lat="38.9167049" lon="-85.8899679">
+  <name>AF547-Freeman Field</name>
+</wpt>
+<wpt lat="38.4292325" lon="-105.1083853">
+  <name>AF548-Fremont County Airport</name>
+</wpt>
+<wpt lat="41.4509277" lon="-96.5124056">
+  <name>AF549-Fremont Municipal Airport</name>
+</wpt>
+<wpt lat="36.7758493" lon="-119.7181083">
+  <name>AF550-Fresno Airport</name>
+</wpt>
+<wpt lat="48.5248261" lon="-123.0261849">
+  <name>AF551-Friday Harbor Airport</name>
+</wpt>
+<wpt lat="43.5066901" lon="-114.2992901">
+  <name>AF552-Friedman Memorial Airport</name>
+</wpt>
+<wpt lat="28.8225" lon="-99.109444">
+  <name>AF553-Frio County Airport</name>
+</wpt>
+<wpt lat="39.7900761" lon="-104.5497292">
+  <name>AF554-Front Range Airport</name>
+</wpt>
+<wpt lat="33.7762621" lon="-84.5220987">
+  <name>AF555-Fulton County Airport</name>
+</wpt>
+<wpt lat="32.6774008" lon="-102.6460347">
+  <name>AF556-Gaines County Airport</name>
+</wpt>
+<wpt lat="33.652194" lon="-97.197278">
+  <name>AF557-Gainesville Municipal Airport</name>
+</wpt>
+<wpt lat="40.753334" lon="-82.723892">
+  <name>AF558-Galion Municipal Airport</name>
+</wpt>
+<wpt lat="35.5152945" lon="-108.7801124">
+  <name>AF559-Gallup Municipal Airport</name>
+</wpt>
+<wpt lat="37.9268913" lon="-100.7198703">
+  <name>AF560-Garden City Regional Airport</name>
+</wpt>
+<wpt lat="38.8099404" lon="-94.9533694">
+  <name>AF561-Gardner Municipal Airport</name>
+</wpt>
+<wpt lat="39.5260659" lon="-107.7257521">
+  <name>AF562-Garfield County Regional Airport</name>
+</wpt>
+<wpt lat="38.2797573" lon="-95.2177438">
+  <name>AF563-Garnett Industrial Airport</name>
+</wpt>
+<wpt lat="39.9706532" lon="-76.2729348">
+  <name>AF564-Garrett Field</name>
+</wpt>
+<wpt lat="47.655944" lon="-101.437222">
+  <name>AF565-Garrison Airport</name>
+</wpt>
+<wpt lat="35.2006242" lon="-81.1541673">
+  <name>AF566-Gastonia Municipal Airport</name>
+</wpt>
+<wpt lat="45.0168627" lon="-84.6911701">
+  <name>AF567-Gaylord Regional Airport</name>
+</wpt>
+<wpt lat="43.0295062" lon="-78.1692388">
+  <name>AF568-Genesee County Airport</name>
+</wpt>
+<wpt lat="33.4361069" lon="-88.8459554">
+  <name>AF570-George M. Bryan Field</name>
+</wpt>
+<wpt lat="33.3132797" lon="-79.318757">
+  <name>AF571-Georgetown County Airport</name>
+</wpt>
+<wpt lat="39.8593276" lon="-77.2651003">
+  <name>AF572-Gettysburg Regional Airport</name>
+</wpt>
+<wpt lat="32.9595362" lon="-112.6786422">
+  <name>AF573-Gila Bend Municipal Airport</name>
+</wpt>
+<wpt lat="30.24566" lon="-98.910461">
+  <name>AF574-Gillespie County Airport</name>
+</wpt>
+<wpt lat="48.3076648" lon="-114.2525337">
+  <name>AF575-Glacier Park International Airport</name>
+</wpt>
+<wpt lat="32.528889" lon="-94.971664">
+  <name>AF576-Gladewater Municipal Airport</name>
+</wpt>
+<wpt lat="46.812783" lon="-101.860156">
+  <name>AF577-Glen Ullin Regional Airport</name>
+</wpt>
+<wpt lat="33.529622" lon="-112.297403">
+  <name>AF578-Glendale Municipal Airport</name>
+</wpt>
+<wpt lat="42.945835" lon="-115.330002">
+  <name>AF579-Glenns Ferry Municipal Airport</name>
+</wpt>
+<wpt lat="45.6484924" lon="-95.3203614">
+  <name>AF580-Glenwood Municipal Airport</name>
+</wpt>
+<wpt lat="38.1418486" lon="-122.5568584">
+  <name>AF581-Gnoss Field</name>
+</wpt>
+<wpt lat="42.4177459" lon="-124.4248508">
+  <name>AF582-Gold Beach Airport</name>
+</wpt>
+<wpt lat="42.8023379" lon="-102.1786118">
+  <name>AF583-Gordon Municipal Airport</name>
+</wpt>
+<wpt lat="47.2109172" lon="-93.5111771">
+  <name>AF584-Gordy Newstrom Field</name>
+</wpt>
+<wpt lat="44.3934815" lon="-71.196467">
+  <name>AF585-Gorham Airport</name>
+</wpt>
+<wpt lat="41.5247072" lon="-85.7948419">
+  <name>AF586-Goshen Municipal Airport</name>
+</wpt>
+<wpt lat="33.110279" lon="-98.555275">
+  <name>AF587-Graham Municipal Airport</name>
+</wpt>
+<wpt lat="32.4445501" lon="-97.8161072">
+  <name>AF588-Granbury Regional Airport</name>
+</wpt>
+<wpt lat="35.9526026" lon="-112.1444184">
+  <name>AF589-Grand Canyon National Park Airport</name>
+</wpt>
+<wpt lat="47.921141" lon="-119.0841965">
+  <name>AF590-Grand Coulee Airport</name>
+</wpt>
+<wpt lat="47.9525204" lon="-97.3824492">
+  <name>AF591-Grand Forks Air Force Base</name>
+</wpt>
+<wpt lat="47.942861" lon="-97.176582">
+  <name>AF592-Grand Forks International Airport</name>
+</wpt>
+<wpt lat="39.1222307" lon="-108.5291468">
+  <name>AF593-Grand Junction Regional Airport</name>
+</wpt>
+<wpt lat="32.6323826" lon="-108.1542125">
+  <name>AF594-Grant County Airport</name>
+</wpt>
+<wpt lat="47.2080787" lon="-119.3176918">
+  <name>AF595-Grant County International Airport</name>
+</wpt>
+<wpt lat="44.4032798" lon="-118.9617359">
+  <name>AF596-Grant County Regional Airport</name>
+</wpt>
+<wpt lat="35.167278" lon="-107.902056">
+  <name>AF597-Grants Milan Airport</name>
+</wpt>
+<wpt lat="42.5092354" lon="-123.3890839">
+  <name>AF598-Grants Pass Airport</name>
+</wpt>
+<wpt lat="38.3469363" lon="-98.8537554">
+  <name>AF599-Great Bend Municipal Airport</name>
+</wpt>
+<wpt lat="47.4825016" lon="-111.3566299">
+  <name>AF600-Great Falls International Airport</name>
+</wpt>
+<wpt lat="42.208651" lon="-75.9813976">
+  <name>AF601-Greater Binghamton Airport</name>
+</wpt>
+<wpt lat="41.0653322" lon="-87.848635">
+  <name>AF602-Greater Kankakee Airport</name>
+</wpt>
+<wpt lat="40.4263688" lon="-104.6368146">
+  <name>AF603-Greeley Weld County Airport</name>
+</wpt>
+<wpt lat="34.7960777" lon="-90.029464">
+  <name>AF604-Green Village Residential Airpark</name>
+</wpt>
+<wpt lat="37.856284" lon="-80.404748">
+  <name>AF605-Greenbrier Valley Airport</name>
+</wpt>
+<wpt lat="39.6910203" lon="-83.9964102">
+  <name>AF606-Greene County Airport</name>
+</wpt>
+<wpt lat="33.47953" lon="-90.990105">
+  <name>AF607-Greenville Mid-Delta Airport</name>
+</wpt>
+<wpt lat="43.142223" lon="-85.254448">
+  <name>AF608-Greenville Municipal Airport</name>
+</wpt>
+<wpt lat="34.2472938" lon="-82.1532832">
+  <name>AF609-Greenwood County Airport</name>
+</wpt>
+<wpt lat="43.2217066" lon="-99.40612">
+  <name>AF610-Gregory Municipal Airport</name>
+</wpt>
+<wpt lat="33.8339878" lon="-89.791585">
+  <name>AF611-Grenada Municipal Airport</name>
+</wpt>
+<wpt lat="33.2246671" lon="-84.270613">
+  <name>AF612-Griffin Spalding Airport</name>
+</wpt>
+<wpt lat="43.2303415" lon="-75.4052573">
+  <name>AF613-Griffiss International Airport</name>
+</wpt>
+<wpt lat="41.1448911" lon="-80.1672792">
+  <name>AF614-Grove City Regional Airport</name>
+</wpt>
+<wpt lat="45.6276823" lon="-122.4050586">
+  <name>AF615-Grove Field</name>
+</wpt>
+<wpt lat="42.25999" lon="-104.73033">
+  <name>AF616-Guernsey Airport</name>
+</wpt>
+<wpt lat="37.26236" lon="-120.963689">
+  <name>AF617-Gustine Airport</name>
+</wpt>
+<wpt lat="41.6821681" lon="-94.4342872">
+  <name>AF618-Guthrie County Regional Airport</name>
+</wpt>
+<wpt lat="35.3011994" lon="-112.1926829">
+  <name>AF619-H. A. Clark Memorial Field</name>
+</wpt>
+<wpt lat="30.6358248" lon="-96.9887711">
+  <name>AF620-H.H. Coffield Regional Airport</name>
+</wpt>
+<wpt lat="34.1678296" lon="-101.7161148">
+  <name>AF621-Hale County Airport</name>
+</wpt>
+<wpt lat="33.101805" lon="-94.195327">
+  <name>AF622-Hall Miller Airport</name>
+</wpt>
+<wpt lat="29.9061805" lon="-81.6861414">
+  <name>AF623-Haller Airpark</name>
+</wpt>
+<wpt lat="34.472221" lon="-97.959999">
+  <name>AF624-Halliburton Field</name>
+</wpt>
+<wpt lat="42.8420894" lon="-75.5590612">
+  <name>AF625-Hamilton Municipal Airport</name>
+</wpt>
+<wpt lat="36.314295" lon="-119.628177">
+  <name>AF627-Hanford Municipal Airport</name>
+</wpt>
+<wpt lat="37.70809" lon="-77.436203">
+  <name>AF628-Hanover County Airport</name>
+</wpt>
+<wpt lat="45.4260916" lon="-84.9094412">
+  <name>AF629-Harbor Springs Airport</name>
+</wpt>
+<wpt lat="41.584361" lon="-95.339694">
+  <name>AF630-Harlan Airport</name>
+</wpt>
+<wpt lat="42.7642644" lon="-96.9291475">
+  <name>AF631-Harold Davidson Field</name>
+</wpt>
+<wpt lat="38.5356997" lon="-106.0504206">
+  <name>AF632-Harriet Alexander Airfield</name>
+</wpt>
+<wpt lat="37.8118027" lon="-88.5480729">
+  <name>AF633-Harrisburg Raleigh Airport</name>
+</wpt>
+<wpt lat="40.4708758" lon="-81.4178225">
+  <name>AF634-Harry Clever Field</name>
+</wpt>
+<wpt lat="37.6269954" lon="-120.9560394">
+  <name>AF635-Harry Sham Field</name>
+</wpt>
+<wpt lat="46.2533308" lon="-96.6084861">
+  <name>AF636-Harry Stern Airport</name>
+</wpt>
+<wpt lat="31.5442261" lon="-93.4853964">
+  <name>AF637-Hart Memorial Airport</name>
+</wpt>
+<wpt lat="43.3427903" lon="-72.5185418">
+  <name>AF638-Hartness State Airport</name>
+</wpt>
+<wpt lat="34.408234" lon="-86.932951">
+  <name>AF639-Hartselle Municipal Airport</name>
+</wpt>
+<wpt lat="34.4085455" lon="-80.1146108">
+  <name>AF640-Hartsville Regional Airport</name>
+</wpt>
+<wpt lat="47.9072252" lon="-122.1000065">
+  <name>AF641-Harvey Airfield</name>
+</wpt>
+<wpt lat="47.9072252" lon="-122.1000065">
+  <name>AF642-Harvey Field</name>
+</wpt>
+<wpt lat="35.3848753" lon="-87.9675532">
+  <name>AF643-Hassell Field</name>
+</wpt>
+<wpt lat="40.5970658" lon="-98.4275639">
+  <name>AF644-Hastings Municipal Airport</name>
+</wpt>
+<wpt lat="37.5588733" lon="-82.5649498">
+  <name>AF645-Hatcher Field</name>
+</wpt>
+<wpt lat="31.468239" lon="-89.335421">
+  <name>AF646-Hattiesburg-Laurel Regional Airport</name>
+</wpt>
+<wpt lat="40.2213706" lon="-90.0227376">
+  <name>AF647-Havana Regional Airport</name>
+</wpt>
+<wpt lat="46.8862691" lon="-96.3518675">
+  <name>AF648-Hawley Airport</name>
+</wpt>
+<wpt lat="30.3385378" lon="-94.2596149">
+  <name>AF649-Hawthorne Field</name>
+</wpt>
+<wpt lat="38.853909" lon="-99.273786">
+  <name>AF650-Hays Regional Airport</name>
+</wpt>
+<wpt lat="31.884722" lon="-82.647499">
+  <name>AF651-Hazlehurst Municipal Airport</name>
+</wpt>
+<wpt lat="38.6565459" lon="-122.9005632">
+  <name>AF652-Healdsburg Municipal Airport</name>
+</wpt>
+<wpt lat="46.9223374" lon="-96.8180144">
+  <name>AF653-Hector Airport</name>
+</wpt>
+<wpt lat="46.9223374" lon="-96.8180144">
+  <name>AF654-Hector International Airport</name>
+</wpt>
+<wpt lat="35.962599" lon="-95.34191">
+  <name>AF655-Hefner Easley Airport</name>
+</wpt>
+<wpt lat="46.6095791" lon="-111.9902266">
+  <name>AF656-Helena Regional Airport</name>
+</wpt>
+<wpt lat="33.7300616" lon="-117.0222078">
+  <name>AF657-Hemet Ryan Airport</name>
+</wpt>
+<wpt lat="37.8105693" lon="-87.6778373">
+  <name>AF658-Henderson City County Airport</name>
+</wpt>
+<wpt lat="35.975317" lon="-115.1385084">
+  <name>AF659-Henderson Executive Airport</name>
+</wpt>
+<wpt lat="31.42788" lon="-83.49466">
+  <name>AF660-Henry Tift Myers Municipal Airport</name>
+</wpt>
+<wpt lat="34.8577842" lon="-102.3239037">
+  <name>AF661-Hereford Municipal Airport</name>
+</wpt>
+<wpt lat="45.828632" lon="-119.2633992">
+  <name>AF662-Hermiston Municipal Airport</name>
+</wpt>
+<wpt lat="35.7422447" lon="-81.3892546">
+  <name>AF663-Hickory Regional Airport</name>
+</wpt>
+<wpt lat="32.9307681" lon="-97.4124288">
+  <name>AF664-Hicks Airfield</name>
+</wpt>
+<wpt lat="39.0731777" lon="-93.6759235">
+  <name>AF665-Higginsville Municipal Airport</name>
+</wpt>
+<wpt lat="39.1883936" lon="-83.5388159">
+  <name>AF666-Highland County Airport</name>
+</wpt>
+<wpt lat="41.10968" lon="-111.9826984">
+  <name>AF667-Hill Air Force Base</name>
+</wpt>
+<wpt lat="39.3749366" lon="-99.8341795">
+  <name>AF668-Hill City Municipal Airport</name>
+</wpt>
+<wpt lat="45.5330831" lon="-122.9475494">
+  <name>AF669-Hillsboro Airport</name>
+</wpt>
+<wpt lat="32.0861227" lon="-97.1007273">
+  <name>AF670-Hillsboro Regional Airport</name>
+</wpt>
+<wpt lat="41.921591" lon="-84.5878701">
+  <name>AF671-Hillsdale Municipal Airport</name>
+</wpt>
+<wpt lat="32.2248476" lon="-80.6971648">
+  <name>AF672-Hilton Head Island Airport</name>
+</wpt>
+<wpt lat="32.9486473" lon="-103.3478475">
+  <name>AF673-Hobbs Army Air Base</name>
+</wpt>
+<wpt lat="42.9103773" lon="-78.7536638">
+  <name>AF674-Hobby Field</name>
+</wpt>
+<wpt lat="34.938915" lon="-110.139565">
+  <name>AF675-Holbrook Municipal Airport</name>
+</wpt>
+<wpt lat="32.8440404" lon="-106.099291">
+  <name>AF676-Holloman AFB</name>
+</wpt>
+<wpt lat="40.5701643" lon="-102.2725439">
+  <name>AF677-Holyoke Municipal Airport</name>
+</wpt>
+<wpt lat="43.61488" lon="-116.921539">
+  <name>AF678-Homedale Municipal Airport</name>
+</wpt>
+<wpt lat="25.5013248" lon="-80.5539894">
+  <name>AF679-Homestead General Aviation Airport</name>
+</wpt>
+<wpt lat="33.72" lon="-93.6613889">
+  <name>AF680-Hope Municipal Airport</name>
+</wpt>
+<wpt lat="36.856667" lon="-87.457222">
+  <name>AF681-Hopkinsville Christian County Airport</name>
+</wpt>
+<wpt lat="33.8555461" lon="-98.5798569">
+  <name>AF682-Hoskins Field</name>
+</wpt>
+<wpt lat="43.7165038" lon="-108.3778585">
+  <name>AF683-Hot Springs County Airport</name>
+</wpt>
+<wpt lat="43.3687043" lon="-103.3902311">
+  <name>AF684-Hot Springs Municipal Airport</name>
+</wpt>
+<wpt lat="46.1238497" lon="-67.7891205">
+  <name>AF685-Houlton International Airport</name>
+</wpt>
+<wpt lat="29.5663964" lon="-90.6574937">
+  <name>AF686-Houma Terrebonne Airport</name>
+</wpt>
+<wpt lat="31.308611" lon="-95.404442">
+  <name>AF687-Houston County Airport</name>
+</wpt>
+<wpt lat="35.802223" lon="-88.875">
+  <name>AF688-Humboldt Municipal Airport</name>
+</wpt>
+<wpt lat="37.6022949" lon="-76.4467977">
+  <name>AF689-Hummel Field</name>
+</wpt>
+<wpt lat="38.1460288" lon="-89.7015963">
+  <name>AF690-Hunter Field</name>
+</wpt>
+<wpt lat="38.3683533" lon="-82.5578085">
+  <name>AF691-Huntington Tri-State Airport</name>
+</wpt>
+<wpt lat="30.7376942" lon="-95.5866233">
+  <name>AF692-Huntsville Regional Airport</name>
+</wpt>
+<wpt lat="43.7879972" lon="-82.9850759">
+  <name>AF693-Huron County Memorial Airport</name>
+</wpt>
+<wpt lat="44.3850656" lon="-98.2228224">
+  <name>AF694-Huron Regional Airport</name>
+</wpt>
+<wpt lat="37.1416683" lon="-113.3016676">
+  <name>AF695-Hurricane Municipal Airport</name>
+</wpt>
+<wpt lat="38.0650312" lon="-97.8660825">
+  <name>AF696-Hutchinson Municipal Airport</name>
+</wpt>
+<wpt lat="48.4026264" lon="-97.3664028">
+  <name>AF697-Hutson Field</name>
+</wpt>
+<wpt lat="43.5152294" lon="-112.0678843">
+  <name>AF698-Idaho Falls Regional Airport</name>
+</wpt>
+<wpt lat="31.0156353" lon="-89.4827828">
+  <name>AF699-IH Bass Jr Memorial Airport</name>
+</wpt>
+<wpt lat="41.3495917" lon="-89.1510056">
+  <name>AF700-Illinois Valley Airport</name>
+</wpt>
+<wpt lat="41.3495917" lon="-89.1510056">
+  <name>AF701-Illinois Valley Regional Airport</name>
+</wpt>
+<wpt lat="44.8719096" lon="-123.1980235">
+  <name>AF702-Independence State Airport</name>
+</wpt>
+<wpt lat="48.9983646" lon="-100.0516631">
+  <name>AF703-International Peace Garden Airport</name>
+</wpt>
+<wpt lat="35.6525663" lon="-117.8272962">
+  <name>AF704-Inyokern Airport</name>
+</wpt>
+<wpt lat="42.9381794" lon="-85.0654005">
+  <name>AF705-Ionia County Airport</name>
+</wpt>
+<wpt lat="41.6396454" lon="-91.5417907">
+  <name>AF706-Iowa City Airport</name>
+</wpt>
+<wpt lat="42.8876161" lon="-90.228277">
+  <name>AF707-Iowa County Airport</name>
+</wpt>
+<wpt lat="42.4705373" lon="-93.2619534">
+  <name>AF708-Iowa Falls Airport</name>
+</wpt>
+<wpt lat="33.593056" lon="-95.063614">
+  <name>AF709-J.D. Trissell Field</name>
+</wpt>
+<wpt lat="30.2868618" lon="-87.6795055">
+  <name>AF710-Jack Edwards National Airport</name>
+</wpt>
+<wpt lat="41.9841844" lon="-114.6678196">
+  <name>AF711-Jackpot Municipal Airport</name>
+</wpt>
+<wpt lat="42.2588719" lon="-84.4603964">
+  <name>AF712-Jackson County Airport</name>
+</wpt>
+<wpt lat="43.6084108" lon="-110.7366517">
+  <name>AF713-Jackson Hole Airport</name>
+</wpt>
+<wpt lat="32.3099443" lon="-90.0752929">
+  <name>AF714-Jackson Municipal Airport</name>
+</wpt>
+<wpt lat="37.7780217" lon="-96.8168074">
+  <name>AF715-Jackson Thomas Memorial Airport</name>
+</wpt>
+<wpt lat="32.3122283" lon="-90.0764217">
+  <name>AF716-Jackson-Medgar Wiley Evers</name>
+</wpt>
+<wpt lat="33.6350918" lon="-116.1616669">
+  <name>AF717-Jacqueline Cochran Regional Airport</name>
+</wpt>
+<wpt lat="32.1271999" lon="-103.1579869">
+  <name>AF718-Jal Airport</name>
+</wpt>
+<wpt lat="43.546944" lon="-83.895472">
+  <name>AF719-James Clements Airport</name>
+</wpt>
+<wpt lat="37.747501" lon="-97.221107">
+  <name>AF720-James Jabara Airport</name>
+</wpt>
+<wpt lat="46.9294312" lon="-98.6790504">
+  <name>AF721-Jamestown Regional Airport</name>
+</wpt>
+<wpt lat="35.3071321" lon="-120.6665435">
+  <name>AF722-Jansen Field</name>
+</wpt>
+<wpt lat="40.9426148" lon="-87.1833367">
+  <name>AF723-Jasper County Airport</name>
+</wpt>
+<wpt lat="35.772096" lon="-115.3298338">
+  <name>AF724-Jean Airport</name>
+</wpt>
+<wpt lat="48.0576838" lon="-122.8106263">
+  <name>AF725-Jefferson County International Airport</name>
+</wpt>
+<wpt lat="31.6692297" lon="-92.1575689">
+  <name>AF726-Jena Airport</name>
+</wpt>
+<wpt lat="30.241945" lon="-92.671944">
+  <name>AF727-Jennings Airport</name>
+</wpt>
+<wpt lat="42.7244309" lon="-114.4547054">
+  <name>AF728-Jerome County Airport</name>
+</wpt>
+<wpt lat="41.1529863" lon="-104.810231">
+  <name>AF729-Jerry Olson Field</name>
+</wpt>
+<wpt lat="38.945835" lon="-92.682777">
+  <name>AF730-Jesse P. Viertel Memorial Airport</name>
+</wpt>
+<wpt lat="27.3515436" lon="-98.7436241">
+  <name>AF731-Jim Hogg County Regional Airport</name>
+</wpt>
+<wpt lat="32.8276252" lon="-97.3870209">
+  <name>AF732-Jim Wright Field</name>
+</wpt>
+<wpt lat="40.7075393" lon="-76.3673186">
+  <name>AF733-Joe Zerbey Airport</name>
+</wpt>
+<wpt lat="36.6980549" lon="-76.903053">
+  <name>AF734-John Beverly Rose Field</name>
+</wpt>
+<wpt lat="36.0713427" lon="-91.8306143">
+  <name>AF735-John E. Miller Field</name>
+</wpt>
+<wpt lat="46.9186919" lon="-114.0834124">
+  <name>AF736-Johnson Bell Field</name>
+</wpt>
+<wpt lat="38.8486279" lon="-94.7377916">
+  <name>AF737-Johnson County Airport</name>
+</wpt>
+<wpt lat="38.8486279" lon="-94.7377916">
+  <name>AF738-Johnson County Executive Airport</name>
+</wpt>
+<wpt lat="44.9119577" lon="-115.4855043">
+  <name>AF739-Johnson Creek Airport</name>
+</wpt>
+<wpt lat="35.5459689" lon="-78.3901997">
+  <name>AF740-Johnston Regional Airport</name>
+</wpt>
+<wpt lat="40.3201493" lon="-78.8327749">
+  <name>AF741-Johnstown Cambria County Airport</name>
+</wpt>
+<wpt lat="41.5179046" lon="-88.1749176">
+  <name>AF742-Joliet Regional Airport</name>
+</wpt>
+<wpt lat="43.4397567" lon="-84.3331694">
+  <name>AF743-Jones Field</name>
+</wpt>
+<wpt lat="35.8336127" lon="-96.3913287">
+  <name>AF744-Jones Memorial Airport</name>
+</wpt>
+<wpt lat="45.3569034" lon="-117.2529514">
+  <name>AF745-Joseph State Airport</name>
+</wpt>
+<wpt lat="41.7294837" lon="-74.3782423">
+  <name>AF746-Joseph Y. Resnick Airport</name>
+</wpt>
+<wpt lat="42.4833496" lon="-114.4847165">
+  <name>AF747-Joslin Field</name>
+</wpt>
+<wpt lat="40.9706546" lon="-102.3151772">
+  <name>AF748-Julesburg Municipal Airport</name>
+</wpt>
+<wpt lat="37.0101857" lon="-112.5316552">
+  <name>AF749-Kanab Airport</name>
+</wpt>
+<wpt lat="38.908801" lon="-121.349573">
+  <name>AF750-Karl Harder Field</name>
+</wpt>
+<wpt lat="30.7405632" lon="-98.2376754">
+  <name>AF751-Kate Craddock Field</name>
+</wpt>
+<wpt lat="29.6624353" lon="-81.6888166">
+  <name>AF752-Kay Larkin Field</name>
+</wpt>
+<wpt lat="40.727028" lon="-99.006778">
+  <name>AF753-Keanry Airport</name>
+</wpt>
+<wpt lat="40.727028" lon="-99.006778">
+  <name>AF754-Kearney Regional Airport</name>
+</wpt>
+<wpt lat="42.9009773" lon="-72.2696542">
+  <name>AF755-Keene Airport</name>
+</wpt>
+<wpt lat="32.8483974" lon="-91.4040183">
+  <name>AF756-Kelly Dumas Airport</name>
+</wpt>
+<wpt lat="45.6725243" lon="-121.5366126">
+  <name>AF757-Ken Jernstedt Airfield</name>
+</wpt>
+<wpt lat="48.6693793" lon="-102.0584359">
+  <name>AF758-Kenmare Municipal Airport</name>
+</wpt>
+<wpt lat="47.7569221" lon="-122.2579096">
+  <name>AF759-Kenmore Air Harbor</name>
+</wpt>
+<wpt lat="36.2291756" lon="-90.0361533">
+  <name>AF760-Kennett Memorial Airport</name>
+</wpt>
+<wpt lat="37.0094468" lon="-88.2993256">
+  <name>AF761-Kentucky Dam Village Airport</name>
+</wpt>
+<wpt lat="29.9776134" lon="-99.0890192">
+  <name>AF762-Kerr County Airport</name>
+</wpt>
+<wpt lat="41.204166" lon="-89.962502">
+  <name>AF763-Kewanee Municipal Airport</name>
+</wpt>
+<wpt lat="29.8398531" lon="-82.0447955">
+  <name>AF764-Keystone Heights Airpark</name>
+</wpt>
+<wpt lat="41.1895947" lon="-103.6753483">
+  <name>AF765-Kimball Airport</name>
+</wpt>
+<wpt lat="30.511224" lon="-99.7647319">
+  <name>AF766-Kimble County Airport</name>
+</wpt>
+<wpt lat="35.2560463" lon="-113.9548083">
+  <name>AF767-Kingman Army Air Base</name>
+</wpt>
+<wpt lat="41.9858046" lon="-73.9672136">
+  <name>AF768-Kingston Ulster Airport</name>
+</wpt>
+<wpt lat="35.3247252" lon="-77.6113604">
+  <name>AF769-Kinston Regional Jetport</name>
+</wpt>
+<wpt lat="36.0626038" lon="-90.5090401">
+  <name>AF770-Kirk Field</name>
+</wpt>
+<wpt lat="40.0933471" lon="-92.5412676">
+  <name>AF771-Kirksville Regional Airport</name>
+</wpt>
+<wpt lat="35.0539718" lon="-106.5338817">
+  <name>AF772-Kirtland Air Force Base</name>
+</wpt>
+<wpt lat="28.2953051" lon="-81.436792">
+  <name>AF773-Kissimmee Gateway Airport</name>
+</wpt>
+<wpt lat="39.2425039" lon="-102.285378">
+  <name>AF774-Kit Carson Airport</name>
+</wpt>
+<wpt lat="42.1652027" lon="-121.7463436">
+  <name>AF775-Klamath Falls Airport</name>
+</wpt>
+<wpt lat="27.546821" lon="-98.026712">
+  <name>FA101-Kleberg County Airport</name>
+</wpt>
+<wpt lat="41.2986753" lon="-93.1136958">
+  <name>FA102-Knoxville Municipal Airport</name>
+</wpt>
+<wpt lat="46.8983857" lon="-95.0665199">
+  <name>FA103-Konshok Field</name>
+</wpt>
+<wpt lat="36.663568" lon="-88.3708472">
+  <name>FA104-Kyle Oakley Field</name>
+</wpt>
+<wpt lat="33.9715611" lon="-80.9967684">
+  <name>FA105-L.B Ownes Airport</name>
+</wpt>
+<wpt lat="48.0943337" lon="-105.5748689">
+  <name>FA106-L.M. Clayton Airport</name>
+</wpt>
+<wpt lat="38.044497" lon="-103.5134158">
+  <name>FA107-La Junta Army Airfield</name>
+</wpt>
+<wpt lat="38.044497" lon="-103.5134158">
+  <name>FA108-La Junta Municipal Airport</name>
+</wpt>
+<wpt lat="37.1506067" lon="-107.7532559">
+  <name>FA109-La Plata County Airport</name>
+</wpt>
+<wpt lat="30.205482" lon="-91.9894188">
+  <name>FA110-Lafayette Municipal Airport</name>
+</wpt>
+<wpt lat="33.008861" lon="-85.072611">
+  <name>FA111-LaGrange Callaway Airport</name>
+</wpt>
+<wpt lat="30.1229972" lon="-93.2211183">
+  <name>FA112-Lake Charles Regional Airport</name>
+</wpt>
+<wpt lat="47.865833" lon="-119.94278">
+  <name>FA113-Lake Chelan Airport</name>
+</wpt>
+<wpt lat="30.1828103" lon="-82.5793361">
+  <name>FA114-Lake City Gateway Airport</name>
+</wpt>
+<wpt lat="39.2242162" lon="-106.3152265">
+  <name>FA115-Lake County Leadville Airport</name>
+</wpt>
+<wpt lat="34.5694092" lon="-114.3571987">
+  <name>FA116-Lake Havasu City Municipal Airport</name>
+</wpt>
+<wpt lat="44.266407" lon="-73.9648">
+  <name>FA117-Lake Placid Airport</name>
+</wpt>
+<wpt lat="27.896168" lon="-81.619078">
+  <name>FA118-Lake Wales Municipal Airport</name>
+</wpt>
+<wpt lat="47.81929" lon="-120.719818">
+  <name>FA119-Lake Wenatchee State Airport</name>
+</wpt>
+<wpt lat="33.131772" lon="-97.0154479">
+  <name>FA120-Lakeview Airport</name>
+</wpt>
+<wpt lat="30.3576397" lon="-97.9940012">
+  <name>FA121-Lakeway Airpark</name>
+</wpt>
+<wpt lat="40.066666" lon="-74.17778">
+  <name>FA122-Lakewood Airport</name>
+</wpt>
+<wpt lat="38.0766512" lon="-102.6928745">
+  <name>FA123-Lamar Municipal Airport</name>
+</wpt>
+<wpt lat="32.7576928" lon="-101.9169785">
+  <name>FA124-Lamesa Municipal Airport</name>
+</wpt>
+<wpt lat="42.7829015" lon="-90.6810852">
+  <name>FA125-Lancaster Municipal Airport</name>
+</wpt>
+<wpt lat="42.8148855" lon="-108.7296549">
+  <name>FA126-Lander Airport</name>
+</wpt>
+<wpt lat="32.812046" lon="-85.229581">
+  <name>FA127-Lanett Municipal Airport</name>
+</wpt>
+<wpt lat="41.572777" lon="-86.734169">
+  <name>FA128-LaPorte Municipal Airport</name>
+</wpt>
+<wpt lat="41.3201937" lon="-105.6703447">
+  <name>FA129-Laramie Regional Airport</name>
+</wpt>
+<wpt lat="44.2023147" lon="-88.639887">
+  <name>FA130-Larson Brothers Airport</name>
+</wpt>
+<wpt lat="32.2912322" lon="-106.9208121">
+  <name>FA131-Las Cruces International Airport</name>
+</wpt>
+<wpt lat="35.6544054" lon="-105.1425318">
+  <name>FA132-Las Vegas Municipal Airport</name>
+</wpt>
+<wpt lat="35.1562931" lon="-114.5584335">
+  <name>FA133-Laughlin Bullhead International Airport</name>
+</wpt>
+<wpt lat="34.7867171" lon="-79.362164">
+  <name>FA134-Laurinburg Maxton Airport</name>
+</wpt>
+<wpt lat="34.506668" lon="-81.948334">
+  <name>FA135-Laurnes County Airport</name>
+</wpt>
+<wpt lat="39.0070165" lon="-95.2164029">
+  <name>FA136-Lawrence Airport</name>
+</wpt>
+<wpt lat="39.0070165" lon="-95.2164029">
+  <name>FA137-Lawrence Municipal Airport</name>
+</wpt>
+<wpt lat="30.161529" lon="-92.4826726">
+  <name>FA138-Le Gros Memorial Airport</name>
+</wpt>
+<wpt lat="29.8992" lon="-91.665802">
+  <name>FA139-Le Maire Memorial Airport</name>
+</wpt>
+<wpt lat="44.4379725" lon="-93.9121281">
+  <name>FA140-Le Sueur Airport</name>
+</wpt>
+<wpt lat="32.6923483" lon="-103.214364">
+  <name>FA141-Lea County Regional Airport</name>
+</wpt>
+<wpt lat="43.6249449" lon="-72.3086409">
+  <name>FA142-Lebanon Municipal Airport</name>
+</wpt>
+<wpt lat="37.6340576" lon="-85.2418429">
+  <name>FA143-Lebanon Springfield Airport</name>
+</wpt>
+<wpt lat="41.1295674" lon="-100.697989">
+  <name>FA144-Lee Bird Field</name>
+</wpt>
+<wpt lat="36.6601482" lon="-83.210236">
+  <name>FA145-Lee County Airport</name>
+</wpt>
+<wpt lat="34.2736671" lon="-83.8315121">
+  <name>FA146-Lee Gilmer Memorial Airport</name>
+</wpt>
+<wpt lat="38.9610554" lon="-94.3774508">
+  <name>FA147-Lee's Summit Missouri Municipal Airport</name>
+</wpt>
+<wpt lat="39.0782543" lon="-77.5543742">
+  <name>FA148-Leesburg Executive Airport</name>
+</wpt>
+<wpt lat="28.8243108" lon="-81.8083815">
+  <name>FA149-Leesburg International Airport</name>
+</wpt>
+<wpt lat="31.167833" lon="-93.3428263">
+  <name>FA150-Leesville Airport</name>
+</wpt>
+<wpt lat="40.6518026" lon="-75.4341456">
+  <name>FA151-Lehigh Valley International Airport</name>
+</wpt>
+<wpt lat="41.8699809" lon="-84.0761995">
+  <name>FA152-Lenawee County Airport</name>
+</wpt>
+<wpt lat="45.1802067" lon="-122.7460169">
+  <name>FA153-Lenhardt Airpark</name>
+</wpt>
+<wpt lat="29.4326896" lon="-90.2760743">
+  <name>FA154-Leonard Miller Jr. Airport</name>
+</wpt>
+<wpt lat="33.5553736" lon="-102.3748129">
+  <name>FA155-Levelland Airport</name>
+</wpt>
+<wpt lat="44.048795" lon="-70.287055">
+  <name>FA156-Lewiston Municipal Airport</name>
+</wpt>
+<wpt lat="37.0445698" lon="-100.9523051">
+  <name>FA157-Liberal Municipal Airport</name>
+</wpt>
+<wpt lat="30.077806" lon="-94.698556">
+  <name>FA158-Liberty Municipal Airport</name>
+</wpt>
+<wpt lat="40.7048195" lon="-84.0267798">
+  <name>FA159-Lima Allen County Airport</name>
+</wpt>
+<wpt lat="31.639723" lon="-96.514725">
+  <name>FA160-Limestone County Airport</name>
+</wpt>
+<wpt lat="35.4836323" lon="-81.1618395">
+  <name>FA161-Lincoln County Airport</name>
+</wpt>
+<wpt lat="35.4836323" lon="-81.1618395">
+  <name>FA162-Lincoln County Regional Airport</name>
+</wpt>
+<wpt lat="38.908801" lon="-121.349573">
+  <name>FA163-Lincoln Regional Airport</name>
+</wpt>
+<wpt lat="35.0225579" lon="-110.7160931">
+  <name>FA164-Lindbergh Regional Airport</name>
+</wpt>
+<wpt lat="39.164973" lon="-89.6693025">
+  <name>FA165-Litchfield Airport</name>
+</wpt>
+<wpt lat="39.164973" lon="-89.6693025">
+  <name>FA166-Litchfield Municipal Airport</name>
+</wpt>
+<wpt lat="33.923944" lon="-102.386674">
+  <name>FA167-Littlefield Municipal Airport</name>
+</wpt>
+<wpt lat="37.6960965" lon="-121.8196537">
+  <name>FA168-Livermore Airport</name>
+</wpt>
+<wpt lat="30.689233" lon="-95.020162">
+  <name>FA169-Livingston Municipal Airport</name>
+</wpt>
+<wpt lat="29.850861" lon="-97.67092">
+  <name>FA170-Lockhart Municipal Airport</name>
+</wpt>
+<wpt lat="41.7833988" lon="-111.8543095">
+  <name>FA171-Logan Cache Airport</name>
+</wpt>
+<wpt lat="40.159443" lon="-89.3341669">
+  <name>FA172-Logan County Airport</name>
+</wpt>
+<wpt lat="37.0873814" lon="-84.0695071">
+  <name>FA173-London Corbin Airport</name>
+</wpt>
+<wpt lat="37.739121" lon="-122.405247">
+  <name>FA174-Loomis Field</name>
+</wpt>
+<wpt lat="48.485321" lon="-122.9372756">
+  <name>FA175-Lopez Island Airport</name>
+</wpt>
+<wpt lat="32.3367211" lon="-108.6938299">
+  <name>FA176-Lordsburg Municipal Airport</name>
+</wpt>
+<wpt lat="46.9496457" lon="-67.8856149">
+  <name>FA177-Loring International Airport</name>
+</wpt>
+<wpt lat="35.881792" lon="-106.2753374">
+  <name>FA178-Los Alamos County Airport</name>
+</wpt>
+<wpt lat="37.063057" lon="-120.869164">
+  <name>FA179-Los Banos Airport</name>
+</wpt>
+<wpt lat="38.009998" lon="-77.971947">
+  <name>FA181-Louisa Co. Airport</name>
+</wpt>
+<wpt lat="32.986542" lon="-82.385681">
+  <name>FA182-Louisville Municipal Airport</name>
+</wpt>
+<wpt lat="42.9545032" lon="-85.3456608">
+  <name>FA183-Lowell Airport</name>
+</wpt>
+<wpt lat="42.5659695" lon="-75.5268645">
+  <name>FA184-Lt. Warren E. Eaton Airport</name>
+</wpt>
+<wpt lat="33.5414884" lon="-112.3755018">
+  <name>FA185-Luke Air Force Base</name>
+</wpt>
+<wpt lat="34.6112946" lon="-79.0594625">
+  <name>FA186-Lumberton Regional Airport</name>
+</wpt>
+<wpt lat="43.6223454" lon="-96.2145709">
+  <name>FA187-Luverne Municipal Airport</name>
+</wpt>
+<wpt lat="38.3456161" lon="-98.2273803">
+  <name>FA188-Lyons Rice County Airport</name>
+</wpt>
+<wpt lat="31.8455814" lon="-86.6113826">
+  <name>FA189-Mac Crenshaw Memorial Airport</name>
+</wpt>
+<wpt lat="44.7027884" lon="-67.4784104">
+  <name>FA190-Machias Valley Airport</name>
+</wpt>
+<wpt lat="39.2689566" lon="-108.8614613">
+  <name>FA191-Mack Mesa Airport</name>
+</wpt>
+<wpt lat="40.4592076" lon="-90.6717971">
+  <name>FA192-Macomb Municipal</name>
+</wpt>
+<wpt lat="39.7251351" lon="-92.4591783">
+  <name>FA193-Macon Fower Memorial Airport</name>
+</wpt>
+<wpt lat="32.7014571" lon="-83.6501008">
+  <name>FA194-Macon Municipal Airport</name>
+</wpt>
+<wpt lat="37.2860595" lon="-120.5144592">
+  <name>FA195-Macready Field</name>
+</wpt>
+<wpt lat="43.1390659" lon="-89.3364128">
+  <name>FA196-Madison Airport</name>
+</wpt>
+<wpt lat="34.0945077" lon="-107.2978141">
+  <name>FA198-Magdalena Municipal Airport</name>
+</wpt>
+<wpt lat="47.8416582" lon="-116.251969">
+  <name>FA199-Magee Airport</name>
+</wpt>
+<wpt lat="42.4833496" lon="-114.4847165">
+  <name>FA200-Magic Valley Regional Airport</name>
+</wpt>
+<wpt lat="33.06778" lon="-96.065277">
+  <name>FA201-Majors Field</name>
+</wpt>
+<wpt lat="36.600555" lon="-89.992226">
+  <name>FA202-Malden Regional Airport</name>
+</wpt>
+<wpt lat="42.0006931" lon="-121.3964873">
+  <name>FA203-Malin Municipal Airport</name>
+</wpt>
+<wpt lat="34.3345774" lon="-92.7614716">
+  <name>FA204-Malvern Municipal Airport</name>
+</wpt>
+<wpt lat="37.6244629" lon="-118.8388538">
+  <name>FA205-Mammoth Yosemite Airport</name>
+</wpt>
+<wpt lat="38.7242662" lon="-77.5156503">
+  <name>FA206-Manassas Regional Airport</name>
+</wpt>
+<wpt lat="46.7672361" lon="-100.8967167">
+  <name>FA207-Mandan Municipal Airport</name>
+</wpt>
+<wpt lat="39.1371223" lon="-96.6699273">
+  <name>FA208-Manhattan Regional Airport</name>
+</wpt>
+<wpt lat="46.1223669" lon="-89.8846863">
+  <name>FA209-Manitowish Waters Airport</name>
+</wpt>
+<wpt lat="44.2212813" lon="-93.9209034">
+  <name>FA210-Mankato Regional Airport</name>
+</wpt>
+<wpt lat="40.8191147" lon="-82.5138688">
+  <name>FA211-Mansfield Lahm Airport</name>
+</wpt>
+<wpt lat="32.4101865" lon="-111.2185477">
+  <name>FA212-Marana Northwest Regional Airport</name>
+</wpt>
+<wpt lat="33.890884" lon="-117.2617329">
+  <name>FA213-March Field</name>
+</wpt>
+<wpt lat="25.9958335" lon="-81.673007">
+  <name>FA214-Marco Island Executive Airport</name>
+</wpt>
+<wpt lat="44.2217948" lon="-73.7873175">
+  <name>FA215-Marcy Field</name>
+</wpt>
+<wpt lat="30.3709533" lon="-104.0167022">
+  <name>FA216-Marfa Municipal Airport</name>
+</wpt>
+<wpt lat="30.8377439" lon="-85.1837396">
+  <name>FA217-Marianna Airport</name>
+</wpt>
+<wpt lat="37.747031" lon="-89.0109224">
+  <name>FA218-Marion Airport</name>
+</wpt>
+<wpt lat="36.2907989" lon="-92.5903915">
+  <name>FA219-Marion County Regional Airport</name>
+</wpt>
+<wpt lat="41.020832" lon="-89.385277">
+  <name>FA220-Marshall County Airport</name>
+</wpt>
+<wpt lat="39.0979967" lon="-93.1986774">
+  <name>FA221-Marshall Memorial Airport</name>
+</wpt>
+<wpt lat="41.388145" lon="-70.613868">
+  <name>FA222-Martha's Vineyard Airport</name>
+</wpt>
+<wpt lat="46.0464859" lon="-118.4152472">
+  <name>FA223-Martin Field</name>
+</wpt>
+<wpt lat="43.960493" lon="-86.4078119">
+  <name>FA224-Mason Co. Airport</name>
+</wpt>
+<wpt lat="43.960493" lon="-86.4078119">
+  <name>FA225-Mason County Airport</name>
+</wpt>
+<wpt lat="44.9360661" lon="-74.8442316">
+  <name>FA226-Massena International Airport</name>
+</wpt>
+<wpt lat="35.5553939" lon="-87.1822915">
+  <name>FA227-Maury County Regional Airport</name>
+</wpt>
+<wpt lat="36.768857" lon="-88.5849137">
+  <name>FA228-Mayfield Graves County Airport</name>
+</wpt>
+<wpt lat="29.5476646" lon="-98.4564857">
+  <name>FA229-McAllister Field</name>
+</wpt>
+<wpt lat="44.8915766" lon="-116.1041268">
+  <name>FA230-McCall Smokejumber Base</name>
+</wpt>
+<wpt lat="27.9141415" lon="-97.2106867">
+  <name>FA231-McCampbell Airport</name>
+</wpt>
+<wpt lat="43.2073194" lon="-112.3496358">
+  <name>FA232-McCarley Field</name>
+</wpt>
+<wpt lat="35.2392469" lon="-120.6380431">
+  <name>FA233-McChesney Field</name>
+</wpt>
+<wpt lat="33.1268216" lon="-117.2792408">
+  <name>FA234-McClellan-Palomar Airport</name>
+</wpt>
+<wpt lat="31.178612" lon="-90.471664">
+  <name>FA235-McComb Pike County Airport</name>
+</wpt>
+<wpt lat="40.206278" lon="-100.592083">
+  <name>FA236-McCook Ben Nelson Regional Airport</name>
+</wpt>
+<wpt lat="32.8534357" lon="-117.1907222">
+  <name>FA237-McErloy Field</name>
+</wpt>
+<wpt lat="31.4830419" lon="-97.314062">
+  <name>FA238-McGregor Executive Airport</name>
+</wpt>
+<wpt lat="35.6024496" lon="-88.9214627">
+  <name>FA239-McKellar Sipes Regional Airport</name>
+</wpt>
+<wpt lat="44.1822269" lon="-122.0853329">
+  <name>FA240-McKenzie Bridge Airfield</name>
+</wpt>
+<wpt lat="31.1537482" lon="-81.3890863">
+  <name>FA241-McKinnon St. Simons Island Airport</name>
+</wpt>
+<wpt lat="32.22972" lon="-101.5271167">
+  <name>FA242-McMahon Wrinkle Airport</name>
+</wpt>
+<wpt lat="44.9078414" lon="-123.0018514">
+  <name>FA243-McNary Field</name>
+</wpt>
+<wpt lat="47.783051" lon="-98.186487">
+  <name>FA244-McVille Municipal Airport</name>
+</wpt>
+<wpt lat="47.5741588" lon="-122.0056844">
+  <name>FA245-McWhirter Field</name>
+</wpt>
+<wpt lat="35.4329123" lon="-119.056618">
+  <name>FA246-Meadows Field Airport</name>
+</wpt>
+<wpt lat="42.3683362" lon="-122.8742933">
+  <name>FA247-Medford Airport</name>
+</wpt>
+<wpt lat="40.0407343" lon="-107.8923203">
+  <name>FA248-Meeker Airport</name>
+</wpt>
+<wpt lat="34.4827444" lon="-93.0956043">
+  <name>FA249-Memorial Field Airport</name>
+</wpt>
+<wpt lat="28.8596905" lon="-100.5239813">
+  <name>FA250-Memorial International Airport</name>
+</wpt>
+<wpt lat="40.2769993" lon="-74.8179505">
+  <name>FA251-Mercer County Airport</name>
+</wpt>
+<wpt lat="47.2900296" lon="-101.5805339">
+  <name>FA252-Mercer County Regional Airport</name>
+</wpt>
+<wpt lat="32.333547" lon="-88.7451526">
+  <name>FA253-Meridian Regional Airport</name>
+</wpt>
+<wpt lat="37.1825955" lon="-88.7503051">
+  <name>FA254-Metropolis Airport</name>
+</wpt>
+<wpt lat="39.5069877" lon="-84.7830658">
+  <name>FA255-Miami University Airport</name>
+</wpt>
+<wpt lat="41.703871" lon="-86.821163">
+  <name>FA256-Michigan City Municipal Airport</name>
+</wpt>
+<wpt lat="35.639943" lon="-80.5194999">
+  <name>FA257-Mid Carolina Regional Airport</name>
+</wpt>
+<wpt lat="26.1780139" lon="-97.9725015">
+  <name>FA258-Mid Valley Airport</name>
+</wpt>
+<wpt lat="38.5491996" lon="-89.8216405">
+  <name>FA259-MidAmerican Airport</name>
+</wpt>
+<wpt lat="32.7014571" lon="-83.6501008">
+  <name>FA260-Middle Georgia Regional Airport</name>
+</wpt>
+<wpt lat="43.9864044" lon="-73.0955468">
+  <name>FA261-Middlebury State Airport</name>
+</wpt>
+<wpt lat="32.4535404" lon="-96.9154213">
+  <name>FA262-Mid-Way Regional Airport</name>
+</wpt>
+<wpt lat="41.1951571" lon="-96.1137228">
+  <name>FA263-Millard Airport</name>
+</wpt>
+<wpt lat="40.5673593" lon="-74.0990361">
+  <name>FA264-Miller Field</name>
+</wpt>
+<wpt lat="45.6492996" lon="-68.6875336">
+  <name>FA265-Millinocket Municipal Airport</name>
+</wpt>
+<wpt lat="32.643146" lon="-93.302123">
+  <name>FA266-Minden Airport</name>
+</wpt>
+<wpt lat="39.0005511" lon="-119.7523069">
+  <name>FA267-Minden-Tahoe Airport</name>
+</wpt>
+<wpt lat="32.7820897" lon="-98.0609512">
+  <name>FA268-Mineral Wells Airport</name>
+</wpt>
+<wpt lat="48.4157509" lon="-101.3386723">
+  <name>FA269-Minot Air Force Base</name>
+</wpt>
+<wpt lat="48.2556712" lon="-101.2882265">
+  <name>FA270-Minot International Airport</name>
+</wpt>
+<wpt lat="35.5058367" lon="-119.1913604">
+  <name>FA271-Minter Field</name>
+</wpt>
+<wpt lat="30.692512" lon="-88.2454936">
+  <name>FA272-Mobile Regional Airport</name>
+</wpt>
+<wpt lat="40.1807259" lon="-74.1216605">
+  <name>FA273-Monmouth Airport</name>
+</wpt>
+<wpt lat="39.14663" lon="-86.614088">
+  <name>FA274-Monroe County Airport</name>
+</wpt>
+<wpt lat="32.5102311" lon="-92.0436229">
+  <name>FA275-Monroe Municipal Airport</name>
+</wpt>
+<wpt lat="32.5102311" lon="-92.0436229">
+  <name>FA276-Monroe Regional Airport</name>
+</wpt>
+<wpt lat="37.531499" lon="-106.0441796">
+  <name>FA277-Monte Vista Municipal Airport</name>
+</wpt>
+<wpt lat="36.5871457" lon="-121.8462322">
+  <name>FA278-Monterey Regional Airport</name>
+</wpt>
+<wpt lat="39.1672417" lon="-77.161383">
+  <name>FA279-Montgomery County Airpark</name>
+</wpt>
+<wpt lat="42.220363" lon="-91.163299">
+  <name>FA280-Monticello Regional Airport</name>
+</wpt>
+<wpt lat="38.5003821" lon="-107.8991394">
+  <name>FA281-Montrose Regional Airport</name>
+</wpt>
+<wpt lat="44.8318909" lon="-119.4300079">
+  <name>FA282-Monument Municipal Airport</name>
+</wpt>
+<wpt lat="35.8572222" lon="-102.0130556">
+  <name>FA283-Moore County Airport</name>
+</wpt>
+<wpt lat="46.8386145" lon="-96.6575042">
+  <name>FA284-Moorhead Municipal Airport</name>
+</wpt>
+<wpt lat="46.4191647" lon="-92.8040815">
+  <name>FA285-Moose Lake Carlton County Airport</name>
+</wpt>
+<wpt lat="45.8861758" lon="-93.2712485">
+  <name>FA286-Mora Municipal Airport</name>
+</wpt>
+<wpt lat="43.1138347" lon="-89.5346285">
+  <name>FA287-Morey Field</name>
+</wpt>
+<wpt lat="39.645296" lon="-79.920321">
+  <name>FA288-Morgantown Municipal Airport</name>
+</wpt>
+<wpt lat="34.9841003" lon="-106.0067128">
+  <name>FA289-Moriarty Municipal Airport</name>
+</wpt>
+<wpt lat="39.4671916" lon="-98.1289675">
+  <name>FA290-Moritz Memorial Airport</name>
+</wpt>
+<wpt lat="35.136112" lon="-92.7136079">
+  <name>FA291-Morrilton Municipal Airport</name>
+</wpt>
+<wpt lat="41.4240973" lon="-88.4194278">
+  <name>FA292-Morris Airport</name>
+</wpt>
+<wpt lat="45.9521297" lon="-94.346922">
+  <name>FA293-Morrison County Airport</name>
+</wpt>
+<wpt lat="36.1795479" lon="-83.3752118">
+  <name>FA294-Morristown Regional Airport</name>
+</wpt>
+<wpt lat="36.99926" lon="-101.8860416">
+  <name>FA295-Morton County Airport</name>
+</wpt>
+<wpt lat="31.0853077" lon="-83.8049755">
+  <name>FA296-Moultrie Municipal Airport</name>
+</wpt>
+<wpt lat="34.529167" lon="-93.527222">
+  <name>FA297-Mount Ida Airport</name>
+</wpt>
+<wpt lat="36.8946632" lon="-81.3492229">
+  <name>FA298-Mountain Empire Airport</name>
+</wpt>
+<wpt lat="43.0444129" lon="-115.8619784">
+  <name>FA299-Mountain Home Air Force Base</name>
+</wpt>
+<wpt lat="35.1025977" lon="-118.4268728">
+  <name>FA300-Mountain Valley Airport</name>
+</wpt>
+<wpt lat="40.7958572" lon="-89.611155">
+  <name>FA301-Mt. Hawley Airport</name>
+</wpt>
+<wpt lat="38.058558" lon="-83.979933">
+  <name>FA302-Mt. Sterling Montgomery Co. Airport</name>
+</wpt>
+<wpt lat="38.3219349" lon="-88.8534956">
+  <name>FA303-Mt. Vernon Outland Airport</name>
+</wpt>
+<wpt lat="43.1268179" lon="-115.7276207">
+  <name>FA304-Mtn. Home Municipal Airport</name>
+</wpt>
+<wpt lat="37.2263732" lon="-87.156794">
+  <name>FA305-Muhlenberg County Airport</name>
+</wpt>
+<wpt lat="42.3594666" lon="-71.1456727">
+  <name>FA306-Murray Field</name>
+</wpt>
+<wpt lat="41.36267" lon="-91.146346">
+  <name>FA307-Muscatine Municipal Airport</name>
+</wpt>
+<wpt lat="36.3786175" lon="-86.4109111">
+  <name>FA308-Music City Executive</name>
+</wpt>
+<wpt lat="27.8116219" lon="-97.0885096">
+  <name>FA309-Mustang Beach Airport</name>
+</wpt>
+<wpt lat="39.675951" lon="-119.7261799">
+  <name>FA310-N86 Airport</name>
+</wpt>
+<wpt lat="43.5833926" lon="-116.5234527">
+  <name>FA311-Nampa Municipal Airport</name>
+</wpt>
+<wpt lat="38.2172561" lon="-122.2730219">
+  <name>FA312-Napa County Airport</name>
+</wpt>
+<wpt lat="41.4441818" lon="-85.9388181">
+  <name>FA313-Nappanee Municipal Airport</name>
+</wpt>
+<wpt lat="31.734135" lon="-93.0974149">
+  <name>FA314-Natchitoches Regional Airport</name>
+</wpt>
+<wpt lat="42.8972741" lon="-106.46485">
+  <name>FA315-Natrona County International Airport</name>
+</wpt>
+<wpt lat="39.4202278" lon="-118.7251208">
+  <name>FA316-Naval Air Station Fallon</name>
+</wpt>
+<wpt lat="40.6075795" lon="-95.8656202">
+  <name>FA317-Nebraska City Municipal Airport</name>
+</wpt>
+<wpt lat="45.698162" lon="-123.929855">
+  <name>FA318-Nehalem Bay State Airport</name>
+</wpt>
+<wpt lat="39.7382875" lon="-111.8670146">
+  <name>FA319-Nephi Municipal Airport</name>
+</wpt>
+<wpt lat="39.2229121" lon="-121.0051831">
+  <name>FA320-Nevada County Airport</name>
+</wpt>
+<wpt lat="34.5482674" lon="-89.0245048">
+  <name>FA321-New Albany/Union County Airport</name>
+</wpt>
+<wpt lat="29.6988659" lon="-98.0385858">
+  <name>FA322-New Braunfels Regional Airport</name>
+</wpt>
+<wpt lat="39.6625439" lon="-75.560878">
+  <name>FA323-New Castle Municipal</name>
+</wpt>
+<wpt lat="38.8390057" lon="-94.8934618">
+  <name>FA324-New Century Air Center</name>
+</wpt>
+<wpt lat="39.8339616" lon="-75.7671264">
+  <name>FA325-New Garden Flying Field</name>
+</wpt>
+<wpt lat="43.9484562" lon="-88.1157149">
+  <name>FA326-New Holstein Municipal Airport</name>
+</wpt>
+<wpt lat="41.3301567" lon="-72.0466658">
+  <name>FA327-New London Airport</name>
+</wpt>
+<wpt lat="38.6557831" lon="-78.7091148">
+  <name>FA328-New Market Airport</name>
+</wpt>
+<wpt lat="29.0564015" lon="-80.9423624">
+  <name>FA329-New Smyrna Beach Airport</name>
+</wpt>
+<wpt lat="34.3131949" lon="-81.6371549">
+  <name>FA330-Newberry County Airport</name>
+</wpt>
+<wpt lat="44.5936754" lon="-124.0595041">
+  <name>FA331-Newport Airport</name>
+</wpt>
+<wpt lat="44.5800356" lon="-124.0583467">
+  <name>FA332-Newport Municipal Airport</name>
+</wpt>
+<wpt lat="41.5318166" lon="-71.2806057">
+  <name>FA333-Newport State Airport</name>
+</wpt>
+<wpt lat="38.0533303" lon="-97.2793865">
+  <name>FA334-Newton City County Airport</name>
+</wpt>
+<wpt lat="38.0533303" lon="-97.2793865">
+  <name>FA335-Newton County Airport</name>
+</wpt>
+<wpt lat="41.6771976" lon="-93.0236984">
+  <name>FA336-Newton Municipal Airport</name>
+</wpt>
+<wpt lat="43.1893581" lon="-79.1710659">
+  <name>FA337-Niagara District Airport</name>
+</wpt>
+<wpt lat="31.416389" lon="-110.849167">
+  <name>FA338-Nogales International Airport</name>
+</wpt>
+<wpt lat="41.9845944" lon="-97.4301588">
+  <name>FA339-Norfolk Regional Airport</name>
+</wpt>
+<wpt lat="39.7710753" lon="-93.0133008">
+  <name>FA340-North Central Missouri Regional Airport</name>
+</wpt>
+<wpt lat="39.2967239" lon="-80.231201">
+  <name>FA341-North Central West Virginia Airport</name>
+</wpt>
+<wpt lat="38.8332479" lon="-107.6421">
+  <name>FA342-North Fork Valley Airport</name>
+</wpt>
+<wpt lat="36.2092336" lon="-115.1994297">
+  <name>FA343-North Las Vegas Airport</name>
+</wpt>
+<wpt lat="33.7127772" lon="-96.666761">
+  <name>FA344-North Texas Regional Airport</name>
+</wpt>
+<wpt lat="39.048013" lon="-85.6036369">
+  <name>FA345-North Vernon Municipal Airport</name>
+</wpt>
+<wpt lat="33.972878" lon="-86.0859381">
+  <name>FA346-Northeast Alabama Regional Airport</name>
+</wpt>
+<wpt lat="29.95439" lon="-81.3428916">
+  <name>FA347-Northeast Florida Regional Airport</name>
+</wpt>
+<wpt lat="43.0691038" lon="-92.6075414">
+  <name>FA348-Northeast Iowa Regional Airport</name>
+</wpt>
+<wpt lat="36.0267769" lon="-76.5663055">
+  <name>FA349-Northeastern Regional Airport</name>
+</wpt>
+<wpt lat="40.8043049" lon="-124.1178498">
+  <name>FA350-Northern Air</name>
+</wpt>
+<wpt lat="40.4498681" lon="-105.0054389">
+  <name>FA351-Northern Colorado Regional Airport</name>
+</wpt>
+<wpt lat="46.6860602" lon="-68.0459444">
+  <name>FA352-Northern Maine Regional Airport</name>
+</wpt>
+<wpt lat="34.7451895" lon="-87.6117237">
+  <name>FA353-Northwest Alabama Regional Airport</name>
+</wpt>
+<wpt lat="36.2786587" lon="-94.304294">
+  <name>FA354-Northwest Arkansas Regional Airport</name>
+</wpt>
+<wpt lat="33.0522391" lon="-97.2327375">
+  <name>FA355-Northwest Regional Airport</name>
+</wpt>
+<wpt lat="38.23888" lon="-108.563423">
+  <name>FA356-Nucla Hopkins Airport</name>
+</wpt>
+<wpt lat="46.1730556" lon="-98.08">
+  <name>FA357-Oakes Municipal Airport</name>
+</wpt>
+<wpt lat="43.7521524" lon="-122.5025206">
+  <name>FA358-Oakridge State Airport</name>
+</wpt>
+<wpt lat="39.8322971" lon="-100.5358863">
+  <name>FA359-Oberlin Airport</name>
+</wpt>
+<wpt lat="38.310444" lon="-75.123972">
+  <name>FA360-Ocean City Municipal Airport</name>
+</wpt>
+<wpt lat="46.998331" lon="-124.143868">
+  <name>FA361-Ocean Shores Municipal Airport</name>
+</wpt>
+<wpt lat="30.3891577" lon="-88.7534594">
+  <name>FA362-Ocean Springs Airport</name>
+</wpt>
+<wpt lat="34.670951" lon="-82.8844062">
+  <name>FA363-Oconee County Regional Airport</name>
+</wpt>
+<wpt lat="41.1934195" lon="-112.0089781">
+  <name>FA364-Ogden Airport</name>
+</wpt>
+<wpt lat="41.9696427" lon="-73.865418">
+  <name>FA365-Old Rhinebeck Aerodrome</name>
+</wpt>
+<wpt lat="35.2313288" lon="-102.3986593">
+  <name>FA366-Oldham County Airport</name>
+</wpt>
+<wpt lat="38.720665" lon="-88.174871">
+  <name>FA367-Olney Noble Airport</name>
+</wpt>
+<wpt lat="46.9753197" lon="-122.8971361">
+  <name>FA368-Olympia Regional Airport</name>
+</wpt>
+<wpt lat="42.9889691" lon="-96.062393">
+  <name>FA369-Orange City Airport</name>
+</wpt>
+<wpt lat="33.6761901" lon="-117.8674759">
+  <name>FA370-Orange County Airport</name>
+</wpt>
+<wpt lat="48.708361" lon="-122.9106134">
+  <name>FA371-Orcas Island Airport</name>
+</wpt>
+<wpt lat="45.305557" lon="-96.424721">
+  <name>FA372-Ortonville Municipal Airport</name>
+</wpt>
+<wpt lat="43.3496113" lon="-76.3937883">
+  <name>FA373-Oswego County Airport</name>
+</wpt>
+<wpt lat="38.5400428" lon="-95.2518938">
+  <name>FA374-Ottawa Municipal Airport</name>
+</wpt>
+<wpt lat="44.1212536" lon="-93.2503304">
+  <name>FA375-Owatonna Degner Regional Airport</name>
+</wpt>
+<wpt lat="36.0247886" lon="-106.0463776">
+  <name>FA376-Owingeh General Aviation Airport</name>
+</wpt>
+<wpt lat="43.4259831" lon="-117.34727">
+  <name>FA377-Owyhee Reservoir State Airport</name>
+</wpt>
+<wpt lat="30.7322136" lon="-101.2031522">
+  <name>FA378-Ozona Airport</name>
+</wpt>
+<wpt lat="36.9244374" lon="-111.451092">
+  <name>FA379-Page Municipal Airport</name>
+</wpt>
+<wpt lat="47.9075768" lon="-122.2808529">
+  <name>FA380-Paine Field</name>
+</wpt>
+<wpt lat="28.7245614" lon="-96.2545171">
+  <name>FA381-Palacios Municipal Airport</name>
+</wpt>
+<wpt lat="33.8303194" lon="-116.5070468">
+  <name>FA382-Palm Springs International Airport</name>
+</wpt>
+<wpt lat="47.398951" lon="-120.206495">
+  <name>FA383-Pangborn Memorial Airport</name>
+</wpt>
+<wpt lat="37.8452569" lon="-112.392151">
+  <name>FA384-Panguitch Municipal Airport</name>
+</wpt>
+<wpt lat="35.3616973" lon="-101.366086">
+  <name>FA385-Panhandle Carson County Airport</name>
+</wpt>
+<wpt lat="34.3629068" lon="-89.8914375">
+  <name>FA386-Panola County Airport</name>
+</wpt>
+<wpt lat="47.7752042" lon="-116.818742">
+  <name>FA387-Pappy Boyington Field</name>
+</wpt>
+<wpt lat="37.8572702" lon="-112.824443">
+  <name>FA388-Parowan Municipal Airport</name>
+</wpt>
+<wpt lat="44.0916599" lon="-116.901126">
+  <name>FA389-Payette Airport</name>
+</wpt>
+<wpt lat="34.2563155" lon="-111.3389045">
+  <name>FA390-Payson Municipal Airport</name>
+</wpt>
+<wpt lat="33.1822205" lon="-84.3770384">
+  <name>FA391-Peachstate Airpark</name>
+</wpt>
+<wpt lat="45.6223129" lon="-122.6558909">
+  <name>FA392-Pearson Field</name>
+</wpt>
+<wpt lat="30.9093946" lon="-102.9129875">
+  <name>FA393-Pecos County Airport</name>
+</wpt>
+<wpt lat="40.3895573" lon="-75.2889955">
+  <name>FA395-Pennridge Airport</name>
+</wpt>
+<wpt lat="46.3740418" lon="-117.014737">
+  <name>FA396-Perce County Regional Airport</name>
+</wpt>
+<wpt lat="30.0776311" lon="-83.5737093">
+  <name>FA397-Perry Foley Airport</name>
+</wpt>
+<wpt lat="35.6114031" lon="-100.9915738">
+  <name>FA398-Perry Lefors Field</name>
+</wpt>
+<wpt lat="36.3842628" lon="-97.2793849">
+  <name>FA399-Perry Municipal Airport</name>
+</wpt>
+<wpt lat="36.4116284" lon="-100.7520658">
+  <name>FA400-Perryton Airport</name>
+</wpt>
+<wpt lat="38.2580396" lon="-122.6086318">
+  <name>FA401-Petaluma Municipal Airport</name>
+</wpt>
+<wpt lat="30.637275" lon="-86.995092">
+  <name>FA402-Peter Prince Field</name>
+</wpt>
+<wpt lat="35.631926" lon="-77.3798351">
+  <name>FA403-PGV Airport</name>
+</wpt>
+<wpt lat="42.0525286" lon="-104.9376096">
+  <name>FA404-Phifer Field</name>
+</wpt>
+<wpt lat="33.4245691" lon="-112.3729813">
+  <name>FA405-Phoenix Goodyear Airport</name>
+</wpt>
+<wpt lat="33.3097917" lon="-111.6692037">
+  <name>FA406-Phoenix-Mesa Gateway Airport</name>
+</wpt>
+<wpt lat="34.8101215" lon="-82.7019129">
+  <name>FA407-Pickens County Airport</name>
+</wpt>
+<wpt lat="44.3825" lon="-100.285833">
+  <name>FA408-Pierre Regional Airport</name>
+</wpt>
+<wpt lat="43.1736324" lon="-78.2688923">
+  <name>FA409-Pine Hill Airport</name>
+</wpt>
+<wpt lat="40.5178169" lon="-98.9473047">
+  <name>FA410-Pioneer Village Field</name>
+</wpt>
+<wpt lat="43.9864145" lon="-96.2977253">
+  <name>FA411-Pipestone Municipal Airport</name>
+</wpt>
+<wpt lat="42.4255587" lon="-73.2915823">
+  <name>FA412-Pittsfield Municipal Airport</name>
+</wpt>
+<wpt lat="47.4742841" lon="-114.9056195">
+  <name>FA413-Plains Airport</name>
+</wpt>
+<wpt lat="32.6467153" lon="-81.5966542">
+  <name>FA414-Plantation Airpark</name>
+</wpt>
+<wpt lat="42.6914418" lon="-90.4391419">
+  <name>FA415-Platteville Municipal Airport</name>
+</wpt>
+<wpt lat="44.6520597" lon="-73.4679203">
+  <name>FA416-Plattsburgh International Airport</name>
+</wpt>
+<wpt lat="40.9489665" lon="-95.9167774">
+  <name>FA417-Plattsmouth Municipal Airport</name>
+</wpt>
+<wpt lat="28.954166" lon="-98.519997">
+  <name>FA418-Pleasanton Municipal Airport</name>
+</wpt>
+<wpt lat="41.9087309" lon="-70.7313188">
+  <name>FA419-Plymouth Municipal Airport</name>
+</wpt>
+<wpt lat="42.9056887" lon="-112.5887539">
+  <name>FA420-Pocatello Regional Airport</name>
+</wpt>
+<wpt lat="45.8849586" lon="-111.5635473">
+  <name>FA421-Pogreba Field</name>
+</wpt>
+<wpt lat="36.1762111" lon="-96.1499174">
+  <name>FA422-Pogue Airport</name>
+</wpt>
+<wpt lat="36.7291939" lon="-97.1004509">
+  <name>FA423-Ponca City Municipal Airport</name>
+</wpt>
+<wpt lat="47.695557" lon="-114.184998">
+  <name>FA424-Port Polson Airport</name>
+</wpt>
+<wpt lat="43.5583833" lon="-89.4836306">
+  <name>FA425-Portage Municipal Airport</name>
+</wpt>
+<wpt lat="36.5921834" lon="-86.4787986">
+  <name>FA426-Portland Municipal Airport</name>
+</wpt>
+<wpt lat="33.1994548" lon="-101.3387">
+  <name>FA427-Post Garza County Municipal Airport</name>
+</wpt>
+<wpt lat="43.0219293" lon="-91.1201275">
+  <name>FA428-Prairie Du Chien Municipal Airport</name>
+</wpt>
+<wpt lat="31.5958264" lon="-89.9063393">
+  <name>FA429-Prentiss-Jefferson Davis County Airport</name>
+</wpt>
+<wpt lat="33.6565685" lon="-101.8222599">
+  <name>FA430-Preston Municipal Airport</name>
+</wpt>
+<wpt lat="45.7073182" lon="-90.4046487">
+  <name>FA431-Price Co. Airport</name>
+</wpt>
+<wpt lat="44.285779" lon="-120.9014399">
+  <name>FA432-Prineville Airport</name>
+</wpt>
+<wpt lat="42.7429539" lon="-122.4879521">
+  <name>FA433-Prospect State Airport</name>
+</wpt>
+<wpt lat="42.072367" lon="-70.222247">
+  <name>FA434-Provincetown Municipal Airport</name>
+</wpt>
+<wpt lat="40.2180508" lon="-111.7222357">
+  <name>FA435-Provo Airport</name>
+</wpt>
+<wpt lat="34.6590419" lon="-86.9479374">
+  <name>FA436-Pryor Regional Airport</name>
+</wpt>
+<wpt lat="38.2859398" lon="-104.4953346">
+  <name>FA437-Pueblo Airport</name>
+</wpt>
+<wpt lat="46.7441801" lon="-117.1141262">
+  <name>FA438-Pullman Moscow Regional Airport</name>
+</wpt>
+<wpt lat="26.9182483" lon="-81.9966407">
+  <name>FA439-Punta Gorda Airport</name>
+</wpt>
+<wpt lat="39.637309" lon="-86.8161383">
+  <name>FA440-Putnam County Airport</name>
+</wpt>
+<wpt lat="34.2764913" lon="-99.7574104">
+  <name>FA441-Quanah Municipal Airport</name>
+</wpt>
+<wpt lat="47.9357531" lon="-124.561851">
+  <name>FA442-Quillayute Airport</name>
+</wpt>
+<wpt lat="32.9270756" lon="-96.4340733">
+  <name>FA443-Ralph M. Hall Municipal Airport</name>
+</wpt>
+<wpt lat="47.3921561" lon="-92.8421461">
+  <name>FA445-Range Regional Airport</name>
+</wpt>
+<wpt lat="40.0934213" lon="-108.7604641">
+  <name>FA446-Rangely Airport</name>
+</wpt>
+<wpt lat="47.0150392" lon="-121.5345167">
+  <name>FA447-Ranger Creek State Airport</name>
+</wpt>
+<wpt lat="44.0383798" lon="-103.0605163">
+  <name>FA448-Rapid City Regional Airport</name>
+</wpt>
+<wpt lat="46.2540363" lon="-114.1271013">
+  <name>FA449-Ravalli Co. Airport</name>
+</wpt>
+<wpt lat="40.3795374" lon="-75.9677499">
+  <name>FA450-Reading Regional Airport</name>
+</wpt>
+<wpt lat="40.5058184" lon="-122.2996775">
+  <name>FA451-Redding Municipal Airport</name>
+</wpt>
+<wpt lat="44.2532061" lon="-121.1608592">
+  <name>FA452-Redmond Municipal Airport</name>
+</wpt>
+<wpt lat="43.526112" lon="-89.9830549">
+  <name>FA453-Reedsburg Municipal Airport</name>
+</wpt>
+<wpt lat="39.6731723" lon="-119.8834562">
+  <name>FA454-Reno Stead Airport</name>
+</wpt>
+<wpt lat="39.4995907" lon="-119.7680951">
+  <name>FA455-Reno-Tahoe International</name>
+</wpt>
+<wpt lat="42.6917631" lon="-73.5793876">
+  <name>FA456-Rensselaer County Airport</name>
+</wpt>
+<wpt lat="47.4919176" lon="-122.2175062">
+  <name>FA457-Renton Municipal Airport</name>
+</wpt>
+<wpt lat="45.4220712" lon="-91.7722365">
+  <name>FA458-Rice Lake Regional Airport</name>
+</wpt>
+<wpt lat="34.016109" lon="-88.726112">
+  <name>FA460-Richard Stovall Field</name>
+</wpt>
+<wpt lat="38.7445225" lon="-112.0969435">
+  <name>FA461-Richfield Regional Airport</name>
+</wpt>
+<wpt lat="46.3007984" lon="-119.301095">
+  <name>FA462-Richland Airport</name>
+</wpt>
+<wpt lat="43.2813727" lon="-90.2989911">
+  <name>FA463-Richland Center Municipal Airport</name>
+</wpt>
+<wpt lat="34.8949195" lon="-79.7570063">
+  <name>FA464-Richmond County Airport</name>
+</wpt>
+<wpt lat="45.9641266" lon="-96.1497808">
+  <name>FA465-Ricks Field</name>
+</wpt>
+<wpt lat="33.9505435" lon="-117.4459301">
+  <name>FA466-Riverside Municipal Airport</name>
+</wpt>
+<wpt lat="43.0613253" lon="-108.4584185">
+  <name>FA467-Riverton Regional Airport</name>
+</wpt>
+<wpt lat="32.8547211" lon="-96.310987">
+  <name>FA468-Rives Airpark</name>
+</wpt>
+<wpt lat="43.7245184" lon="-85.5088797">
+  <name>FA469-Roben Hood Airport</name>
+</wpt>
+<wpt lat="41.5318166" lon="-71.2806057">
+  <name>FA470-Robert F. Wood Airpark</name>
+</wpt>
+<wpt lat="44.2532061" lon="-121.1608592">
+  <name>FA471-Roberts Field</name>
+</wpt>
+<wpt lat="43.9109834" lon="-92.4967704">
+  <name>FA472-Rochester International Airport</name>
+</wpt>
+<wpt lat="35.871503" lon="-77.882731">
+  <name>FA473-Rocky Mount Wilson Airport</name>
+</wpt>
+<wpt lat="39.9096378" lon="-105.108089">
+  <name>FA474-Rocky Mountain Metropolitan Airport</name>
+</wpt>
+<wpt lat="46.218723" lon="-97.64325">
+  <name>FA475-Roger Melroe Field</name>
+</wpt>
+<wpt lat="36.372223" lon="-94.106941">
+  <name>FA476-Rogers Municipal Airport</name>
+</wpt>
+<wpt lat="28.2936289" lon="-97.3253283">
+  <name>FA477-Rooke Field</name>
+</wpt>
+<wpt lat="40.2775408" lon="-110.0499014">
+  <name>FA478-Roosevelt Municipal Airport</name>
+</wpt>
+<wpt lat="34.8685831" lon="-118.2029295">
+  <name>FA479-Rosamond Skypark</name>
+</wpt>
+<wpt lat="43.2364247" lon="-123.3580126">
+  <name>FA481-Roseburg Regional Airport</name>
+</wpt>
+<wpt lat="33.3067198" lon="-104.5189261">
+  <name>FA482-Roswell International Air Center</name>
+</wpt>
+<wpt lat="31.5832186" lon="-102.9087056">
+  <name>FA483-Roy Hurd Memorial Airport</name>
+</wpt>
+<wpt lat="48.856" lon="-95.697083">
+  <name>FA485-Rudy Billberg Field</name>
+</wpt>
+<wpt lat="45.6987674" lon="-92.9550896">
+  <name>FA486-Rush City Regional Airport</name>
+</wpt>
+<wpt lat="43.815834" lon="-91.830276">
+  <name>FA487-Rushford Municipal Airport</name>
+</wpt>
+<wpt lat="32.1409706" lon="-94.8506784">
+  <name>FA488-Rusk County Airport</name>
+</wpt>
+<wpt lat="40.4815643" lon="-111.4241859">
+  <name>FA489-Russ McDonald Field</name>
+</wpt>
+<wpt lat="34.3527459" lon="-85.1632475">
+  <name>FA490-Russell County Airport</name>
+</wpt>
+<wpt lat="34.3527459" lon="-85.1632475">
+  <name>FA491-Russell Regional Airport</name>
+</wpt>
+<wpt lat="36.7972313" lon="-86.8150639">
+  <name>FA492-Russellville Logan County Airport</name>
+</wpt>
+<wpt lat="32.514446" lon="-92.588333">
+  <name>FA493-Ruston Regional Airport</name>
+</wpt>
+<wpt lat="30.4973979" lon="-97.9691628">
+  <name>FA494-Rusty Allen Airport</name>
+</wpt>
+<wpt lat="32.072778" lon="-93.7656109">
+  <name>FA495-Rusty Williams Memorial Airport</name>
+</wpt>
+<wpt lat="43.5280396" lon="-72.9504739">
+  <name>FA496-Rutland-Southern Vermont Regional</name>
+</wpt>
+<wpt lat="32.1391473" lon="-111.1734223">
+  <name>FA497-Ryan Airfield</name>
+</wpt>
+<wpt lat="32.8535248" lon="-109.6361486">
+  <name>FA498-Safford Regional</name>
+</wpt>
+<wpt lat="38.7786867" lon="-97.639517">
+  <name>FA499-Salina Regional Airport</name>
+</wpt>
+<wpt lat="34.587849" lon="-92.4841014">
+  <name>FA500-Saline County Regional Airport</name>
+</wpt>
+<wpt lat="35.4378706" lon="-94.8053705">
+  <name>FA501-Sallisaw Municipal Airport</name>
+</wpt>
+<wpt lat="31.5441531" lon="-94.1699341">
+  <name>FA502-San Augustine Airport</name>
+</wpt>
+<wpt lat="37.4438466" lon="-105.8645118">
+  <name>FA503-San Luis Valley Regional Airport</name>
+</wpt>
+<wpt lat="29.8887331" lon="-97.8662645">
+  <name>FA504-San Marcos Regional Airport</name>
+</wpt>
+<wpt lat="37.081944" lon="-121.596947">
+  <name>FA505-San Martin Airport</name>
+</wpt>
+<wpt lat="48.3153555" lon="-117.7427826">
+  <name>FA506-Sand Canyon Airport</name>
+</wpt>
+<wpt lat="47.2408742" lon="-123.1441379">
+  <name>FA507-Sanderson Field</name>
+</wpt>
+<wpt lat="45.401611" lon="-122.228694">
+  <name>FA508-Sandy River Airport</name>
+</wpt>
+<wpt lat="43.401197" lon="-70.710551">
+  <name>FA509-Sanford Regional Airport</name>
+</wpt>
+<wpt lat="34.4271935" lon="-119.8398835">
+  <name>FA510-Santa Barbara Municipal Airport</name>
+</wpt>
+<wpt lat="35.6182563" lon="-106.0845315">
+  <name>FA511-Santa Fe Airport</name>
+</wpt>
+<wpt lat="34.8991411" lon="-120.4477733">
+  <name>FA512-Santa Maria Public Airport</name>
+</wpt>
+<wpt lat="34.9341987" lon="-104.6369215">
+  <name>FA513-Santa Rosa Municipal Airport</name>
+</wpt>
+<wpt lat="39.220021" lon="-106.864516">
+  <name>FA514-Sardy Field</name>
+</wpt>
+<wpt lat="43.297861" lon="-89.7554179">
+  <name>FA515-Sauk Prairie Airport</name>
+</wpt>
+<wpt lat="45.772503" lon="-122.862343">
+  <name>FA516-Scappoose Industrial Airpark</name>
+</wpt>
+<wpt lat="42.047772" lon="-88.0526497">
+  <name>FA517-Schaumburg Municipal Helistop</name>
+</wpt>
+<wpt lat="31.9210457" lon="-102.3907812">
+  <name>FA518-Schlemeyer Field</name>
+</wpt>
+<wpt lat="45.9696817" lon="-86.1744816">
+  <name>FA519-Schoolcraft County Airport</name>
+</wpt>
+<wpt lat="38.2336745" lon="-84.4332745">
+  <name>FA520-Scott County Regional Airport</name>
+</wpt>
+<wpt lat="33.620429" lon="-111.9152945">
+  <name>FA521-Scottsdale Airport</name>
+</wpt>
+<wpt lat="41.610333" lon="-96.629861">
+  <name>FA522-Scribner State Airfield</name>
+</wpt>
+<wpt lat="35.2105458" lon="-91.7375242">
+  <name>FA523-Searcy Municipal Airport</name>
+</wpt>
+<wpt lat="41.1204952" lon="-101.7644896">
+  <name>FA524-Searle Field</name>
+</wpt>
+<wpt lat="27.4555504" lon="-81.3457151">
+  <name>FA525-Sebring Regional Airport</name>
+</wpt>
+<wpt lat="34.8499609" lon="-111.7890536">
+  <name>FA526-Sedona Airport</name>
+</wpt>
+<wpt lat="47.1792796" lon="-113.4451354">
+  <name>FA527-Seeley Lake Airport</name>
+</wpt>
+<wpt lat="35.334704" lon="-112.8854002">
+  <name>FA528-Seligman Airport</name>
+</wpt>
+<wpt lat="48.098148" lon="-123.187123">
+  <name>FA529-Sequim Valley Airport</name>
+</wpt>
+<wpt lat="34.0463031" lon="-94.399816">
+  <name>FA530-Sevier County Airport</name>
+</wpt>
+<wpt lat="40.865276" lon="-97.109444">
+  <name>FA531-Seward Municipal Airport</name>
+</wpt>
+<wpt lat="33.6467223" lon="-99.2604091">
+  <name>FA532-Seymour Municipal Airport</name>
+</wpt>
+<wpt lat="47.0704106" lon="-122.3718313">
+  <name>FA533-Shady Acres Airport</name>
+</wpt>
+<wpt lat="35.2342177" lon="-100.1840502">
+  <name>FA534-Shamrock Municipal Airport</name>
+</wpt>
+<wpt lat="38.2681365" lon="-77.4476051">
+  <name>FA535-Shannon Airport</name>
+</wpt>
+<wpt lat="36.264871" lon="-91.562641">
+  <name>FA536-Sharp Co. Regional Airport</name>
+</wpt>
+<wpt lat="35.3579126" lon="-96.9425653">
+  <name>FA537-Shawnee Regional Airport</name>
+</wpt>
+<wpt lat="33.1783035" lon="-86.7830228">
+  <name>FA538-Shelby County Airport</name>
+</wpt>
+<wpt lat="35.5614306" lon="-86.4445173">
+  <name>FA539-Shelbyville Municipal Airport</name>
+</wpt>
+<wpt lat="43.2129019" lon="-95.8381269">
+  <name>FA540-Sheldon Regional Airport</name>
+</wpt>
+<wpt lat="38.2634299" lon="-78.8976294">
+  <name>FA541-Shenandoah Valley Regional Airport</name>
+</wpt>
+<wpt lat="44.7738565" lon="-106.9705132">
+  <name>FA542-Sheridan County Airport</name>
+</wpt>
+<wpt lat="33.6275913" lon="-96.5853827">
+  <name>FA543-Sherman Municipal Airport</name>
+</wpt>
+<wpt lat="36.4373276" lon="-79.852111">
+  <name>FA544-Shiloh Airport</name>
+</wpt>
+<wpt lat="41.444859" lon="-106.823524">
+  <name>FA545-Shively Air Field</name>
+</wpt>
+<wpt lat="34.2639019" lon="-110.0074419">
+  <name>FA546-Show Low Regional Airport</name>
+</wpt>
+<wpt lat="47.7061856" lon="-104.1903311">
+  <name>FA547-Sidney Richland Airport</name>
+</wpt>
+<wpt lat="33.4612619" lon="-105.5321677">
+  <name>FA548-Sierra Blanca Regional Airport</name>
+</wpt>
+<wpt lat="31.5919506" lon="-110.3288002">
+  <name>FA549-Sierra Vista Airport</name>
+</wpt>
+<wpt lat="44.8769171" lon="-124.028896">
+  <name>FA550-Siletz Bay State Airport</name>
+</wpt>
+<wpt lat="39.4027141" lon="-119.252499">
+  <name>FA551-Silver Springs Airport</name>
+</wpt>
+<wpt lat="43.5828065" lon="-96.7402171">
+  <name>FA552-Sioux Falls Regional Airport</name>
+</wpt>
+<wpt lat="44.3042034" lon="-121.5393447">
+  <name>FA553-Sisters Eagle Airport</name>
+</wpt>
+<wpt lat="48.4694943" lon="-122.4206582">
+  <name>FA554-Skagit Regional Airport</name>
+</wpt>
+<wpt lat="42.913887" lon="-76.440834">
+  <name>FA555-Skaneateles Aerodrome</name>
+</wpt>
+<wpt lat="36.357925" lon="-96.0121891">
+  <name>FA556-Skiatook Regional Airport</name>
+</wpt>
+<wpt lat="41.7062889" lon="-73.7344524">
+  <name>FA557-Sky Acres Airport</name>
+</wpt>
+<wpt lat="33.4372686" lon="-112.0077881">
+  <name>FA558-Sky Harbor Airport</name>
+</wpt>
+<wpt lat="33.4372686" lon="-112.0077881">
+  <name>FA559-Sky Harbor International Airport</name>
+</wpt>
+<wpt lat="38.7844315" lon="-93.8006687">
+  <name>FA560-Skyhaven Airport</name>
+</wpt>
+<wpt lat="31.0873439" lon="-97.6854695">
+  <name>FA561-Skylark Field</name>
+</wpt>
+<wpt lat="34.2328287" lon="-117.1696567">
+  <name>FA562-Skypark</name>
+</wpt>
+<wpt lat="40.7652865" lon="-75.6064199">
+  <name>FA563-Slatington Airport</name>
+</wpt>
+<wpt lat="33.484146" lon="-101.6609661">
+  <name>FA564-Slaton Municipal Airpark</name>
+</wpt>
+<wpt lat="30.3424857" lon="-89.8231007">
+  <name>FA565-Slidell Municipal Airport</name>
+</wpt>
+<wpt lat="48.1773699" lon="-103.6367331">
+  <name>FA566-Sloulin Field</name>
+</wpt>
+<wpt lat="38.9264752" lon="-90.4341745">
+  <name>FA567-Smartt Field</name>
+</wpt>
+<wpt lat="43.9117988" lon="-114.7960889">
+  <name>FA568-Smiley Creek Airport</name>
+</wpt>
+<wpt lat="37.1080605" lon="-79.5920525">
+  <name>FA569-Smith Mtn. Lake Airport</name>
+</wpt>
+<wpt lat="30.0318272" lon="-97.1662932">
+  <name>FA570-Smithville Crawford Municipal Airport</name>
+</wpt>
+<wpt lat="35.9852497" lon="-85.8063594">
+  <name>FA571-Smithville Municipal Airport</name>
+</wpt>
+<wpt lat="34.021915" lon="-106.9052587">
+  <name>FA572-Socorro Municipal Airport</name>
+</wpt>
+<wpt lat="38.5092305" lon="-122.8132578">
+  <name>FA573-Sonoma County Airport</name>
+</wpt>
+<wpt lat="38.257627" lon="-122.4346365">
+  <name>FA574-Sonoma Skypark</name>
+</wpt>
+<wpt lat="30.5825779" lon="-100.6498322">
+  <name>FA575-Sonora Municipal Airport</name>
+</wpt>
+<wpt lat="42.560139" lon="-73.835392">
+  <name>FA577-South Albany Airport</name>
+</wpt>
+<wpt lat="39.9428389" lon="-74.8447067">
+  <name>FA578-South Jersey Regional Airport</name>
+</wpt>
+<wpt lat="29.3590823" lon="-99.1678839">
+  <name>FA579-South Texas Regional Airport</name>
+</wpt>
+<wpt lat="40.6213" lon="-111.9923019">
+  <name>FA580-South Valley Regional Airport</name>
+</wpt>
+<wpt lat="32.110806" lon="-84.188861">
+  <name>FA581-Jimmy Carter Regional Airport</name>
+</wpt>
+<wpt lat="42.1273513" lon="-86.4257078">
+  <name>FA582-Southwest Michigan Regional Airport</name>
+</wpt>
+<wpt lat="44.445255" lon="-95.820468">
+  <name>FA583-Southwest Minnesota Regional Airport</name>
+</wpt>
+<wpt lat="43.4162233" lon="-124.2492439">
+  <name>FA584-Southwest Oregon Regional Airport</name>
+</wpt>
+<wpt lat="31.9966743" lon="-110.3559391">
+  <name>FA585-Southwestern Aviation</name>
+</wpt>
+<wpt lat="28.5133625" lon="-80.7988013">
+  <name>FA586-Space Coast Regional Airport</name>
+</wpt>
+<wpt lat="32.9903796" lon="-106.975041">
+  <name>FA587-Spaceport America</name>
+</wpt>
+<wpt lat="40.1372216" lon="-111.6606161">
+  <name>FA588-Spanish Fork Springville Airport</name>
+</wpt>
+<wpt lat="34.9177891" lon="-81.9574128">
+  <name>FA589-Spartanburg Downtown Airport</name>
+</wpt>
+<wpt lat="38.6634733" lon="-90.6445777">
+  <name>FA590-Spirit Airport</name>
+</wpt>
+<wpt lat="47.6217478" lon="-117.534812">
+  <name>FA591-Spokane Airport</name>
+</wpt>
+<wpt lat="47.6217478" lon="-117.534812">
+  <name>FA592-Spokane International Airport</name>
+</wpt>
+<wpt lat="45.2953282" lon="-122.9542818">
+  <name>FA593-Sportsman Airpark</name>
+</wpt>
+<wpt lat="36.1739849" lon="-94.1222441">
+  <name>FA594-Springdale Municipal Airport</name>
+</wpt>
+<wpt lat="39.8431394" lon="-83.8436718">
+  <name>FA595-Springfield Municipal Airport</name>
+</wpt>
+<wpt lat="36.538057" lon="-86.917696">
+  <name>FA596-Springfield Robertson County Airport</name>
+</wpt>
+<wpt lat="42.910439" lon="-82.5280952">
+  <name>FA597-St. Clair County Airport</name>
+</wpt>
+<wpt lat="45.5479622" lon="-94.0697233">
+  <name>FA598-St. Cloud Regional Airport</name>
+</wpt>
+<wpt lat="37.0334435" lon="-113.5099289">
+  <name>FA599-St. George Regional Airport</name>
+</wpt>
+<wpt lat="47.3258858" lon="-114.0816883">
+  <name>FA600-St. Ignatius Airport</name>
+</wpt>
+<wpt lat="43.985554" lon="-94.55722">
+  <name>FA601-St. James Airport</name>
+</wpt>
+<wpt lat="30.558405" lon="-92.099373">
+  <name>FA603-St. Landry Parish Airport</name>
+</wpt>
+<wpt lat="38.3154425" lon="-76.5505739">
+  <name>FA604-St. Mary's County Regional Airport</name>
+</wpt>
+<wpt lat="44.8847554" lon="-93.2222846">
+  <name>FA605-St. Paul Airport</name>
+</wpt>
+<wpt lat="30.445055" lon="-89.988876">
+  <name>FA606-St. Tammany Parish Regional Airport</name>
+</wpt>
+<wpt lat="38.3972333" lon="-77.4498019">
+  <name>FA607-Stafford Airport</name>
+</wpt>
+<wpt lat="38.3972333" lon="-77.4498019">
+  <name>FA608-Stafford Regional Airport</name>
+</wpt>
+<wpt lat="37.4326538" lon="-122.183107">
+  <name>FA610-Stanford Field</name>
+</wpt>
+<wpt lat="35.4143009" lon="-80.1512074">
+  <name>FA611-Stanly County Airport</name>
+</wpt>
+<wpt lat="46.3789772" lon="-94.8010928">
+  <name>FA612-Staples Municipal Airport</name>
+</wpt>
+<wpt lat="32.4806429" lon="-81.7417158">
+  <name>FA613-Statesboro Bulloch County Airport</name>
+</wpt>
+<wpt lat="35.7648659" lon="-80.9544324">
+  <name>FA614-Statesville Regional Airport</name>
+</wpt>
+<wpt lat="48.3449927" lon="-120.7200887">
+  <name>FA615-Stehekin State Airport</name>
+</wpt>
+<wpt lat="30.3725698" lon="-89.4514346">
+  <name>FA616-Stennis International Airport</name>
+</wpt>
+<wpt lat="44.9916653" lon="-70.662907">
+  <name>FA617-Stephen A. Bean Municipal Airfield</name>
+</wpt>
+<wpt lat="40.6130997" lon="-103.2620192">
+  <name>FA618-Sterling Municipal Airport</name>
+</wpt>
+<wpt lat="41.6393408" lon="-85.0832104">
+  <name>FA619-Steuben County Municipal Airport</name>
+</wpt>
+<wpt lat="34.7814077" lon="-90.8100595">
+  <name>FA620-Steve Edwards Field</name>
+</wpt>
+<wpt lat="47.0284264" lon="-122.8975784">
+  <name>FA621-Stevens Field</name>
+</wpt>
+<wpt lat="44.545014" lon="-89.536051">
+  <name>FA622-Stevens Point Municipal Airport</name>
+</wpt>
+<wpt lat="46.5271193" lon="-114.0526178">
+  <name>FA623-Stevensville Municipal Airport</name>
+</wpt>
+<wpt lat="37.8968929" lon="-121.2514811">
+  <name>FA624-Stockton Metropolitan Airport</name>
+</wpt>
+<wpt lat="46.5503462" lon="-122.2666363">
+  <name>FA625-Strom Field</name>
+</wpt>
+<wpt lat="35.7880908" lon="-96.6628647">
+  <name>FA626-Stroud Municipal Airport</name>
+</wpt>
+<wpt lat="37.5792834" lon="-84.7713661">
+  <name>FA627-Stuart Powell Field</name>
+</wpt>
+<wpt lat="44.4221476" lon="-103.3807299">
+  <name>FA628-Sturgis Municipal Airport</name>
+</wpt>
+<wpt lat="45.0849056" lon="-70.2159694">
+  <name>FA629-Sugarloaf Regional Airport</name>
+</wpt>
+<wpt lat="43.5066901" lon="-114.2992901">
+  <name>FA630-Sun Valley Airport</name>
+</wpt>
+<wpt lat="40.3765305" lon="-120.5783522">
+  <name>FA631-Susanville Airport</name>
+</wpt>
+<wpt lat="38.6896971" lon="-75.3601276">
+  <name>FA632-Sussex County Airport</name>
+</wpt>
+<wpt lat="43.8429466" lon="-91.2373762">
+  <name>FA633-Swanson Field</name>
+</wpt>
+<wpt lat="32.9163336" lon="-85.959686">
+  <name>FA634-T.C. Russell Field</name>
+</wpt>
+<wpt lat="47.2678293" lon="-122.577424">
+  <name>FA635-Tacoma Narrows Airport</name>
+</wpt>
+<wpt lat="35.9298692" lon="-95.0005129">
+  <name>FA636-Tahlequah Municipal Airport</name>
+</wpt>
+<wpt lat="33.5714734" lon="-86.0531532">
+  <name>FA637-Talladega Municipal Airport</name>
+</wpt>
+<wpt lat="28.0111585" lon="-82.3444685">
+  <name>FA638-Tampa Executive Airport</name>
+</wpt>
+<wpt lat="36.4582412" lon="-105.672971">
+  <name>FA639-Taos Regional Airport</name>
+</wpt>
+<wpt lat="37.8596588" lon="-76.8943619">
+  <name>FA640-Tappahannock-Essex County Airport</name>
+</wpt>
+<wpt lat="39.5371153" lon="-89.3260811">
+  <name>FA641-Taylorville Municipal Airport</name>
+</wpt>
+<wpt lat="37.9545624" lon="-107.9019696">
+  <name>FA642-Telluride Regional Airport</name>
+</wpt>
+<wpt lat="39.4617995" lon="-87.3034804">
+  <name>FA643-Terre Haute Regional Airport</name>
+</wpt>
+<wpt lat="30.0483382" lon="-102.2132509">
+  <name>FA644-Terrell County Airport</name>
+</wpt>
+<wpt lat="32.7109541" lon="-96.2700605">
+  <name>FA645-Terrell Municipal Airport</name>
+</wpt>
+<wpt lat="43.7386233" lon="-111.1060206">
+  <name>FA646-Teton Aviation</name>
+</wpt>
+<wpt lat="34.3837593" lon="-89.5367179">
+  <name>FA647-The Airport at Ole Miss</name>
+</wpt>
+<wpt lat="46.8016664" lon="-102.7928843">
+  <name>FA648-Theodore Roosevelt Regional Airport</name>
+</wpt>
+<wpt lat="29.7483253" lon="-90.8320789">
+  <name>FA649-Thibodaux Municipal Airport</name>
+</wpt>
+<wpt lat="48.0646012" lon="-96.1836504">
+  <name>FA650-Thief River Falls Regional Airport</name>
+</wpt>
+<wpt lat="44.7225012" lon="-115.0055896">
+  <name>FA651-Thomas Creek Airport</name>
+</wpt>
+<wpt lat="34.2291667" lon="-86.2558333">
+  <name>FA652-Thomas J. Brumlik Field</name>
+</wpt>
+<wpt lat="30.8985495" lon="-83.8809887">
+  <name>FA653-Thomasville Regional Airport</name>
+</wpt>
+<wpt lat="47.5745816" lon="-115.2826446">
+  <name>FA654-Thompson Falls Airport</name>
+</wpt>
+<wpt lat="33.527409" lon="-82.5156409">
+  <name>FA655-Thomson McDuffie County Regional Airport</name>
+</wpt>
+<wpt lat="47.1037928" lon="-122.2879359">
+  <name>FA656-Thun Field</name>
+</wpt>
+<wpt lat="46.6375586" lon="-121.1239264">
+  <name>FA657-Tieton State Airport</name>
+</wpt>
+<wpt lat="36.0749215" lon="-95.7627029">
+  <name>FA658-Tiger Field</name>
+</wpt>
+<wpt lat="45.4182069" lon="-123.814371">
+  <name>FA659-Tillamook Airport</name>
+</wpt>
+<wpt lat="46.2698579" lon="-106.6229209">
+  <name>FA660-Tillitt Field</name>
+</wpt>
+<wpt lat="48.3865566" lon="-102.9042133">
+  <name>FA661-Tioga Municipal Airport</name>
+</wpt>
+<wpt lat="34.5904398" lon="-83.2964783">
+  <name>FA662-Toccoa Stephens County Airport</name>
+</wpt>
+<wpt lat="34.8619398" lon="-86.5553213">
+  <name>FA663-Tom Sharp Jr. Field</name>
+</wpt>
+<wpt lat="37.7948978" lon="-116.7715875">
+  <name>FA664-Tonopah Test Range</name>
+</wpt>
+<wpt lat="40.6101813" lon="-112.3498418">
+  <name>FA665-Tooele Valley Airport</name>
+</wpt>
+<wpt lat="38.9483444" lon="-95.6664279">
+  <name>FA666-Topeka Regional Airport</name>
+</wpt>
+<wpt lat="35.1700342" lon="-101.8274338">
+  <name>FA667-Tradewind Airport</name>
+</wpt>
+<wpt lat="35.2698455" lon="-82.6451922">
+  <name>FA668-Transylvania County Airport</name>
+</wpt>
+<wpt lat="30.4628591" lon="-88.5274135">
+  <name>FA669-Trent Lott International Airport</name>
+</wpt>
+<wpt lat="36.4809142" lon="-82.408392">
+  <name>FA670-Tri -Cities Airport</name>
+</wpt>
+<wpt lat="36.4809142" lon="-82.408392">
+  <name>FA671-Tri City Airport</name>
+</wpt>
+<wpt lat="42.0467346" lon="-90.1119235">
+  <name>FA672-Tri Township Airport</name>
+</wpt>
+<wpt lat="30.8470584" lon="-85.6016653">
+  <name>FA673-Tri-County Airport</name>
+</wpt>
+<wpt lat="31.0843404" lon="-95.1647123">
+  <name>FA675-Trinity County Airport</name>
+</wpt>
+<wpt lat="45.5479186" lon="-122.3968382">
+  <name>FA676-Troutdale Airport</name>
+</wpt>
+<wpt lat="31.861672" lon="-86.0071719">
+  <name>FA677-Troy Municipal Airport</name>
+</wpt>
+<wpt lat="39.3192289" lon="-120.1451171">
+  <name>FA678-Truckee Tahoe Airport</name>
+</wpt>
+<wpt lat="33.2361431" lon="-107.2710683">
+  <name>FA679-Truth or Consequences Municipal Airport</name>
+</wpt>
+<wpt lat="32.1145102" lon="-110.9392269">
+  <name>FA680-Tucson International Airport</name>
+</wpt>
+<wpt lat="34.683299" lon="-90.351412">
+  <name>FA681-Tunica Airport</name>
+</wpt>
+<wpt lat="34.2662432" lon="-88.766334">
+  <name>FA682-Tupelo Regional Airport</name>
+</wpt>
+<wpt lat="47.5099586" lon="-100.9178143">
+  <name>FA683-Turtle Lake Municipal Airport</name>
+</wpt>
+<wpt lat="43.4576281" lon="-83.4477469">
+  <name>FA684-Tuscola Area Airport</name>
+</wpt>
+<wpt lat="36.765576" lon="-80.82197">
+  <name>FA685-Twin County Airport</name>
+</wpt>
+<wpt lat="45.4297044" lon="-122.9395363">
+  <name>FA686-Twin Oaks Airpart</name>
+</wpt>
+<wpt lat="40.224885" lon="-83.3518552">
+  <name>FA687-Union County Airport</name>
+</wpt>
+<wpt lat="38.5318778" lon="-121.7869026">
+  <name>FA688-University Airport</name>
+</wpt>
+<wpt lat="40.8499873" lon="-77.8486889">
+  <name>FA689-University Park Airport</name>
+</wpt>
+<wpt lat="38.9983094" lon="-104.8613176">
+  <name>FA690-US Air Force Academy</name>
+</wpt>
+<wpt lat="30.7892346" lon="-83.2788227">
+  <name>FA691-Valdosta Regional Airport</name>
+</wpt>
+<wpt lat="27.961495" lon="-80.5596542">
+  <name>FA692-Valkaria Airport</name>
+</wpt>
+<wpt lat="40.864437" lon="-84.6073537">
+  <name>FA693-Van Wert County Airport</name>
+</wpt>
+<wpt lat="40.1641694" lon="-105.1636218">
+  <name>FA694-Vance Brand Airport</name>
+</wpt>
+<wpt lat="47.458153" lon="-122.477348">
+  <name>FA695-Vashon Municipal Airport</name>
+</wpt>
+<wpt lat="41.377691" lon="-79.860193">
+  <name>FA696-Venango Regional Airport</name>
+</wpt>
+<wpt lat="40.4426524" lon="-109.5137786">
+  <name>FA697-Vernal Regional Airport</name>
+</wpt>
+<wpt lat="27.6548922" lon="-80.4164964">
+  <name>FA698-Vero Beach Municipal Airport</name>
+</wpt>
+<wpt lat="37.747031" lon="-89.0109224">
+  <name>FA699-Veterans Memorial Airport</name>
+</wpt>
+<wpt lat="36.6189385" lon="-95.1529811">
+  <name>FA700-Vinita Municipal Airport</name>
+</wpt>
+<wpt lat="36.6791703" lon="-76.0274283">
+  <name>FA702-Virginia Beach Airport</name>
+</wpt>
+<wpt lat="36.6854477" lon="-82.0338821">
+  <name>FA703-Virginia Highlands Airport</name>
+</wpt>
+<wpt lat="38.1558052" lon="-78.1662732">
+  <name>FA704-Virginia Municipal Airport</name>
+</wpt>
+<wpt lat="43.5767391" lon="-90.8948027">
+  <name>FA705-Viroqua Municipal Airport</name>
+</wpt>
+<wpt lat="34.670951" lon="-82.8844062">
+  <name>FA706-Walhalla Municipal Airport</name>
+</wpt>
+<wpt lat="33.3306414" lon="-104.5069092">
+  <name>FA707-Walker Air Force Base</name>
+</wpt>
+<wpt lat="42.3802131" lon="-85.576727">
+  <name>FA708-Walker Airport</name>
+</wpt>
+<wpt lat="43.9993132" lon="-102.2543476">
+  <name>FA709-Wall Municipal Airport</name>
+</wpt>
+<wpt lat="46.0873172" lon="-118.2844589">
+  <name>FA710-Walla Walla Regional Airport</name>
+</wpt>
+<wpt lat="40.8328803" lon="-101.1649209">
+  <name>FA711-Wallace Municipal Airport</name>
+</wpt>
+<wpt lat="32.9216487" lon="-80.6396425">
+  <name>FA712-Walterboro Army Airfield</name>
+</wpt>
+<wpt lat="41.2574658" lon="-80.6671886">
+  <name>FA713-Warren County Airport</name>
+</wpt>
+<wpt lat="35.698616" lon="-85.8438967">
+  <name>FA714-Warren County Memorial Airport</name>
+</wpt>
+<wpt lat="38.6528439" lon="-77.7877731">
+  <name>FA715-Warrenton Air Park</name>
+</wpt>
+<wpt lat="41.277758" lon="-85.8448719">
+  <name>FA716-Warsaw Municipal Airport</name>
+</wpt>
+<wpt lat="40.1355845" lon="-80.2887672">
+  <name>FA717-Washington County Airport</name>
+</wpt>
+<wpt lat="43.9956627" lon="-76.022365">
+  <name>FA718-Watertown international Airport</name>
+</wpt>
+<wpt lat="43.1712951" lon="-88.7279936">
+  <name>FA719-Watertown Municipal Airport</name>
+</wpt>
+<wpt lat="44.9213411" lon="-97.1611629">
+  <name>FA720-Watertown Regional Airport</name>
+</wpt>
+<wpt lat="35.8611936" lon="-98.4194978">
+  <name>FA721-Watonga Regional Airport</name>
+</wpt>
+<wpt lat="38.676692" lon="-121.869453">
+  <name>FA722-Watts Woodland Airport</name>
+</wpt>
+<wpt lat="27.5209743" lon="-81.8825587">
+  <name>FA723-Wauchula Municipal Airport</name>
+</wpt>
+<wpt lat="44.9294627" lon="-89.628243">
+  <name>FA724-Wausau Municipal Airport</name>
+</wpt>
+<wpt lat="31.2497913" lon="-82.3956584">
+  <name>FA725-Waycross-Ware County Airport</name>
+</wpt>
+<wpt lat="29.6775991" lon="-91.2941707">
+  <name>FA726-Wedell Williams Airport</name>
+</wpt>
+<wpt lat="41.7272497" lon="-77.3901729">
+  <name>FA727-Wellsboro Johnston Airport</name>
+</wpt>
+<wpt lat="40.7282075" lon="-114.0375106">
+  <name>FA728-Wendover Field</name>
+</wpt>
+<wpt lat="42.795502" lon="-109.807091">
+  <name>FA729-Wenz Field</name>
+</wpt>
+<wpt lat="42.7429177" lon="-86.1069265">
+  <name>FA730-Western Michigan Regional Airport</name>
+</wpt>
+<wpt lat="41.8695184" lon="-103.5934309">
+  <name>FA731-Western Nebraska Regional Airport</name>
+</wpt>
+<wpt lat="32.5294446" lon="-86.3282799">
+  <name>FA732-Wetumpka Municipal Airport</name>
+</wpt>
+<wpt lat="44.2798708" lon="-85.4164283">
+  <name>FA733-Wexford County Airport</name>
+</wpt>
+<wpt lat="47.3914641" lon="-102.7720355">
+  <name>FA734-Weydahl Field</name>
+</wpt>
+<wpt lat="32.5646179" lon="-82.9824068">
+  <name>FA735-WH Bud Barron Airport</name>
+</wpt>
+<wpt lat="29.2551177" lon="-96.1536311">
+  <name>FA736-Wharton Regional Airport</name>
+</wpt>
+<wpt lat="40.1814632" lon="-80.6473676">
+  <name>FA737-Wheeling Ohio County Airport</name>
+</wpt>
+<wpt lat="32.8398443" lon="-105.9939808">
+  <name>FA738-White Sands Regional Airport</name>
+</wpt>
+<wpt lat="41.742168" lon="-89.684042">
+  <name>FA739-Whiteside County Airport</name>
+</wpt>
+<wpt lat="36.2597049" lon="-113.231323">
+  <name>FA740-Whitmore International Airport</name>
+</wpt>
+<wpt lat="33.9652586" lon="-112.8028511">
+  <name>FA741-Wickenburg Municipal Airport</name>
+</wpt>
+<wpt lat="38.340278" lon="-75.510278">
+  <name>FA742-Wicomico Regional Airport</name>
+</wpt>
+<wpt lat="34.2253758" lon="-99.2829322">
+  <name>FA743-Wilbarger County Airport</name>
+</wpt>
+<wpt lat="34.9169578" lon="-95.3942823">
+  <name>FA744-Wilburton Municipal Airport</name>
+</wpt>
+<wpt lat="31.5533759" lon="-81.8866425">
+  <name>FA745-William A. Zorn Airport</name>
+</wpt>
+<wpt lat="42.891103" lon="-73.246107">
+  <name>FA746-William H Morse State Airport</name>
+</wpt>
+<wpt lat="48.1188352" lon="-123.498044">
+  <name>FA747-William R Fairchild International Airport</name>
+</wpt>
+<wpt lat="43.2368635" lon="-77.1204845">
+  <name>FA748-Williamson-Sodus Airport</name>
+</wpt>
+<wpt lat="35.1755965" lon="-86.0679429">
+  <name>FA749-Winchester Municipal Airport</name>
+</wpt>
+<wpt lat="39.1430075" lon="-78.1475246">
+  <name>FA750-Winchester Regional Airport</name>
+</wpt>
+<wpt lat="35.6597284" lon="-109.0589618">
+  <name>FA751-Window Rock Airport</name>
+</wpt>
+<wpt lat="40.9040118" lon="-117.803852">
+  <name>FA752-Winnemucca Municipal Airport</name>
+</wpt>
+<wpt lat="35.0241873" lon="-110.6973571">
+  <name>FA753-Winslow Air Tanker Base</name>
+</wpt>
+<wpt lat="32.7008334" lon="-100.9470087">
+  <name>FA754-Winston Field</name>
+</wpt>
+<wpt lat="32.6731126" lon="-95.5103113">
+  <name>FA755-Wisener Field</name>
+</wpt>
+<wpt lat="42.298663" lon="-85.2578135">
+  <name>FA756-WK Kellogg Airport</name>
+</wpt>
+<wpt lat="36.7097086" lon="-78.8491773">
+  <name>FA757-Wm. M. Tuck Airport</name>
+</wpt>
+<wpt lat="48.2126774" lon="-106.6162633">
+  <name>FA758-Wokal Field</name>
+</wpt>
+<wpt lat="41.3859157" lon="-83.6355462">
+  <name>FA759-Wood County Regional Airport</name>
+</wpt>
+<wpt lat="39.2185397" lon="-74.7944926">
+  <name>FA760-Woodbine Airport</name>
+</wpt>
+<wpt lat="41.9214863" lon="-71.9528508">
+  <name>FA761-Woodstock Airport</name>
+</wpt>
+<wpt lat="39.5934598" lon="-84.2280854">
+  <name>FA762-Wright Brothers Airport</name>
+</wpt>
+<wpt lat="41.5978831" lon="-74.4605631">
+  <name>FA763-Wurtsboro Airport</name>
+</wpt>
+<wpt lat="40.4814042" lon="-107.2166138">
+  <name>FA764-Yampa Valley Regional Airport</name>
+</wpt>
+<wpt lat="42.6411135" lon="-77.0557397">
+  <name>FA765-Yates County Airport</name>
+</wpt>
+<wpt lat="44.6867178" lon="-111.1145613">
+  <name>FA766-Yellowstone Airport</name>
+</wpt>
+<wpt lat="44.520442" lon="-109.0225794">
+  <name>FA767-Yellowstone Regional Airport</name>
+</wpt>
+<wpt lat="38.9976093" lon="-119.160035">
+  <name>FA768-Yerington Municipal Airport</name>
+</wpt>
+<wpt lat="38.579004" lon="-121.8552845">
+  <name>FA769-Yolo County Airport</name>
+</wpt>
+<wpt lat="39.9232727" lon="-76.8775606">
+  <name>FA770-York Airport</name>
+</wpt>
+<wpt lat="34.987124" lon="-81.0582042">
+  <name>FA771-York County Airport</name>
+</wpt>
+<wpt lat="40.896389" lon="-97.624168">
+  <name>FA772-York Municipal Airport</name>
+</wpt>
+<wpt lat="36.7758493" lon="-119.7181083">
+  <name>FA773-Yosemite International Airport</name>
+</wpt>
+<wpt lat="39.0967457" lon="-121.5695571">
+  <name>FA774-Yuba County Airport</name>
+</wpt>
+<wpt lat="32.6685512" lon="-114.5991383">
+  <name>FA775-Yuma International Airport</name>
+</wpt>
+</gpx>
