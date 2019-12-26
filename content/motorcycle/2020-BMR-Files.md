@@ -5,6 +5,7 @@ date: 2019-12-22T20:45:25-06:00
 The 2020 BMR is upon us!! Last year I shared some documents I made, and this year a few people have graciously offered their own support documents and asked me to host them. So below you will find all the various documents that have been shared with me and/or created by me.
 
 #### GPX Files
+
 |Document Name|Provided By|Date Last Updated|
 |---|---|---|
 |[3-Day Rally (DR)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |15 Dec 2109
