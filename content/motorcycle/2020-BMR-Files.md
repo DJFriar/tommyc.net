@@ -1,6 +1,6 @@
 ---
 title: "2020 Big Money Rally - Support Files"
-date: 2019-12-22T20:45:25-06:00
+date: 2019-12-27T11:14:25-06:00
 ---
 The 2020 BMR is upon us!! Last year I shared some documents I made, and this year a few people have graciously offered their own support documents and asked me to host them. So below you will find all the various documents that have been shared with me and/or created by me.
 
@@ -11,6 +11,8 @@ The 2020 BMR is upon us!! Last year I shared some documents I made, and this yea
 |[3-Day Rally (DR)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |15 Dec 2109
 |[Airports (AF/FA)](/bmr/2020_BMR_AF-FA.gpx)*  |Jerry White  |24 Dec 2019
 |[Past Winners (PW)](/bmr/2020_BMR_PW.gpx)  |Tommy Craft  |25 Dec 2019
+|[Big City, Small Town (CT)](/bmr/2020_BMR_CT.gpx)  |Tommy Craft  |26 Dec 2019
+|[Route 66 (SS)](/bmr/2020_BMR_SS.gpx)  |Tommy Craft  |27 Dec 2019
 
 *Please note that the Airports one was programatically generated via a script and therefore is not 100% accurate. Also note that this a word match: the picture you submit does not have to be an airport, an athletic field or other permanent signage is perfectly acceptable.
 
