@@ -4606,601 +4606,798 @@
 </wpt>
 <wpt lat="42.560139" lon="-73.835392">
   <name>FA577-South Albany Airport</name>
+  <desc>6 Old School Rd, Selkirk, NY 12158, USA</desc>
 </wpt>
 <wpt lat="39.9428389" lon="-74.8447067">
   <name>FA578-South Jersey Regional Airport</name>
+  <desc>South Jersey Regional, 68 Stacy Haines Rd, Lumberton, NJ 08048, USA</desc>
 </wpt>
 <wpt lat="29.3590823" lon="-99.1678839">
   <name>FA579-South Texas Regional Airport</name>
+  <desc>South Texas Regional Airport, 700 Vandenberg Rd, Hondo, TX 78861, USA</desc>
 </wpt>
 <wpt lat="40.6213" lon="-111.9923019">
   <name>FA580-South Valley Regional Airport</name>
+  <desc>South Valley Regional Airport, 7365 S Airport Road, West Jordan, UT 84084, USA</desc>
 </wpt>
 <wpt lat="32.110806" lon="-84.188861">
   <name>FA581-Jimmy Carter Regional Airport</name>
+  <desc>Jimmy Carter Regional, Americus, GA 31709, USA</desc>
 </wpt>
 <wpt lat="42.1273513" lon="-86.4257078">
   <name>FA582-Southwest Michigan Regional Airport</name>
+  <desc>Southwest Michigan Regional Airport, 1123 Territorial Rd, Benton Harbor, MI 49022, USA</desc>
 </wpt>
 <wpt lat="44.445255" lon="-95.820468">
   <name>FA583-Southwest Minnesota Regional Airport</name>
+  <desc>Southwest Minnesota Regional Airport (MML), 1650 W College Dr, Marshall, MN 56258, USA</desc>
 </wpt>
 <wpt lat="43.4162233" lon="-124.2492439">
   <name>FA584-Southwest Oregon Regional Airport</name>
+  <desc>Southwest Oregon Regional Airport (OTH), 1100 Airport Ln, North Bend, OR 97459, USA</desc>
 </wpt>
 <wpt lat="31.9966743" lon="-110.3559391">
   <name>FA585-Southwestern Aviation</name>
+  <desc>Southwestern Aviation LLC, 2200 W Aviation Dr, Benson, AZ 85602, USA</desc>
 </wpt>
 <wpt lat="28.5133625" lon="-80.7988013">
   <name>FA586-Space Coast Regional Airport</name>
+  <desc>Space Coast Regional Airport, 355 Golden Knights Blvd, Titusville, FL 32780, USA</desc>
 </wpt>
 <wpt lat="32.9903796" lon="-106.975041">
   <name>FA587-Spaceport America</name>
+  <desc>Virgin Galactic Gateway to Space, Truth or Consequences, NM 87901, USA</desc>
 </wpt>
 <wpt lat="40.1372216" lon="-111.6606161">
   <name>FA588-Spanish Fork Springville Airport</name>
+  <desc>Spanish Fork Airport, 2050 N 300 W, Spanish Fork, UT 84660, USA</desc>
 </wpt>
 <wpt lat="34.9177891" lon="-81.9574128">
   <name>FA589-Spartanburg Downtown Airport</name>
+  <desc>Spartanburg Downtown Memorial Airport, 500 Ammons Rd, Spartanburg, SC 29306, USA</desc>
 </wpt>
 <wpt lat="38.6634733" lon="-90.6445777">
   <name>FA590-Spirit Airport</name>
+  <desc>Spirit of St Louis Airport - KSUS, District of Freedom, 18270 Edison Ave, Chesterfield, MO 63005, USA</desc>
 </wpt>
 <wpt lat="47.6217478" lon="-117.534812">
   <name>FA591-Spokane Airport</name>
+  <desc>Spokane International Airport (GEG), 9000 W Airport Dr, Spokane, WA 99224, USA</desc>
 </wpt>
 <wpt lat="47.6217478" lon="-117.534812">
   <name>FA592-Spokane International Airport</name>
+  <desc>Spokane International Airport (GEG), 9000 W Airport Dr, Spokane, WA 99224, USA</desc>
 </wpt>
 <wpt lat="45.2953282" lon="-122.9542818">
   <name>FA593-Sportsman Airpark</name>
+  <desc>Sportsman Airpark, 504 NE Airpark Way, Newberg, OR 97132, USA</desc>
 </wpt>
 <wpt lat="36.1739849" lon="-94.1222441">
   <name>FA594-Springdale Municipal Airport</name>
+  <desc>Springdale Airport-Asg, 802 Airport Ave, Springdale, AR 72764, USA</desc>
 </wpt>
 <wpt lat="39.8431394" lon="-83.8436718">
   <name>FA595-Springfield Municipal Airport</name>
+  <desc>Springfield-Beckley Municipal Airport, 1251 W Blee Rd, Springfield, OH 45502, USA</desc>
 </wpt>
 <wpt lat="36.538057" lon="-86.917696">
   <name>FA596-Springfield Robertson County Airport</name>
+  <desc>Springfield Robertson County, 4432 Airport Rd, Springfield, TN 37172, USA</desc>
 </wpt>
 <wpt lat="42.910439" lon="-82.5280952">
   <name>FA597-St. Clair County Airport</name>
+  <desc>St. Clair County International Airport - KPHN, 177 Ash Dr, Smiths Creek, MI 48074, USA</desc>
 </wpt>
 <wpt lat="45.5479622" lon="-94.0697233">
   <name>FA598-St. Cloud Regional Airport</name>
+  <desc>1550 45th Ave SE, St Cloud, MN 56304, USA</desc>
 </wpt>
 <wpt lat="37.0334435" lon="-113.5099289">
   <name>FA599-St. George Regional Airport</name>
+  <desc>St. George Regional Airport (SGU), 4550 S Airport Pkwy, St. George, UT 84770, USA</desc>
 </wpt>
 <wpt lat="47.3258858" lon="-114.0816883">
   <name>FA600-St. Ignatius Airport</name>
+  <desc>St Ignatius Airport-52s, 900 St Ignatius Airport Rd, St Ignatius, MT 59865, USA</desc>
 </wpt>
 <wpt lat="43.985554" lon="-94.55722">
   <name>FA601-St. James Airport</name>
+  <desc>Saint James Municipal Airport (JYG), 75751 Airport Ln, St James, MN 56081, USA</desc>
 </wpt>
 <wpt lat="47.6212101" lon="-52.7424429">
   <name>FA602-St. Johns Airport</name>
+  <desc>St. John's International Airport (YYT), 100 World Pkwy, St. John's, NL A1A 5T2, Canada</desc>
 </wpt>
 <wpt lat="30.558405" lon="-92.099373">
   <name>FA603-St. Landry Parish Airport</name>
+  <desc>St. Landry Parish Airport, 299 Hanger Rd, Opelousas, LA 70570, USA</desc>
 </wpt>
 <wpt lat="38.3154425" lon="-76.5505739">
   <name>FA604-St. Mary's County Regional Airport</name>
+  <desc>St Mary's County Regional-2W6, 44200 Airport Rd, California, MD 20619, USA</desc>
 </wpt>
 <wpt lat="44.8847554" lon="-93.2222846">
   <name>FA605-St. Paul Airport</name>
+  <desc>Minneapolis?Saint Paul International Airport (MSP), Minnesota, USA</desc>
 </wpt>
 <wpt lat="30.445055" lon="-89.988876">
   <name>FA606-St. Tammany Parish Regional Airport</name>
+  <desc>Greater St. Tammany Regional Airport, Abita Springs, LA 70420, USA</desc>
 </wpt>
 <wpt lat="38.3972333" lon="-77.4498019">
   <name>FA607-Stafford Airport</name>
+  <desc>Stafford Regional Airport, 95 Aviation Way, Fredericksburg, VA 22406, USA</desc>
 </wpt>
 <wpt lat="38.3972333" lon="-77.4498019">
   <name>FA608-Stafford Regional Airport</name>
+  <desc>Stafford Regional Airport, 95 Aviation Way, Fredericksburg, VA 22406, USA</desc>
 </wpt>
 <wpt lat="42.241606" lon="-96.982271">
   <name>FA609-Stan Morris Field</name>
-  <desc>Stan Morris Field</desc>
+  <desc>Wayne Muni, Wayne, NE 68787, USA</desc>
 </wpt>
 <wpt lat="37.4326538" lon="-122.183107">
   <name>FA610-Stanford Field</name>
+  <desc>360 Oak Rd, Palo Alto, CA 94304, USA</desc>
 </wpt>
 <wpt lat="35.4143009" lon="-80.1512074">
   <name>FA611-Stanly County Airport</name>
+  <desc>Stanly County Airport, 43222 Lowder Aviation Pkwy, New London, NC 28127, USA</desc>
 </wpt>
 <wpt lat="46.3789772" lon="-94.8010928">
   <name>FA612-Staples Municipal Airport</name>
+  <desc>Staples Municipal Airport (SAZ), 1702 Airport Rd, Staples, MN 56479, USA</desc>
 </wpt>
 <wpt lat="32.4806429" lon="-81.7417158">
   <name>FA613-Statesboro Bulloch County Airport</name>
+  <desc>Statesboro Bulloch County Airport, 601 Newton Rd, Statesboro, GA 30461, USA</desc>
 </wpt>
 <wpt lat="35.7648659" lon="-80.9544324">
   <name>FA614-Statesville Regional Airport</name>
+  <desc>Statesville Regional Airport, 238 Airport Rd, Statesville, NC 28677, USA</desc>
 </wpt>
 <wpt lat="48.3449927" lon="-120.7200887">
   <name>FA615-Stehekin State Airport</name>
+  <desc>Stehekin State, Stehekin, WA 98852, USA</desc>
 </wpt>
 <wpt lat="30.3725698" lon="-89.4514346">
   <name>FA616-Stennis International Airport</name>
+  <desc>Stennis International Airport-Hsa, 7250 Stennis Airport Rd, Kiln, MS 39556, USA</desc>
 </wpt>
 <wpt lat="44.9916653" lon="-70.662907">
   <name>FA617-Stephen A. Bean Municipal Airfield</name>
+  <desc>Steven A. Bean Municipal Airport, 34 Taylor Rd, Rangeley, ME 04970, USA</desc>
 </wpt>
 <wpt lat="40.6130997" lon="-103.2620192">
   <name>FA618-Sterling Municipal Airport</name>
+  <desc>Sterling Municipal airport (STK), 16562 CO-14, Sterling, CO 80751, USA</desc>
 </wpt>
 <wpt lat="41.6393408" lon="-85.0832104">
   <name>FA619-Steuben County Municipal Airport</name>
+  <desc>Tri-State Steuben County Airport, 5220 US-20, Angola, IN 46703, USA</desc>
 </wpt>
 <wpt lat="34.7814077" lon="-90.8100595">
   <name>FA620-Steve Edwards Field</name>
+  <desc>Marianna/Lee County-Steve Edwards Field, US-79, Marianna, AR 72360, USA</desc>
 </wpt>
 <wpt lat="47.0284264" lon="-122.8975784">
   <name>FA621-Stevens Field</name>
+  <desc>Stevens Field, 300 24th Ave SE, Olympia, WA 98501, USA</desc>
 </wpt>
 <wpt lat="44.545014" lon="-89.536051">
   <name>FA622-Stevens Point Municipal Airport</name>
+  <desc>Stevens Point Municipal Airport, 4501 WI-66, Stevens Point, WI 54482, USA</desc>
 </wpt>
 <wpt lat="46.5271193" lon="-114.0526178">
   <name>FA623-Stevensville Municipal Airport</name>
+  <desc>Stevensville Airport-32S, 3945 Flying Ln, Stevensville, MT 59870, USA</desc>
 </wpt>
 <wpt lat="37.8968929" lon="-121.2514811">
   <name>FA624-Stockton Metropolitan Airport</name>
+  <desc>Stockton Metropolitan Airport (SCK), 5000 S Airport Way, Stockton, CA 95206, USA</desc>
 </wpt>
 <wpt lat="46.5503462" lon="-122.2666363">
   <name>FA625-Strom Field</name>
+  <desc>Strom Field, Morton, WA 98356, USA</desc>
 </wpt>
 <wpt lat="35.7880908" lon="-96.6628647">
   <name>FA626-Stroud Municipal Airport</name>
+  <desc>2011 OK-99, Stroud, OK 74079, USA</desc>
 </wpt>
 <wpt lat="37.5792834" lon="-84.7713661">
   <name>FA627-Stuart Powell Field</name>
+  <desc>Danville-Boyle County Airport Stuart Powell Field, 420 Airport Rd, Danville, KY 40422, USA</desc>
 </wpt>
 <wpt lat="44.4221476" lon="-103.3807299">
   <name>FA628-Sturgis Municipal Airport</name>
+  <desc>Sturgis Municipal Airport, 13345 Alkali Rd, Sturgis, SD 57785, USA</desc>
 </wpt>
 <wpt lat="45.0849056" lon="-70.2159694">
   <name>FA629-Sugarloaf Regional Airport</name>
+  <desc>Sugarloaf Regional Airport, 1220 Carrabassett Dr, Kingfield, ME 04947, USA</desc>
 </wpt>
 <wpt lat="43.5066901" lon="-114.2992901">
   <name>FA630-Sun Valley Airport</name>
+  <desc>Friedman Memorial Airport, 1616 Airport Cir, Hailey, ID 83333, USA</desc>
 </wpt>
 <wpt lat="40.3765305" lon="-120.5783522">
   <name>FA631-Susanville Airport</name>
+  <desc>Susanville Municipal Airport, 471-920 Johnstonville Dr, Susanville, CA 96130, USA</desc>
 </wpt>
 <wpt lat="38.6896971" lon="-75.3601276">
   <name>FA632-Sussex County Airport</name>
+  <desc>Delaware Coastal Airport, 21553 Rudder Lane, Georgetown, DE 19947, USA</desc>
 </wpt>
 <wpt lat="43.8429466" lon="-91.2373762">
   <name>FA633-Swanson Field</name>
+  <desc>1500 Ranger Dr, La Crosse, WI 54603, USA</desc>
 </wpt>
 <wpt lat="32.9163336" lon="-85.959686">
   <name>FA634-T.C. Russell Field</name>
+  <desc>Thomas C Russell Field, 997 T C Russell Dr, Alexander City, AL 35010, USA</desc>
 </wpt>
 <wpt lat="47.2678293" lon="-122.577424">
   <name>FA635-Tacoma Narrows Airport</name>
+  <desc>Tacoma Narrows Airport, 1202 26th Ave NW, Gig Harbor, WA 98335, USA</desc>
 </wpt>
 <wpt lat="35.9298692" lon="-95.0005129">
   <name>FA636-Tahlequah Municipal Airport</name>
+  <desc>Tahlequah Municipal Airport, 2100 Airport Pkwy, Tahlequah, OK 74464, USA</desc>
 </wpt>
 <wpt lat="33.5714734" lon="-86.0531532">
   <name>FA637-Talladega Municipal Airport</name>
+  <desc>Talladega Municipal Airport ASN, 3366 Speedway Blvd, Talladega, AL 35160, USA</desc>
 </wpt>
 <wpt lat="28.0111585" lon="-82.3444685">
   <name>FA638-Tampa Executive Airport</name>
+  <desc>Tampa Executive Airport, 6530 Tampa Executive Airport Rd, Tampa, FL 33610, USA</desc>
 </wpt>
 <wpt lat="36.4582412" lon="-105.672971">
   <name>FA639-Taos Regional Airport</name>
+  <desc>Taos Regional Airport (TSM), 24662 US-64, Taos, NM 87571, USA</desc>
 </wpt>
 <wpt lat="37.8596588" lon="-76.8943619">
   <name>FA640-Tappahannock-Essex County Airport</name>
+  <desc>Tappahannock-Essex County Airport, 1450 Aviation Rd, Tappahannock, VA 22560, USA</desc>
 </wpt>
 <wpt lat="39.5371153" lon="-89.3260811">
   <name>FA641-Taylorville Municipal Airport</name>
+  <desc>Taylorville Municipal Airport, 1501 S Spresser St, Taylorville, IL 62568, USA</desc>
 </wpt>
 <wpt lat="37.9545624" lon="-107.9019696">
   <name>FA642-Telluride Regional Airport</name>
+  <desc>Telluride Regional Airport, 1500 Last Dollar Rd, Telluride, CO 81435, USA</desc>
 </wpt>
 <wpt lat="39.4617995" lon="-87.3034804">
   <name>FA643-Terre Haute Regional Airport</name>
+  <desc>Terre Haute Regional Airport, S Airport St, Terre Haute, IN 47803, USA</desc>
 </wpt>
 <wpt lat="30.0483382" lon="-102.2132509">
   <name>FA644-Terrell County Airport</name>
+  <desc>Terrell County Airport-6r6, 15 Airport Rd, Sanderson, TX 79848, USA</desc>
 </wpt>
 <wpt lat="32.7109541" lon="-96.2700605">
   <name>FA645-Terrell Municipal Airport</name>
+  <desc>Terrell Municipal Airport, 400 British Flying School Blvd, Terrell, TX 75160, USA</desc>
 </wpt>
 <wpt lat="43.7386233" lon="-111.1060206">
   <name>FA646-Teton Aviation</name>
+  <desc>253 Warbird Lane A-1, Driggs, ID 83422, USA</desc>
 </wpt>
 <wpt lat="34.3837593" lon="-89.5367179">
   <name>FA647-The Airport at Ole Miss</name>
+  <desc>University-Oxford Airport, 1 Airport Rd, Oxford, MS 38655, USA</desc>
 </wpt>
 <wpt lat="46.8016664" lon="-102.7928843">
   <name>FA648-Theodore Roosevelt Regional Airport</name>
+  <desc>Dickinson Theodore Roosevelt Regional Airport, 11120 42nd St SW, Dickinson, ND 58601, USA</desc>
 </wpt>
 <wpt lat="29.7483253" lon="-90.8320789">
   <name>FA649-Thibodaux Municipal Airport</name>
+  <desc>Thibodaux Muni Airport-L83, 100 Airport Rd, Schriever, LA 70395, USA</desc>
 </wpt>
 <wpt lat="48.0646012" lon="-96.1836504">
   <name>FA650-Thief River Falls Regional Airport</name>
+  <desc>Thief River Falls Regional Airport, 13722 Airport Dr, Thief River Falls, MN 56701, USA</desc>
 </wpt>
 <wpt lat="44.7225012" lon="-115.0055896">
   <name>FA651-Thomas Creek Airport</name>
+  <desc>Thomas Creek Airport, Cascade, ID 83611, USA</desc>
 </wpt>
 <wpt lat="34.2291667" lon="-86.2558333">
   <name>FA652-Thomas J. Brumlik Field</name>
+  <desc>Albertville Municipal Airport, Albertville, AL 35950, USA</desc>
 </wpt>
 <wpt lat="30.8985495" lon="-83.8809887">
   <name>FA653-Thomasville Regional Airport</name>
+  <desc>Thomasville Regional Airport (TVI), 882 Airport Rd, Thomasville, GA 31757, USA</desc>
 </wpt>
 <wpt lat="47.5745816" lon="-115.2826446">
   <name>FA654-Thompson Falls Airport</name>
+  <desc>Thompson Falls 7-8, 1301 W Main St, Thompson Falls, MT 59873, USA</desc>
 </wpt>
 <wpt lat="33.527409" lon="-82.5156409">
   <name>FA655-Thomson McDuffie County Regional Airport</name>
+  <desc>Thomas Mcduffie Ndb Hqu 333, Thomson, GA 30824, USA</desc>
 </wpt>
 <wpt lat="47.1037928" lon="-122.2879359">
   <name>FA656-Thun Field</name>
+  <desc>Pierce County Airport - Thun Field, 16915 103rd Ave Ct E, Puyallup, WA 98374, USA</desc>
 </wpt>
 <wpt lat="46.6375586" lon="-121.1239264">
   <name>FA657-Tieton State Airport</name>
+  <desc>Tieton State Airport (4S6), Naches, WA 98937, USA</desc>
 </wpt>
 <wpt lat="36.0749215" lon="-95.7627029">
   <name>FA658-Tiger Field</name>
+  <desc>2198-2290 E Albany St, Broken Arrow, OK 74012, USA</desc>
 </wpt>
 <wpt lat="45.4182069" lon="-123.814371">
   <name>FA659-Tillamook Airport</name>
+  <desc>Tillamook Airport, 5005 US-101, Tillamook, OR 97141, USA</desc>
 </wpt>
 <wpt lat="46.2698579" lon="-106.6229209">
   <name>FA660-Tillitt Field</name>
+  <desc>Tillitt Field, Forsyth, MT 59327, USA</desc>
 </wpt>
 <wpt lat="48.3865566" lon="-102.9042133">
   <name>FA661-Tioga Municipal Airport</name>
+  <desc>Tioga Municipal Airport, Tioga, ND 58852, USA</desc>
 </wpt>
 <wpt lat="34.5904398" lon="-83.2964783">
   <name>FA662-Toccoa Stephens County Airport</name>
+  <desc>R.G. LeTourneau Field Toccoa-Stephens County Airport, 2201 E Tugalo St, Toccoa, GA 30577, USA</desc>
 </wpt>
 <wpt lat="34.8619398" lon="-86.5553213">
   <name>FA663-Tom Sharp Jr. Field</name>
+  <desc>358 Bolling Rd, Meridianville, AL 35759, USA</desc>
 </wpt>
 <wpt lat="37.7948978" lon="-116.7715875">
   <name>FA664-Tonopah Test Range</name>
+  <desc>Tonopah Test Range Airport, Tonopah, NV 89049, USA</desc>
 </wpt>
 <wpt lat="40.6101813" lon="-112.3498418">
   <name>FA665-Tooele Valley Airport</name>
+  <desc>Tooele Valley Airport, 4663 N Airport Rd, Erda, UT 84074, USA</desc>
 </wpt>
 <wpt lat="38.9483444" lon="-95.6664279">
   <name>FA666-Topeka Regional Airport</name>
+  <desc>Topeka Regional Airport, 6510 SE Forbes Ave, Topeka, KS 66619, USA</desc>
 </wpt>
 <wpt lat="35.1700342" lon="-101.8274338">
   <name>FA667-Tradewind Airport</name>
+  <desc>Tradewind Airport, 4105 Tradewind St, Amarillo, TX 79118, USA</desc>
 </wpt>
 <wpt lat="35.2698455" lon="-82.6451922">
   <name>FA668-Transylvania County Airport</name>
+  <desc>Transylvania Community Airport - 3NR3, 5436 Old Hendersonville Hwy, Pisgah Forest, NC 28768, USA</desc>
 </wpt>
 <wpt lat="30.4628591" lon="-88.5274135">
   <name>FA669-Trent Lott International Airport</name>
+  <desc>Trent Lott International Airport, 8301 Saracennia Rd, Moss Point, MS 39563, USA</desc>
 </wpt>
 <wpt lat="36.4809142" lon="-82.408392">
   <name>FA670-Tri -Cities Airport</name>
+  <desc>Tri-Cities Airport (TRI), 2525 TN-75 Suite 301, Blountville, TN 37617, USA</desc>
 </wpt>
 <wpt lat="36.4809142" lon="-82.408392">
   <name>FA671-Tri City Airport</name>
+  <desc>Tri-Cities Airport (TRI), 2525 TN-75 Suite 301, Blountville, TN 37617, USA</desc>
 </wpt>
 <wpt lat="42.0467346" lon="-90.1119235">
   <name>FA672-Tri Township Airport</name>
+  <desc>Tri-Township Airport (SFY), Thomson, IL 61285, USA</desc>
 </wpt>
 <wpt lat="30.8470584" lon="-85.6016653">
   <name>FA673-Tri-County Airport</name>
+  <desc>Tri-County Airport Authority, 1983 Tri County Airport Rd, Bonifay, FL 32425, USA</desc>
 </wpt>
 <wpt lat="10.5976964" lon="-61.339527">
   <name>FA674-Trinidad Airport</name>
+  <desc>Piarco International Airport (POS), Golden Grove Rd, Piarco, Trinidad and Tobago</desc>
 </wpt>
 <wpt lat="31.0843404" lon="-95.1647123">
   <name>FA675-Trinity County Airport</name>
+  <desc>Groveton-Trinity County Airport, 315 Airport Rd, Groveton, TX 75845, USA</desc>
 </wpt>
 <wpt lat="45.5479186" lon="-122.3968382">
   <name>FA676-Troutdale Airport</name>
+  <desc>Troutdale Airport, 999 NW Frontage Rd, Troutdale, OR 97060, USA</desc>
 </wpt>
 <wpt lat="31.861672" lon="-86.0071719">
   <name>FA677-Troy Municipal Airport</name>
+  <desc>Troy Municipal Airport, 301 Campbell Field Road, Troy, AL 36079, USA</desc>
 </wpt>
 <wpt lat="39.3192289" lon="-120.1451171">
   <name>FA678-Truckee Tahoe Airport</name>
+  <desc>Truckee Tahoe Airport-TRK, 10356 Truckee Airport Rd, Truckee, CA 96161, USA</desc>
 </wpt>
 <wpt lat="33.2361431" lon="-107.2710683">
   <name>FA679-Truth or Consequences Municipal Airport</name>
+  <desc>Truth or Consequences Municipal Airport, NM-181, Truth or Consequences, NM 87901, USA</desc>
 </wpt>
 <wpt lat="32.1145102" lon="-110.9392269">
   <name>FA680-Tucson International Airport</name>
+  <desc>Tucson International Airport (TUS), 7250 S Tucson Blvd, Tucson, AZ 85756, USA</desc>
 </wpt>
 <wpt lat="34.683299" lon="-90.351412">
   <name>FA681-Tunica Airport</name>
+  <desc>Tunica Airport - UTM / KUTA, 209 S Airport Blvd, Tunica, MS 38676, USA</desc>
 </wpt>
 <wpt lat="34.2662432" lon="-88.766334">
   <name>FA682-Tupelo Regional Airport</name>
+  <desc>Tupelo Regional Airport, 2763 W Jackson Street Extended, Tupelo, MS 38801, USA</desc>
 </wpt>
 <wpt lat="47.5099586" lon="-100.9178143">
   <name>FA683-Turtle Lake Municipal Airport</name>
+  <desc>Turtle Lake Muni Airport-91n, 1677 7th St NW, Turtle Lake, ND 58575, USA</desc>
 </wpt>
 <wpt lat="43.4576281" lon="-83.4477469">
   <name>FA684-Tuscola Area Airport</name>
+  <desc>Tuscola Area Airport - KCFS, 1750 Speirs Dr, Caro, MI 48723, USA</desc>
 </wpt>
 <wpt lat="36.765576" lon="-80.82197">
   <name>FA685-Twin County Airport</name>
+  <desc>Twin County Airport, 504 Airport Rd, Hillsville, VA 24343, USA</desc>
 </wpt>
 <wpt lat="45.4297044" lon="-122.9395363">
   <name>FA686-Twin Oaks Airpart</name>
+  <desc>12471 SW River Rd, Hillsboro, OR 97123, USA</desc>
 </wpt>
 <wpt lat="40.224885" lon="-83.3518552">
   <name>FA687-Union County Airport</name>
+  <desc>Union County Airport-Mrt, 760 Clymer Rd, Marysville, OH 43040, USA</desc>
 </wpt>
 <wpt lat="38.5318778" lon="-121.7869026">
   <name>FA688-University Airport</name>
+  <desc>UC Davis: University Airport, Airport Rd, Davis, CA 95616, USA</desc>
 </wpt>
 <wpt lat="40.8499873" lon="-77.8486889">
   <name>FA689-University Park Airport</name>
+  <desc>University Park Airport, 2493 Fox Hill Rd, State College, PA 16803, USA</desc>
 </wpt>
 <wpt lat="38.9983094" lon="-104.8613176">
   <name>FA690-US Air Force Academy</name>
+  <desc>3154 Academy Dr, U.S. Air Force Academy, CO 80840, USA</desc>
 </wpt>
 <wpt lat="30.7892346" lon="-83.2788227">
   <name>FA691-Valdosta Regional Airport</name>
+  <desc>Valdosta Regional Airport, 1750 Airport Rd, Valdosta, GA 31601, USA</desc>
 </wpt>
 <wpt lat="27.961495" lon="-80.5596542">
   <name>FA692-Valkaria Airport</name>
+  <desc>Valkaria Airport-X59, 2865 Greenbrooke St, Grant-Valkaria, FL 32949, USA</desc>
 </wpt>
 <wpt lat="40.864437" lon="-84.6073537">
   <name>FA693-Van Wert County Airport</name>
+  <desc>Van Wert County Airport, Van Wert, OH 45891, USA</desc>
 </wpt>
 <wpt lat="40.1641694" lon="-105.1636218">
   <name>FA694-Vance Brand Airport</name>
+  <desc>Vance Brand Airport, 229 Airport Rd, Longmont, CO 80503, USA</desc>
 </wpt>
 <wpt lat="47.458153" lon="-122.477348">
   <name>FA695-Vashon Municipal Airport</name>
+  <desc>Vashon Municipal Airport, 11130 SW Cove Rd, Vashon, WA 98070, USA</desc>
 </wpt>
 <wpt lat="41.377691" lon="-79.860193">
   <name>FA696-Venango Regional Airport</name>
+  <desc>Venango Regional Airport, 1560 Airport Rd, Franklin, PA 16323, USA</desc>
 </wpt>
 <wpt lat="40.4426524" lon="-109.5137786">
   <name>FA697-Vernal Regional Airport</name>
+  <desc>Vernal Regional Airport, 760 E 800 S, Vernal, UT 84078, USA</desc>
 </wpt>
 <wpt lat="27.6548922" lon="-80.4164964">
   <name>FA698-Vero Beach Municipal Airport</name>
+  <desc>Vero Beach Regional Airport, 3400 Cherokee Dr, Vero Beach, FL 32960, USA</desc>
 </wpt>
 <wpt lat="37.747031" lon="-89.0109224">
   <name>FA699-Veterans Memorial Airport</name>
+  <desc>Veterans Airport of Southern Illinois, 10400 Terminal Dr #200, Marion, IL 62959, USA</desc>
 </wpt>
 <wpt lat="36.6189385" lon="-95.1529811">
   <name>FA700-Vinita Municipal Airport</name>
+  <desc>Will Rogers Turnpike, Vinita, OK 74301, USA</desc>
 </wpt>
 <wpt lat="36.525894" lon="-88.915619">
   <name>FA701-Virgil Craven Memorial Field</name>
-  <desc>Virgil Craven Memorial Field</desc>
+  <desc>Fulton Airport-1m7, 306 State Hwy 1461, Fulton, KY 42041, USA</desc>
 </wpt>
 <wpt lat="36.6791703" lon="-76.0274283">
   <name>FA702-Virginia Beach Airport</name>
+  <desc>Virginia Beach Airport, 1341 Princess Anne Rd, Virginia Beach, VA 23457, USA</desc>
 </wpt>
 <wpt lat="36.6854477" lon="-82.0338821">
   <name>FA703-Virginia Highlands Airport</name>
+  <desc>Virginia Highlands Airport, 18521 Lee Hwy, Abingdon, VA 24210, USA</desc>
 </wpt>
 <wpt lat="38.1558052" lon="-78.1662732">
   <name>FA704-Virginia Municipal Airport</name>
+  <desc>Gordonsville Municipal Airport, 18082 Airport Rd, Gordonsville, VA 22942, USA</desc>
 </wpt>
 <wpt lat="43.5767391" lon="-90.8948027">
   <name>FA705-Viroqua Municipal Airport</name>
+  <desc>Viroqua Municipal Airport, Viroqua, WI 54665, USA</desc>
 </wpt>
 <wpt lat="34.670951" lon="-82.8844062">
   <name>FA706-Walhalla Municipal Airport</name>
+  <desc>Oconee County Regional Airport-CEU, 365 Airport Rd, Seneca, SC 29678, USA</desc>
 </wpt>
 <wpt lat="33.3306414" lon="-104.5069092">
   <name>FA707-Walker Air Force Base</name>
+  <desc>Relief Route, Roswell, NM 88203, USA</desc>
 </wpt>
 <wpt lat="42.3802131" lon="-85.576727">
   <name>FA708-Walker Airport</name>
+  <desc>Walker Airport, 1229 D Ave E, Kalamazoo, MI 49009, USA</desc>
 </wpt>
 <wpt lat="43.9993132" lon="-102.2543476">
   <name>FA709-Wall Municipal Airport</name>
+  <desc>Wall Municipal Airport, Wall, SD 57790, USA</desc>
 </wpt>
 <wpt lat="46.0873172" lon="-118.2844589">
   <name>FA710-Walla Walla Regional Airport</name>
+  <desc>Walla Walla Regional Airport, 45 Terminal Loop, Walla Walla, WA 99362, USA</desc>
 </wpt>
 <wpt lat="40.8328803" lon="-101.1649209">
   <name>FA711-Wallace Municipal Airport</name>
+  <desc>Wallace Muni Airport-64v, 600 S Commercial Ave, Wallace, NE 69169, USA</desc>
 </wpt>
 <wpt lat="32.9216487" lon="-80.6396425">
   <name>FA712-Walterboro Army Airfield</name>
+  <desc>Lowcountry Regional Airport, 537 Aviation Way, Walterboro, SC 29488, USA</desc>
 </wpt>
 <wpt lat="41.2574658" lon="-80.6671886">
   <name>FA713-Warren County Airport</name>
+  <desc>Youngstown-Warren Regional Airport, 1453 Youngstown Kingsville Rd, Vienna, OH 44473, USA</desc>
 </wpt>
 <wpt lat="35.698616" lon="-85.8438967">
   <name>FA714-Warren County Memorial Airport</name>
+  <desc>Warren County Memorial Airport-Rnc, 4637 Old Nashville Hwy, McMinnville, TN 37110, USA</desc>
 </wpt>
 <wpt lat="38.6528439" lon="-77.7877731">
   <name>FA715-Warrenton Air Park</name>
+  <desc>Warrenton Air Park, 9272 Green Meadows Rd, Warrenton, VA 20187, USA</desc>
 </wpt>
 <wpt lat="41.277758" lon="-85.8448719">
   <name>FA716-Warsaw Municipal Airport</name>
+  <desc>Warsaw Municipal Airport-Asw, 3000 Airport Rd, Warsaw, IN 46582, USA</desc>
 </wpt>
 <wpt lat="40.1355845" lon="-80.2887672">
   <name>FA717-Washington County Airport</name>
+  <desc>Washington County Airport, 205 Airport Rd, Washington, PA 15301, USA</desc>
 </wpt>
 <wpt lat="43.9956627" lon="-76.022365">
   <name>FA718-Watertown international Airport</name>
+  <desc>22529 Airport Dr, Dexter, NY 13634, USA</desc>
 </wpt>
 <wpt lat="43.1712951" lon="-88.7279936">
   <name>FA719-Watertown Municipal Airport</name>
+  <desc>Watertown Muni Airport-RYV, 1741 River Dr, Watertown, WI 53094, USA</desc>
 </wpt>
 <wpt lat="44.9213411" lon="-97.1611629">
   <name>FA720-Watertown Regional Airport</name>
+  <desc>2416 Boeing Ave, Watertown, SD 57201, USA</desc>
 </wpt>
 <wpt lat="35.8611936" lon="-98.4194978">
   <name>FA721-Watonga Regional Airport</name>
+  <desc>521 Chisholm Trail, Watonga, OK 73772, USA</desc>
 </wpt>
 <wpt lat="38.676692" lon="-121.869453">
   <name>FA722-Watts Woodland Airport</name>
+  <desc>Watts - Woodland Airport, Inc., 17992 Co Rd 94B, Woodland, CA 95695, USA</desc>
 </wpt>
 <wpt lat="27.5209743" lon="-81.8825587">
   <name>FA723-Wauchula Municipal Airport</name>
+  <desc>1202 Maurice 'Sonny' Clavel Rd, Wauchula, FL 33873, USA</desc>
 </wpt>
 <wpt lat="44.9294627" lon="-89.628243">
   <name>FA724-Wausau Municipal Airport</name>
+  <desc>Wausau Downtown Airport, 725 Woods Pl, Wausau, WI 54403, USA</desc>
 </wpt>
 <wpt lat="31.2497913" lon="-82.3956584">
   <name>FA725-Waycross-Ware County Airport</name>
+  <desc>Waycross-Ware County Airport, 3098 Keen Dr, Waycross, GA 31503, USA</desc>
 </wpt>
 <wpt lat="29.6775991" lon="-91.2941707">
   <name>FA726-Wedell Williams Airport</name>
+  <desc>118 Cotten Rd, Patterson, LA 70392, USA</desc>
 </wpt>
 <wpt lat="41.7272497" lon="-77.3901729">
   <name>FA727-Wellsboro Johnston Airport</name>
+  <desc>Grand Canyon Airport, 112 Runway Rd, Wellsboro, PA 16901, USA</desc>
 </wpt>
 <wpt lat="40.7282075" lon="-114.0375106">
   <name>FA728-Wendover Field</name>
+  <desc>352 East Airport Way, Wendover, UT 84083, USA</desc>
 </wpt>
 <wpt lat="42.795502" lon="-109.807091">
   <name>FA729-Wenz Field</name>
+  <desc>Ralph Wenz Field (PNA), 9357 US-191, Pinedale, WY 82941, USA</desc>
 </wpt>
 <wpt lat="42.7429177" lon="-86.1069265">
   <name>FA730-Western Michigan Regional Airport</name>
+  <desc>West Michigan Regional Airport, 60 Geurink Blvd, Holland, MI 49423, USA</desc>
 </wpt>
 <wpt lat="41.8695184" lon="-103.5934309">
   <name>FA731-Western Nebraska Regional Airport</name>
+  <desc>Western Nebraska Regional Airport, 250023 Airport Rd Suite 10, Scottsbluff, NE 69361, USA</desc>
 </wpt>
 <wpt lat="32.5294446" lon="-86.3282799">
   <name>FA732-Wetumpka Municipal Airport</name>
+  <desc>Wetumpka Municipal Airport, 1285 AL-14, Elmore, AL 36025, USA</desc>
 </wpt>
 <wpt lat="44.2798708" lon="-85.4164283">
   <name>FA733-Wexford County Airport</name>
+  <desc>Wexford County Airport (CAD), 8040 34 Rd, Cadillac, MI 49601, USA</desc>
 </wpt>
 <wpt lat="47.3914641" lon="-102.7720355">
   <name>FA734-Weydahl Field</name>
+  <desc>Dunn County Weydahl Field Airport, ND-22, Killdeer, ND 58640, USA</desc>
 </wpt>
 <wpt lat="32.5646179" lon="-82.9824068">
   <name>FA735-WH Bud Barron Airport</name>
+  <desc>Baron Field Dublin Municipal Airport, Dublin, GA 31021, USA</desc>
 </wpt>
 <wpt lat="29.2551177" lon="-96.1536311">
   <name>FA736-Wharton Regional Airport</name>
+  <desc>Wharton Regional Airport, 714 Robert Vonderau Rd, Wharton, TX 77488, USA</desc>
 </wpt>
 <wpt lat="40.1814632" lon="-80.6473676">
   <name>FA737-Wheeling Ohio County Airport</name>
+  <desc>Wheeling Ohio County HLG, 115 Skyway lane, Wheeling, WV 26003, USA</desc>
 </wpt>
 <wpt lat="32.8398443" lon="-105.9939808">
   <name>FA738-White Sands Regional Airport</name>
+  <desc>Alamogordo White Sands Regional Airport, 3500 Airport Rd, Alamogordo, NM 88310, USA</desc>
 </wpt>
 <wpt lat="41.742168" lon="-89.684042">
   <name>FA739-Whiteside County Airport</name>
+  <desc>Airport Rd, Rock Falls, IL 61071, USA</desc>
 </wpt>
 <wpt lat="36.2597049" lon="-113.231323">
   <name>FA740-Whitmore International Airport</name>
+  <desc>Grand Canyon Bar Ten Airstrip, Littlefield, AZ 86432, USA</desc>
 </wpt>
 <wpt lat="33.9652586" lon="-112.8028511">
   <name>FA741-Wickenburg Municipal Airport</name>
+  <desc>Wickenburg Municipal Airport, 3410 W Wickenburg Way, Wickenburg, AZ 85390, USA</desc>
 </wpt>
 <wpt lat="38.340278" lon="-75.510278">
   <name>FA742-Wicomico Regional Airport</name>
+  <desc>Salisbury Regional Airport, 5485 Airport Terminal Rd a, Salisbury, MD 21804, USA</desc>
 </wpt>
 <wpt lat="34.2253758" lon="-99.2829322">
   <name>FA743-Wilbarger County Airport</name>
+  <desc>Wilbarger County Airport-F05, 12557 Hamp Naylor Dr, Vernon, TX 76384, USA</desc>
 </wpt>
 <wpt lat="34.9169578" lon="-95.3942823">
   <name>FA744-Wilburton Municipal Airport</name>
+  <desc>Airport Rd, Wilburton, OK 74578, USA</desc>
 </wpt>
 <wpt lat="31.5533759" lon="-81.8866425">
   <name>FA745-William A. Zorn Airport</name>
+  <desc>William A. Zorn Airport, 535 Airport Rd, Jesup, GA 31546, USA</desc>
 </wpt>
 <wpt lat="42.891103" lon="-73.246107">
   <name>FA746-William H Morse State Airport</name>
+  <desc>William H Morse State Airport, 1563 Walloomsac Rd, Bennington, VT 05201, USA</desc>
 </wpt>
 <wpt lat="48.1188352" lon="-123.498044">
   <name>FA747-William R Fairchild International Airport</name>
+  <desc>William R Fairchild International Airport, 1402 Fairchild Airport Rd, Port Angeles, WA 98363, USA</desc>
 </wpt>
 <wpt lat="43.2368635" lon="-77.1204845">
   <name>FA748-Williamson-Sodus Airport</name>
+  <desc>Williamson-Sodus Airport-Sdc, 5502 NY-104, Williamson, NY 14589, USA</desc>
 </wpt>
 <wpt lat="35.1755965" lon="-86.0679429">
   <name>FA749-Winchester Municipal Airport</name>
+  <desc>Winchester Municipal Airport (KBGF), 420 Aviation Dr, Winchester, TN 37398, USA</desc>
 </wpt>
 <wpt lat="39.1430075" lon="-78.1475246">
   <name>FA750-Winchester Regional Airport</name>
+  <desc>Winchester Regional Airport (OKV), 491 Airport Rd, Winchester, VA 22602, USA</desc>
 </wpt>
 <wpt lat="35.6597284" lon="-109.0589618">
   <name>FA751-Window Rock Airport</name>
+  <desc>Window Rock Airport, W, 008-068 Beacon Rd, Window Rock, AZ 86515, USA</desc>
 </wpt>
 <wpt lat="40.9040118" lon="-117.803852">
   <name>FA752-Winnemucca Municipal Airport</name>
+  <desc>Winnemucca Municipal Airport, W Jays Rd, Winnemucca, NV 89445, USA</desc>
 </wpt>
 <wpt lat="35.0241873" lon="-110.6973571">
   <name>FA753-Winslow Air Tanker Base</name>
+  <desc>102 E 3rd St, Winslow, AZ 86047, USA</desc>
 </wpt>
 <wpt lat="32.7008334" lon="-100.9470087">
   <name>FA754-Winston Field</name>
+  <desc>Winston Field-SNK, 2757 Round Rock Ave, Snyder, TX 79549, USA</desc>
 </wpt>
 <wpt lat="32.6731126" lon="-95.5103113">
   <name>FA755-Wisener Field</name>
+  <desc>Mineola Wisener Field-3F9, 1412 Country Club Dr, Mineola, TX 75773, USA</desc>
 </wpt>
 <wpt lat="42.298663" lon="-85.2578135">
   <name>FA756-WK Kellogg Airport</name>
+  <desc>W.K. Kellogg Airport, 15551 S Airport Rd, Battle Creek, MI 49015, USA</desc>
 </wpt>
 <wpt lat="36.7097086" lon="-78.8491773">
   <name>FA757-Wm. M. Tuck Airport</name>
+  <desc>William M Tuck Airport-W78, 1145 Tuck Airport Rd, South Boston, VA 24592, USA</desc>
 </wpt>
 <wpt lat="48.2126774" lon="-106.6162633">
   <name>FA758-Wokal Field</name>
+  <desc>Glasgow Valley County Airport, 89 Airport Rd, Glasgow, MT 59230, USA</desc>
 </wpt>
 <wpt lat="41.3859157" lon="-83.6355462">
   <name>FA759-Wood County Regional Airport</name>
+  <desc>Wood County Regional Airport, 1261 E Poe Rd, Bowling Green, OH 43402, USA</desc>
 </wpt>
 <wpt lat="39.2185397" lon="-74.7944926">
   <name>FA760-Woodbine Airport</name>
+  <desc>Woodbine Municipal Airport, 660 Henry Decinque Blvd, Woodbine, NJ 08270, USA</desc>
 </wpt>
 <wpt lat="41.9214863" lon="-71.9528508">
   <name>FA761-Woodstock Airport</name>
+  <desc>Woodstock Airport-64CT, 91 CT-169, Woodstock, CT 06281, USA</desc>
 </wpt>
 <wpt lat="39.5934598" lon="-84.2280854">
   <name>FA762-Wright Brothers Airport</name>
+  <desc>Dayton Wright Brothers Airport (KMGY), 10550 N Springboro Pike, Miamisburg, OH 45342, USA</desc>
 </wpt>
 <wpt lat="41.5978831" lon="-74.4605631">
   <name>FA763-Wurtsboro Airport</name>
+  <desc>Wurtsboro Airport, 50 Barone Rd, Wurtsboro, NY 12790, USA</desc>
 </wpt>
 <wpt lat="40.4814042" lon="-107.2166138">
   <name>FA764-Yampa Valley Regional Airport</name>
+  <desc>Yampa Valley Regional Airport, 11005 Co Rd 51A, Hayden, CO 81639, USA</desc>
 </wpt>
 <wpt lat="42.6411135" lon="-77.0557397">
   <name>FA765-Yates County Airport</name>
+  <desc>Penn Yan Regional Airport, 2262 Airport Dr, Penn Yan, NY 14527, USA</desc>
 </wpt>
 <wpt lat="44.6867178" lon="-111.1145613">
   <name>FA766-Yellowstone Airport</name>
+  <desc>Yellowstone Airport, 721 Airport Rd, West Yellowstone, MT 59758, USA</desc>
 </wpt>
 <wpt lat="44.520442" lon="-109.0225794">
   <name>FA767-Yellowstone Regional Airport</name>
+  <desc>Yellowstone Regional Airport, 2101 Roger Sedam Drive, Cody, WY 82414, USA</desc>
 </wpt>
 <wpt lat="38.9976093" lon="-119.160035">
   <name>FA768-Yerington Municipal Airport</name>
+  <desc>Yerington Airport, 40 Airport Way, Yerington, NV 89447, USA</desc>
 </wpt>
 <wpt lat="38.579004" lon="-121.8552845">
   <name>FA769-Yolo County Airport</name>
+  <desc>Yolo County Airport, 25170 Aviation Ave, Davis, CA 95616, USA</desc>
 </wpt>
 <wpt lat="39.9232727" lon="-76.8775606">
   <name>FA770-York Airport</name>
+  <desc>York Aviation | York Airport, 6054 W Lincoln Hwy, Thomasville, PA 17364, USA</desc>
 </wpt>
 <wpt lat="34.987124" lon="-81.0582042">
   <name>FA771-York County Airport</name>
+  <desc>Rock Hill - York County Airport, 550 Airport Rd, Rock Hill, SC 29732, USA</desc>
 </wpt>
 <wpt lat="40.896389" lon="-97.624168">
   <name>FA772-York Municipal Airport</name>
+  <desc>York Municipal Airport, 1112 US-34, York, NE 68467, USA</desc>
 </wpt>
 <wpt lat="36.7758493" lon="-119.7181083">
   <name>FA773-Yosemite International Airport</name>
+  <desc>Fresno Yosemite International Airport (FAT), 5175 E Clinton Way, Fresno, CA 93727, USA</desc>
 </wpt>
 <wpt lat="39.0967457" lon="-121.5695571">
   <name>FA774-Yuba County Airport</name>
+  <desc>Yuba County Airport, 1364 Sky Harbor Dr, Olivehurst, CA 95961, USA</desc>
 </wpt>
 <wpt lat="32.6685512" lon="-114.5991383">
   <name>FA775-Yuma International Airport</name>
+  <desc>Yuma International Airport (YUM), 2191 E 32nd St #218, Yuma, AZ 85365, USA</desc>
 </wpt>
 </gpx>
