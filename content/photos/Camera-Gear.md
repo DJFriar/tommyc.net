@@ -1,6 +1,6 @@
 ---
 title: "Camera Gear"
-date: 2018-07-23T09:39:00-07:00
+date: 2020-01-30T20:30:00-06:00
 draft: false
 ---
 
@@ -8,6 +8,7 @@ draft: false
 
 - Fujifilm X-T1
 - Fujifilm STX-2 (35mm)
+- Argus C3 (35mm)
 - iPhone 11 Pro
 
 #### Lenses
@@ -22,3 +23,4 @@ draft: false
 - Fotodiox Fuji X-Mount to Fujica X (yes, they are different)
 - Fotodiox Fuji X-Mount to M42 (screw mount)
 - Fotodiox Fuji X-Mount to Nikon F (my eldest daughter currently has a Nikon)
+- Fotasy Fuji X-Mount to Olympus OM

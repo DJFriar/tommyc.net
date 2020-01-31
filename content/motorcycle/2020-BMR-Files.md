@@ -8,12 +8,12 @@ The 2020 BMR is upon us!! Last year I shared some documents I made, and this yea
 
 |Document Name|Provided By|Date Last Updated|
 |---|---|---|
-|[3-Day Rally (DR)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |15 Dec 2109 |
+|[3-Day Rally (DR)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |29 Dec 2109 |
 |[Airports (AF/FA)](/bmr/2020_BMR_AF-FA.gpx)*  |Jerry White  |27 Dec 2019 |
-|[Past Winners (PW)](/bmr/2020_BMR_PW.gpx)  |Tommy Craft  |25 Dec 2019 |
-|[Big City, Small Town (CT)](/bmr/2020_BMR_CT.gpx)  |Tommy Craft  |26 Dec 2019 |
-|[Route 66 (SS)](/bmr/2020_BMR_SS.gpx)  |Tommy Craft  |27 Dec 2019 |
-|[Cathedrals (CD)](/bmr/2020_BMR_CD.gpx)  |Tommy Craft  |27 Dec 2019 |
+|[Past Winners (PW)](/bmr/2020_BMR_PW.gpx)  |Tommy Craft  |29 Dec 2019 |
+|[Big City, Small Town (CT)](/bmr/2020_BMR_CT.gpx)  |Tommy Craft  |29 Dec 2019 |
+|[Route 66 (SS)](/bmr/2020_BMR_SS.gpx)  |Tommy Craft  |29 Dec 2019 |
+|[Cathedrals (CD)](/bmr/2020_BMR_CD.gpx)  |Tommy Craft  |29 Dec 2019 |
 
 *Please note that the Airports one was programatically generated via a script and therefore is not 100% accurate. Also note that this a word match: the picture you submit does not have to be an airport, an athletic field or other permanent signage is perfectly acceptable.
 
