@@ -2,9 +2,20 @@
 title: "My Riding Resume"
 date: 2020-01-29T23:14:25-06:00
 ---
-I haven't been riding long distance for very long yet, but I have started to collect some rally finishes and IBA certificates. Below are a list of my rides so far.
 
-#### IBA Rides
+## Planned Rides
+
+Here are some of my planned rides for 2020:
+
+- 2020 Big Money Rally (BMR) - January 1st - May 31st.
+- 2020 Tour of Honor (TOH) - April 1st - October 31st.
+- How the West Was Won (HW3) - August 14th - 16th.
+
+## Completed Rides
+
+I haven't been riding long distance for very long yet, but I have started to collect some rally finishes and IBA certificates. Below are a list of my completed rides so far.
+
+### IBA Rides
 
 - SantaSore 1000 - Demeber 2019 (Pending Verification)
 - BunBurner 1500 Silver - December 2019
@@ -14,7 +25,7 @@ I haven't been riding long distance for very long yet, but I have started to col
 - BunBurner 1500 Silver - June 2019
 - SaddleSore 1000 - June 2019
 
-#### Misc Rallies
+### Misc Rallies
 
 - Lobo Locos Day Off (October 2019) - 3rd Overall
 - Hammy's Tipsy Goat (September 2019) - 1st Overall
