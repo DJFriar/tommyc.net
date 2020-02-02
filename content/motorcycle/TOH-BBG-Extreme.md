@@ -131,6 +131,6 @@ From here on to home, it was just interstate flatlands. I alternated between my 
 
 ### Closing Thoughts
 
-In the end, I had covered 1,548 miles in 33 hours, 42 minutes while collecting all seven Touf of Honor bonuses in California. More importantly, I had ridden what is probably the most beautioful road I've ridden yet (US-395), pushed myself a bit futher than I had before, and had a terrific time.
+In the end, I had covered 1,548 miles in 33 hours, 42 minutes while collecting all seven Tour of Honor bonuses in California. More importantly, I had ridden what is probably the most beautiful road I've ridden yet (US-395), pushed myself a bit futher than I had before, and had a terrific time.
 
 Now to look at Arizona and Nevada and see if there's a route there I might be able to tackle before the season is over.
