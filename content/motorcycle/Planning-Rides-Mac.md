@@ -1,7 +1,7 @@
 ---
 title: "How I Plan My Rides (macOS)"
 date: 2020-02-07T23:14:25-06:00
-draft: false
+draft: true
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD026 -->
@@ -27,6 +27,5 @@ The two main things I plan for today are IBA certified rides or Big Money Rally 
 1. Create the rough route in Road Trip Planner
 1. Shape and add/or add bonuses as needed
 1. Save the RTP file to iCloud
-1. 
 
 This lets me get a quick overview and rough time estimate of my route.

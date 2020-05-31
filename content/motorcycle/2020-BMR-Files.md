@@ -1,6 +1,6 @@
 ---
 title: "2020 Big Money Rally - Support Files"
-date: 2020-02-02T13:11:25-06:00
+date: 2020-05-30T11:37:25-06:00
 ---
 The 2020 BMR is upon us!! Last year I shared some documents I made, and this year a few people have graciously offered their own support documents and asked me to host them. So below you will find all the various documents that have been shared with me and/or created by me.
 
@@ -8,7 +8,9 @@ The 2020 BMR is upon us!! Last year I shared some documents I made, and this yea
 
 |Document Name|Provided By|Date Last Updated|
 |---|---|---|
-|[3-Day Rally (DR)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |29 Dec 2109 |
+|[3-Day Rally (DR, Phase 2)](/bmr/2020_BMR_DR2.gpx)  |James Jackson  |30 May 2020 |
+|[Scenic Byways (SB)](/bmr/2020_BMR_SB.gpx)  |James Jackson  |30 May 2020 |
+|[3-Day Rally (DR, Phase 1)](/bmr/2020_BMR_DR.gpx)  |Tommy Craft  |29 Dec 2019 |
 |[Airfields (AF)](/bmr/2020_BMR_AF.gpx)*  |Jerry White  |27 Dec 2019 |
 |[Airports (FA)](/bmr/2020_BMR_FA.gpx)*  |Jerry White  |27 Dec 2019 |
 |[Airports (AF/FA)](/bmr/2020_BMR_AF-FA.gpx)**  |Jerry White  |27 Dec 2019 |

@@ -1,7 +1,7 @@
 ---
 title: "How I Track My Rides (iOS/macOS)"
 date: 2020-02-07T23:18:25-06:00
-draft: false
+draft: true
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD026 -->
@@ -48,4 +48,4 @@ If I'm on an IBA ride, I will start by getting a receipt from the fuel pump/stat
 
 ### Bonus Stop (BMR)
 
-When I stop for a bonus stop, 
+When I stop for a bonus stop,
