@@ -1,5 +1,5 @@
 ---
-title: "Resume for Tommy Craft"
+title: "Resume & Portfolio for Tommy Craft"
 date: 2020-11-20T19:16:00-07:00
 draft: false
 ---
@@ -26,15 +26,19 @@ medQ is the creator and seller of a radiology management software suite. My role
 
 The Tour of Honor is an annual motorcycle rally running from April 1st through October 31st that honors veterans and first responders. As a volunteer contributor, my mobile applications are the official apps for the rally and facilitate easier, more orderly bonus submission by the riders, as well as glanceable, offline access to the rally data for the riders. I am also leading an overhaul of their website that will eliminate the email based submission methods that are employed today; this project is targeted for an early 2022 launch.
 
-[iOS Source Code](https://github.com/DJFriar/iTOH-2)
-[Android Source Code](https://github.com/DJFriar/aTOH-2)
+| Platform | Source Code                                              | App Store Link                                                                                     |
+| -------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| iOS      | [iOS Source Code](https://github.com/DJFriar/iTOH-2)     | [Apple App Store](https://apps.apple.com/us/app/id1502873246)                                      |
+| Android  | [Android Source Code](https://github.com/DJFriar/aTOH-2) | [Google Play Store](https://play.google.com/store/apps/details?id=net.tommyc.android.tourofhonor2) |
 
 ### Full Stack Web Developer Boot Camp at SMU Cox
 
 I am currently enrolled in SMU Cox's Full Stack Web Developer Boot Camp where I have maintained a 4.0 GPA with an expected graduation date of March 24th, 2021. As our world becomes increasingly reliant upon SaaS style systems, I felt it important to ensure that I was skilled and comfortable not only with app level code, but also the front end and back end of the web sites that will service them. This course is built upon JavaScript, with a direct focus on jQuery, Node.js, and React.
 
-[Code Quiz](https://github.com/DJFriar/SMU-Homework-04-Code-Quiz)
-[Password Generator](https://github.com/DJFriar/SMU-Homework-03-Password-Generator)
+| Work Example       | Source Code                                                                                | Deployed Site                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Code Quiz          | [Code Quiz Source](https://github.com/DJFriar/SMU-Homework-04-Code-Quiz)                   | [Code Quiz](https://djfriar.github.io/SMU-Homework-04-Code-Quiz/)                   |
+| Password Generator | [Password Generator Source](https://github.com/DJFriar/SMU-Homework-03-Password-Generator) | [Password Generator](https://djfriar.github.io/SMU-Homework-03-Password-Generator/) |
 
 ## Contact Info
 
