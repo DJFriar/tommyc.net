@@ -1,5 +1,5 @@
 ---
-title: "Resume & Portfolio for Tommy Craft"
+title: "Resume & Portfolio"
 date: 2020-11-20T19:16:00-07:00
 draft: false
 ---
@@ -42,4 +42,4 @@ I am currently enrolled in SMU Cox's Full Stack Web Developer Boot Camp where I 
 
 ## Contact Info
 
-tomccraft@gmail.com
+[Email](mailto:tomccraft@gmail.com) | [GitHub](https://github.com/djfriar) | [LinkedIn](https://www.linkedin.com/in/djfriar/)
