@@ -1,15 +1,16 @@
 ---
 title: "Camera Gear"
-date: 2020-01-30T20:30:00-06:00
+date: 2020-10-29T21:37:00-07:00
 draft: false
 ---
 
 #### Camera Bodies
 
 - Fujifilm X-T1
+- Fujifilm X100F
 - Fujifilm STX-2 (35mm)
 - Argus C3 (35mm)
-- iPhone 11 Pro
+- iPhone 12 Pro Max
 
 #### Lenses
 

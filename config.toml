@@ -5,6 +5,10 @@ publishDir = "/Users/tommy/Sites/-Prod/tommyc.net"
 title = "Tommy Craft"
 theme = "Crafted"
 googleAnalytics = "UA-148917441-1"
+pluralizelisttitles = false
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [author]
   name = "Tommy Craft"
@@ -28,22 +32,22 @@ googleAnalytics = "UA-148917441-1"
 
   #Social Icons
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/djfriar"
-
+    name = "github"
+    url = "https://github.com/djfriar"
+  
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/djfriar"
-
+  
   [[params.social]]
-    name = "github"
-    url = "https://github.com/djfriar"
+    name = "instagram"
+    url = "https://instagram.com/djfriar"
 
 [menu]
 
   [[menu.main]]
-    name = "Motorcycling"
-    url = "motorcycle/"
+    name = "About Me"
+    url = "about/"
     weight = 10
 
   [[menu.main]]
@@ -52,13 +56,19 @@ googleAnalytics = "UA-148917441-1"
     weight = 20
 
   [[menu.main]]
+    name = "Motorcycling"
+    url = "motorcycling/"
+    weight = 30
+
+  [[menu.main]]
     name = "Photography"
     url = "photos/"
-    weight = 30
+    weight = 40
 
   [[menu.main]]
     name = "Potpourri"
     url = "posts/"
     subName = "What I Shoot"
     subURL = "photos/Camera-Gear"
-    weight = 40
+    weight = 50
+    
