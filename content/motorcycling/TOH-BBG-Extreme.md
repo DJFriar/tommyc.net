@@ -15,7 +15,7 @@ My planned route took me east out of Santa Barbara to Mojave where I'd turn nort
 
 <img class='ridelog-image' src='/images/toh_bbg/0-Start.jpeg'>
 
-6:50am, let's get this show on the road. WIth a full tank of gas I'm outta here. South on 101 to eastbound 126 went super smooth with hardly any traffic. Next was supposed to be south on I-5 to 14 West, but the offramp to I-5 south was closed. A quick glance at the map made these seem like a straightforward detour, just stay on 126 and then take a side street to the 14. However the GPS had a totally different idea, and wanted me to head through the Newhall Ranch neighborhood and then onto San Francisquito Road. I decided to see what the GPS had in mind, and it turned out to be a fantastic road. A moderatly twisty canyon road with hardly any traffic, score! This road took me through Green Valley and eventually through Lancaster where I joined the 14 and headed north into Mojave.
+6:50am, let's get this show on the road. With a full tank of gas I'm outta here. South on 101 to eastbound 126 went super smooth with hardly any traffic. Next was supposed to be south on I-5 to 14 West, but the offramp to I-5 south was closed. A quick glance at the map made these seem like a straightforward detour, just stay on 126 and then take a side street to the 14. However the GPS had a totally different idea, and wanted me to head through the Newhall Ranch neighborhood and then onto San Francisquito Road. I decided to see what the GPS had in mind, and it turned out to be a fantastic road. A moderatly twisty canyon road with hardly any traffic, score! This road took me through Green Valley and eventually through Lancaster where I joined the 14 and headed north into Mojave.
   
 ### Mojave to Big Pine
 
